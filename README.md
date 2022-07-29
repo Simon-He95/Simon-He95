@@ -13,9 +13,9 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Simon-He95" alt="访客统计" /></div>
 
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<a href="https://github.com/Simon-He95/simon-js-tool">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
+<a href="https://github.com/Simon-He95/n-puzzle">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=n-puzzle&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
