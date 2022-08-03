@@ -16,9 +16,9 @@
 :heart: Recommend
 <div align="center">
 <a href="https://github.com/Simon-He95/simon-js-tool">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/Simon-He95/tiny-tinify-compress">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=tiny-tinify-compress&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=tiny-tinify-compress&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 🧰 Tools:
 
