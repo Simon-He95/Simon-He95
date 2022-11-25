@@ -23,6 +23,10 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon.me&theme=dark&bg_color=0d1117&hide_border=true" /></a>
     <a href="https://github.com/Simon-He95/browser-compress-image">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=browser-compress-image&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+      <a href="https://github.com/Simon-He95/pi">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=pi&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+      <a href="https://github.com/Simon-He95/ccommand">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=ccommand&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 🧰 Tools:
 
