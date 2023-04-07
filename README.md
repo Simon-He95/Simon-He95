@@ -1,22 +1,25 @@
-## Hi there 👋
 <h1 align="center"> <a href="https://www.hejian.club/"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> </a> </h1>
+
+<p align="center">
+<img src="./code.gif" width=480 />
+</p>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://www.hejian.club/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://simonme.netlify.app/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/simon_he1995"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://studio.youtube.com/channel/UCDy6u1feDz3HVNB_JJ17H4w"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/413596956"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/zka0cr"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;  
   <a href="https://juejin.cn/user/4319334608151533"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue"></a>&emsp;
-  <a href="[https://.cn/user/4319334608151533](https://www.npmjs.com/~simon_he)"><img src="https://img.shields.io/badge/npm-%E6%8E%98%E9%87%91-c32136"></a>&emsp;
+  <a href="https://www.npmjs.com/~simon_he"><img src="https://img.shields.io/badge/npm-%E6%8E%98%E9%87%91-c32136"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Simon-He95" alt="访客统计" /></div>
 
 :heart: Recommend
 <div align="center">
 <a href="https://github.com/Simon-He95/simon-js-tool">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/Simon-He95/tiny-tinify-compress">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=tiny-tinify-compress&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/Simon-He95/simon.me">
