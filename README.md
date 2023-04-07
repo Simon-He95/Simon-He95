@@ -4,6 +4,8 @@
 <img src="./code.gif" width=480 />
 </p>
 
+![img](./profile-3d-contrib/profile-south-season-animate.svg)
+
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://simonme.netlify.app/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
@@ -35,6 +37,9 @@
    <a href="https://github.com/Simon-He95/transformToUnocss">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=transformToUnocss&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+
+![img](./profile-snake-contrib/github-contribution-grid-snake.svg)
+
 🧰 Tools:
 
 &emsp;&emsp; 
