@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td width="50%">
-         <img src="https://metrics.lecoq.io/Simon-He95?template=classic&config.timezone=Asia%2FShanghai">
+         <img src="./github-metrics.svg">
     </td>
     <td width="50%">
      <img src="https://github-profile-trophy.vercel.app/?username=Simon-He95" />
