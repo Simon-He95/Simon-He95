@@ -42,5 +42,5 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_tweets: yes
-          plugin_tweets_limit: 2
+          plugin_tweets_limit: 5
           plugin_tweets_user: .simon_he1995.twitter
