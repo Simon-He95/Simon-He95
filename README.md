@@ -16,7 +16,8 @@
   <a href="https://juejin.cn/user/4319334608151533"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue"></a>&emsp;
   <a href="https://www.npmjs.com/~simon_he"><img src="https://img.shields.io/badge/npm-%E6%8E%98%E9%87%91-c32136"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Simon-He95" alt="访客统计" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Simon-He95" alt="访客统计" />
+ </div>
 
 :heart: Recommend
 <div align="center">
@@ -38,8 +39,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=transformToUnocss&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-![img](./profile-snake-contrib/github-contribution-grid-snake.svg)
-
+<img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
 🧰 Tools:
 
 &emsp;&emsp; 
@@ -63,17 +63,19 @@
 </div>
 
 <!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 <table align="center">
   <tr>
     <td width="50%">
-     <img src="./github-metrics.svg">
+     <img width="100%" src="./github-metrics.svg">
     </td>
     <td width="50%">
+     <img width="100%" src="./github-metrics/achievements.compact.svg" />
+     <img width="100%" src="./github-metrics/languages.indepth.svg" />
+     <img width="100%" src="./github-metrics/stars.svg" />
      <img src="https://github-profile-trophy.vercel.app/?username=Simon-He95" />
-      <img height="84px" src="https://github-readme-stats.vercel.app/api?username=Simon-He95&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="84px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-He95" />
+     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Simon-He95&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-He95" />
 </div>
     </td>
   </tr>
@@ -83,22 +85,15 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Simon-He95&bg_color=231f21&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Simon-He95&bg_color=231f21&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="50%"/><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="50%"/>
+</div>
 
 ### 为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪
 [Buy me a cup of coffee](https://github.com/Simon-He95/sponsor)
