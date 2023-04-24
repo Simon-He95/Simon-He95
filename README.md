@@ -73,7 +73,7 @@
      <img width="100%" src="./github-metrics/achievements.compact.svg" />
      <img width="100%" src="./github-metrics/languages.indepth.svg" />
      <img width="100%" src="./github-metrics/stars.svg" />
-     <img src="https://github-profile-trophy.vercel.app/?username=Simon-He95" />
+     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Simon-He95" />
      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Simon-He95&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-He95" />
 </div>
