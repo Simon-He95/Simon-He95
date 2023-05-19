@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="951" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1237" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -302,6 +302,319 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">Simon-He95/tailwindcss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dce8280</div>
+                                        <div class="message">[Oxide] Automatic content detection (#11173)
+
+* resolve all _existing_ content paths
+
+* pin `@napi-rs/cli`
+
+* WIP: Log all resolved content files/globs
+
+* only filter out raw changed content in non-auto mode
+
+* skip parseCandidateFiles cache in `auto` mode
+
+* improve algorithm of detecting content paths
+
+1. Files in the root should be listed statically instead of using globs.
+2. Files and folders in special known direct child folders should be
+   listed statically instead of using globs (e.g.: `public`). This is
+   because these special folders are often used to store generated AND
+   source files at the same time. Using globs could trigger infinite
+   loops because we are watching and acting upon dist files.
+3. All file extensions found in the project, should be used in the globs
+   in addition to a known set of extensions.
+4. Direct folders seen from the root, can use the glob syntax
+   `&lt;root&gt;/src/**/*.{...known-extensions}`
+
+* inline wanted-extensions
+
+Not 100% convinced yet, but seems cleaner so far.
+
+* ensure writing an file also makes the parent folder(s)
+
+* add integration tests for the auto content feature
+
+* add pnpm and bun lock files
+
+* Revert "inline wanted-extensions"
+
+This reverts commit 879c1248524e84216125f4a24e0160b40736333a.
+
+* sort binary-extensions and add lockb
+
+* sort + add `lock` to ignored extensions
+
+* drop `yarn.lock`, because lock extensions are already covered
+
+* group template extensions
+
+This will make it a bit easier to organize in the future.
+
+* drop empty lines and commented lines from template-extensions
+
+* skip the config path when resolving template files
+
+The config file will automatically trigger a rebuild when this file is
+changed. However, this should not be part of the template files because
+that could cause additional css that's not being used.
+
+* make `auto content` the default in the oxide engine
+
+- In the oxide engine, the default `content: []` will be dropped from
+  the default configuration (config.simple.js, config.full.js).
+- If you have `content: []` or `content: { files: [] }` then the auto
+  content feature won't be active. However if those arrays are empty a
+  warning will still be shown. Adding files/globs or dropping the
+  `content` section completely will enable auto content.
+
+* only test the auto content integration test in the oxide engine
+
+* set `content.files` to `auto` instead of using `auto: boolean`
+
+This way we don't run into the issue where the `config.content.files` is
+set and the `config.content.auto` is set to true.
+
+* drop log
+
+* ensure we validate the config in the CLI
+
+* show experimental warning for automatic content detection
+
+* use cached version of the getCandidateFiles instead of bypassing it
+
+* use `is_empty()` shorthand
+
+Thanks, Clippy!
+
+* add test to ensure nested ignored folders are not scanned
+
+* add `tempfile` for tests
+
+* add auto content tests in Rust
+
+* refactor auto content detection
+
+This will also make sure that if we have (deeply) nested ignored
+folders, then we won't use deeply nested globs (**/*.{js,html}) for the
+parent(s) of the nested ignored folders but instead use a shallow glob
+for each directory (*/*.{js,html}).
+
+Then each sibling directory of the parent can use deeply nested globs
+again except for the direct parent.
+
+* use consistent comments
+
+* ensure ignored static listed files are not present
+
+* improve performance by ~30x
+
+On a big test project this goes from ~6s to ~200ms
+
+* improve performance by ~5x
+
+We started with a ~6s duration
+Then in the previous commit, we improved it by ~30x and it went down to
+~200ms
+Now with this change, it takes about ~40ms. That's another ~5x
+improvement.
+
+Or in total a ~150x improvement.
+
+* ensure nested folders in `public/` are also explicitly listed
+
+* add shortcut for normalizing files
+
+This is only called once so won't do anything to the main performance of
+Tailwind CSS. But always nice to make small performance improvements!
+
+* run Rust tests in CI
+
+* fix lint warnings
+
+* update changelog
+
+* Update CHANGELOG.md
+
+---------
+
+Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80415ec</div>
+                                        <div class="message">Support `@import "tailwindcss"` using top-level `index.css` file (#11205)
+
+* make `@import "tailwindcss"` work out of the box
+
+* update changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae5d746</div>
+                                        <div class="message">Update sass to version 1.62.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8af8e0d</div>
+                                        <div class="message">Update cssnano to version 6.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e01581</div>
+                                        <div class="message">Update postcss-selector-parser to version 6.0.12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b6047d</div>
+                                        <div class="message">Update vite to version 4.3.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9799e88</div>
+                                        <div class="message">Update @swc/core to version 1.3.56</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4314c0</div>
+                                        <div class="message">use older version of centos/nodejs-12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3309d3f</div>
+                                        <div class="message">[oxide] Expose experimental Rust parser setup (#11116)
+
+* make `sequential` and `parallel` version of a new (tmp) `parse_candidate_strings`
+
+* use bitmasks for the strategy
+
+Only sending a number over the wire instead of a serialized objects.
+
+* use cleaner match syntax</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#225a3fa</div>
+                                        <div class="message">Update resolve to version 1.22.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71205d8</div>
+                                        <div class="message">Revert "Update CODE_OF_CONDUCT.md (#10999)"
+
+This reverts commit ba5454543e74a6d702ce11b410d27672c2ee4b3f.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8506be</div>
+                                        <div class="message">Update CODE_OF_CONDUCT.md (#10999)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dbb59c</div>
+                                        <div class="message">Revert prepare of v3.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#251cc37</div>
+                                        <div class="message">Ensure `repeating-conic-gradient` is detected as an image (#11180)
+
+* ensure `repeating-conic-gradient` is detected as an image
+
+* update changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#960cb40</div>
+                                        <div class="message">Fix parsing of `theme()` inside `calc()` when there are no spaces around operators (#11157)
+
+* Refactor
+
+* Don’t resolve functions for anything not using theme or screen
+
+* Normalize math operators inside calc when handling functions
+
+* Inline postcss-value-parser
+
+* Treat all functions the same as calc
+
+* Remove workaround for calc + operators without spaces
+
+* Remove `postcss-value-parser` dependency
+
+* Update lockfile
+
+* Update sourcemaps
+
+* Update changelog
+
+* Update `value-parser` formatting
+
+* Stop prettier from complaining</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cdca9cb</div>
+                                        <div class="message">Update preflight.css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a57bad</div>
+                                        <div class="message">Update changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7b3fe8d</div>
+                                        <div class="message">Reset dialog element styles (#11069)
+
+* disable useragent styling for dialog
+
+* nits
+
+* Update src/css/preflight.css
+
+* Simplify dialog reset
+
+We don’t want to reset everything here. Just the padding should be enough.
+
+* Update test
+
+---------
+
+Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;
+Co-authored-by: Jordan Pittman &lt;jordan@cryptica.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f74b14</div>
+                                        <div class="message">Add `aria-busy` utility (#10966)
+
+* Add aria-busy variant
+
+This is useful to show a spinner or dim a region that is updating.
+
+Very useful in conjunction with [Turbo](https://turbo.hotwired.dev/reference/attributes#automatically-added-attributes)
+
+* update changelog
+
+---------
+
+Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f1a6fa</div>
+                                        <div class="message">Make font settings propagate into buttons, inputs, etc. (#10940)
+
+* Make font settings propagate into buttons, inputs, etc.
+
+* update source-maps test due to preflight change
+
+* update changelog
+
+---------
+
+Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -372,30 +685,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#182836 feature: support double Activity Bars.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Simon-He95 in <span class="repo">microsoft/vscode</span></div>
-                                    <div class="comment">oh my god, that's what I want！
-This solved my problem, I will close this issue, thank you again。</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 May 2023, 22:13:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 May 2023, 23:15:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
