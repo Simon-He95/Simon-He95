@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="974" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1291" class="">
     <defs>
         <style/>
     </defs>
@@ -305,6 +305,130 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 75 commits in
+                                        <span class="repo">Simon-He95/varlet</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6055b4</div>
+                                        <div class="message">refactor: improve props defination</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#803df55</div>
+                                        <div class="message">refactor: improve props defination</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c84dc6c</div>
+                                        <div class="message">refactor: simplify props definition and optimize types (#1162)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b452a40</div>
+                                        <div class="message">refactor: simplify props definition and optimize types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18763f6</div>
+                                        <div class="message">refactor: simplify props definition and optimize types (#1160)
+
+* refactor: simplify rate and result props definition and optimize types
+
+* refactor: optimize types
+
+---------
+
+Co-authored-by: binbin &lt;binbin@MacBook-Pro.local&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6957060</div>
+                                        <div class="message">refactor: simplify props definition and optimize types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba02d05</div>
+                                        <div class="message">style: clean code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6ab85e</div>
+                                        <div class="message">style: clean code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bbb8bb</div>
+                                        <div class="message">style: clean code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#715193b</div>
+                                        <div class="message">style: clean</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7558cf4</div>
+                                        <div class="message">refactor: refactor by useVModel</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41cd712</div>
+                                        <div class="message">feat(checkbox): support indeterminate prop and slot (#1159)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9b939f</div>
+                                        <div class="message">refactor(swipe): remove async and raf</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1788fd4</div>
+                                        <div class="message">fix(swipe): fix swipe occasionally cross the boundary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fc99c9</div>
+                                        <div class="message">refactor(image-preview): clean</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d94a831</div>
+                                        <div class="message">refactor(image-preview): add endTouch call</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9295ea6</div>
+                                        <div class="message">test: clean</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#052a977</div>
+                                        <div class="message">refactor(swipe): refactor by useTouch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dedc52</div>
+                                        <div class="message">style: clean code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e319ec</div>
+                                        <div class="message">refactor(image-preview): refactor by useTouch (#1158)
+
+* refactor: refactor by useTouch
+
+* refactor: optimize code
+
+* refactor: optimize code
+
+* refactor: optimize code
+
+* test: update test case
+
+* fix: change import path about varlet/use
+
+* refactor: optimize code
+
+* refactor: optimize code
+
+---------
+
+Co-authored-by: binbin &lt;binbin@MacBook-Pro.local&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Simon-He95/ant-design</span>
                                     </div>
@@ -378,32 +502,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">vscode-use/createwebview</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e1ceab3</div>
-                                        <div class="message">fix: repo url</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2023, 20:28:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Sept 2023, 21:19:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
