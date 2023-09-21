@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1221" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="904" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4281 Commits
+                            4283 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -307,6 +307,62 @@
                                     <div class="content">
                                         Created new
                       tag
+                                        <span class="code">v0.0.61</span>
+                                        in
+                                        <span class="repo">Simon-He95/vscode-tailwind-magic</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-tailwind-magic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9e0f44e</div>
+                                        <div class="message">chore: release v0.0.61</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-tailwind-magic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6573f15</div>
+                                        <div class="message">fix: hcalc(100vh-104px) &amp; add test</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
                                         <span class="code">v0.0.58</span>
                                         in
                                         <span class="repo">Simon-He95/vscode-common-intellisense</span>
@@ -334,154 +390,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aace2ca</div>
-                                        <div class="message">feat: support primevue</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 51 commits in
-                                        <span class="repo">Simon-He95/primevue</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2ff4257</div>
-                                        <div class="message">Fix buttonset styling when only a single button is present.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98afeac</div>
-                                        <div class="message">Remove unused styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ff9196</div>
-                                        <div class="message">Update Textarea.vue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff09b40</div>
-                                        <div class="message">Merge pull request #4464 from primefaces/issue-4269
-
-Textarea autoResize issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4461a6</div>
-                                        <div class="message">Merge branch 'prod'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7ca16c</div>
-                                        <div class="message">TabMenu and Steps production demo fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4662a7</div>
-                                        <div class="message">TabMenu router demo fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f3d582</div>
-                                        <div class="message">Merge branch 'prod'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e18c87</div>
-                                        <div class="message">Menubar router demo fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d69dbab</div>
-                                        <div class="message">Update API doc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9aeaec</div>
-                                        <div class="message">Fixed #4463 - Dialog: new blockScroll property</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa34254</div>
-                                        <div class="message">Refactor on unstyled ripple check</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3628e2f</div>
-                                        <div class="message">Fixed #3624 Fixed #3523</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#637c010</div>
-                                        <div class="message">Merge pull request #4432 from webcaetano/small-typo-fix
-
-Fix: Docs typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dec70fe</div>
-                                        <div class="message">Merge pull request #4460 from FlipWarthog/discussions-badge
-
-Fix #4461: Add Discussions badge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc2ec68</div>
-                                        <div class="message">Merge pull request #4457 from reimnm/patch-1
-
-Fix: Sidebar Docs missing quotes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd3b60e</div>
-                                        <div class="message">Add Discussions badge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e3b667</div>
-                                        <div class="message">Update PTDoc.vue
-
-Fix the missing quotes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e492d1</div>
-                                        <div class="message">Fixed #4269 -Textarea autoResize issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7447e0c</div>
-                                        <div class="message">fix typo</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v0.0.3</span>
-                                        in
-                                        <span class="repo">Simon-He95/tailwindcss-highlight</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2023, 16:19:50 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2023, 17:15:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
