@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1254" class="">
     <defs>
         <style/>
     </defs>
@@ -302,6 +302,128 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 40 commits in
+                                        <span class="repo">Simon-He95/core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a5491e1</div>
+                                        <div class="message">dx(runtime-core): warn when the prop type is `[]` (#7608)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58e2a94</div>
+                                        <div class="message">fix(types): update jsx type definitions (#8607)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17aa92b</div>
+                                        <div class="message">fix(types): allow falsy value types in `StyleValue` (#7954)
+
+close #7955</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5fd343</div>
+                                        <div class="message">refactor(compiler-sfc): reuse `forAliasRE` regex from compiler-core (#9568)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae6f164</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#9551)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d932a8</div>
+                                        <div class="message">fix(types): defineCustomElement using defineComponent return type with emits (#7937)
+
+close #7782</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#341b541</div>
+                                        <div class="message">chore: typo and grammar (#8568) [ci skip]
+
+Co-authored-by: Han &lt;phamvanhan@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3bcd4</div>
+                                        <div class="message">chore(scripts): delete an unnecessary parameter + add jsdoc to build script (#8527)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c44800</div>
+                                        <div class="message">fix(types): fix shallowRef return type with union value type (#7853)
+
+close #7852</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#364f319</div>
+                                        <div class="message">fix(hydration): force hydration for v-bind with .prop modifier
+
+ref #7490</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34b5a5d</div>
+                                        <div class="message">fix(hydration): properly hydrate indeterminate prop
+
+close #7476</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e1e8f9</div>
+                                        <div class="message">fix(types): fix instance type when props type is incompatible with setup returned type (#7338)
+
+close #5885</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#657476d</div>
+                                        <div class="message">fix(reactivity): clear method on readonly collections should return undefined (#7316)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e0b068</div>
+                                        <div class="message">chore: add name option for Teleport (#7315)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2d810e</div>
+                                        <div class="message">fix(compiler-core): avoid rewriting scope variables in inline for loops (#7245)
+
+close #7238</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d11e978</div>
+                                        <div class="message">fix(hmr/transition): fix kept-alive component inside transition disappearing after hmr (#7126)
+
+fix #7121</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40f4b77</div>
+                                        <div class="message">fix(v-model): avoid overwriting number input with same value (#7004)
+
+close #7003</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94c049d</div>
+                                        <div class="message">fix(types): remove optional properties from defineProps return type (#6421)
+
+close #6420</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d0eba9</div>
+                                        <div class="message">fix(compiler-core): fix `resolveParserPlugins` decorators check (#9566)
+
+close #9560</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c0414f</div>
+                                        <div class="message">chore: bust sponsor image cache [ci skip]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -369,32 +491,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/nextui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d2e2cdf</div>
-                                        <div class="message">docs(listbox): fix ListboxSection Props typo</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2023, 21:16:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2023, 22:23:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
