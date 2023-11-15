@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="871" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1187" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4867 Commits
+                            4871 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -305,6 +305,115 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 22 commits in
+                                        <span class="repo">Simon-He95/unocss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0008e2a</div>
+                                        <div class="message">fix(vscode): avoid register functions without config files (#3332)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a307b0</div>
+                                        <div class="message">chore: release v0.57.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#165bece</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64b3461</div>
+                                        <div class="message">fix(vscode): improve context resolving, avoid duplicates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c6c1c4</div>
+                                        <div class="message">feat(svelte-scoped): transform class directives wrapped in quotes (#3286)
+
+Co-authored-by: jacob-8 &lt;jwrunner7@gmail.com&gt;
+Co-authored-by: Jacob Bowdoin &lt;7559478+jacob-8@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9cb45a8</div>
+                                        <div class="message">docs(interactive): migrate to `shikiji` (#3316)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1a122f</div>
+                                        <div class="message">fix(webpack): allow compiler to watch files provided by config (#3058)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59dc0bd</div>
+                                        <div class="message">chore(bench): update bench result (#3321)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f3fd1f</div>
+                                        <div class="message">chore: inspector miss `@unocss/core` deps (#3315)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bda907f</div>
+                                        <div class="message">docs: update Vite integration (#3306)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6cb23de</div>
+                                        <div class="message">chore: release v0.57.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e38cbc7</div>
+                                        <div class="message">chore: bump node versions in ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#120a875</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f9b821</div>
+                                        <div class="message">fix(preset-mini): change grid-template-cols to grid-template-columns (#3301)
+
+Co-authored-by: userquin &lt;userquin@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f08371</div>
+                                        <div class="message">docs: clarify dynamic rule sorting (#3304)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e64047a</div>
+                                        <div class="message">feat(preset-mini): add subgrid rules in preset mini (#3284)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0890f59</div>
+                                        <div class="message">fix(preset-mini): remove num === 0 in px handler to fix offset utility issues (#3271)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e891ab</div>
+                                        <div class="message">feat(preset-wind): support bg-[size] -&gt; background-position (#3270)
+
+Co-authored-by: chris &lt;hizyyv@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c88fb67</div>
+                                        <div class="message">docs(examples): do not use contenthash in development mode has enabled HMR to work properly. (#3290)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0fe22bd</div>
+                                        <div class="message">fix: migrate to the new `transformIndexHtml` API style</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Simon-He95/sponsor</span>
                                     </div>
@@ -362,32 +471,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/pi</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#63f8bee</div>
-                                        <div class="message">chore: release v0.0.76</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 10:27:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 11:16:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
