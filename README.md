@@ -22,21 +22,21 @@
 :heart: Recommend
 <div align="center">
 <a href="https://github.com/Simon-He95/simon-js-tool">
-  <img width="45%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/Simon-He95/tiny-tinify-compress">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=tiny-tinify-compress&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img width="100%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/Simon-He95/unot">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=unot&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/Simon-He95/simon.me">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon.me&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-    <a href="https://github.com/Simon-He95/browser-compress-image">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=browser-compress-image&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon.me&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+    <a href="https://github.com/Simon-He95/fast-create-variable">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=fast-create-variable&theme=dark&bg_color=0d1117&hide_border=true" /></a>
       <a href="https://github.com/Simon-He95/pi">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=pi&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-      <a href="https://github.com/Simon-He95/ccommand">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=ccommand&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-   <a href="https://github.com/Simon-He95/tounocss">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=tounocss&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=pi&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+      <a href="https://github.com/Simon-He95/vscode-tailwind-magic">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=vscode-tailwind-magic&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+   <a href="https://github.com/Simon-He95/vscode-common-intellisense">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=vscode-common-intellisense&theme=dark&bg_color=0d1117&hide_border=true" /></a>
    <a href="https://github.com/Simon-He95/transformToUnocss">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=transformToUnocss&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=transformToUnocss&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
