@@ -85,7 +85,7 @@
 <table align="center">
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Simon-He95&bg_color=231f21&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Simon-He95&area=true&hide_border=true&theme=redical" />
     </td>
   </tr>
 </table>
