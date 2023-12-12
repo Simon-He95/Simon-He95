@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1658" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1365" class="">
     <defs>
         <style/>
     </defs>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            391 issue comments
+                            392 issue comments
                         </div>
                     </section>
                     <section>
@@ -311,6 +311,23 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by leoelz in <span class="repo">vuejs/core</span></div>
+                                    <div class="comment">When using events starting with:, props.event needs to be used internally to trigger them, while events starting with @ use emit. The bottom layer of Vue seems to convert all camel cases into hyphen.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#9812 kebab-cased event handler as prop not called on emit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by leoelz in <span class="repo">vuejs/core</span></div>
                                     <div class="comment">@leoelz usage</div>
                                 </div>
                             </section>
@@ -477,132 +494,12 @@ close #8105</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 40 commits in
-                                        <span class="repo">Simon-He95/core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6784f0b</div>
-                                        <div class="message">fix(watch): should not fire pre watcher on child component unmount (#7181)
-
-close #7030</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdac121</div>
-                                        <div class="message">fix(types): ref() return type should not be any when initial value is any (#9768)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4ac0e6</div>
-                                        <div class="message">chore(dx): fix defineProps jsdoc + update defineEmits jsdoc example</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2744a09</div>
-                                        <div class="message">chore: typo (#9767)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ecbd5c</div>
-                                        <div class="message">fix(reactivity): fix mutation on user proxy of reactive Array
-
-close #9742
-close #9751
-close #9750</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#983d45d</div>
-                                        <div class="message">fix(shared): handle more Symbol cases in toDisplayString</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#364821d</div>
-                                        <div class="message">fix(shared): handle Map with symbol keys in toDisplayString (#9731)
-
-close #9727</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b00286</div>
-                                        <div class="message">fix(runtime-dom): fix width and height prop check condition
-
-close #9762</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d74d364</div>
-                                        <div class="message">fix(custom-element): correctly handle number type props in prod (#8989)
-
-Co-authored-by: autofix-ci[bot] &lt;114827586+autofix-ci[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af5df91</div>
-                                        <div class="message">chore(deps-dev): bump vite from 5.0.0 to 5.0.5 (#9758)
-
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af909b7</div>
-                                        <div class="message">chore: fix typo (#9752) [ci skip]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2f2b75</div>
-                                        <div class="message">chore(deps): bump vitest to 1.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#243f504</div>
-                                        <div class="message">chore(playground): expose esm-browser files (#9725)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5a88ef</div>
-                                        <div class="message">release: v3.3.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3e2c55</div>
-                                        <div class="message">fix(compiler-sfc): fix :where and :is selector in scoped mode with multiple selectors (#9735)
-
-close #9707</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf7269a</div>
-                                        <div class="message">chore(deps): update compiler (#9745)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec71585</div>
-                                        <div class="message">fix(app): prevent template from being cached between apps with different options (#9724)
-
-close #9618</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2f5f76</div>
-                                        <div class="message">chore(deps): update all non-major dependencies (#9744)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4ec0b3</div>
-                                        <div class="message">chore: fix typos in CHANGELOG.md (#9746) [ci skip]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65f3fe2</div>
-                                        <div class="message">fix(runtime-core): Suspense get anchor properly in Transition (#9309)
-
-close #8105</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2023, 12:18:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 13:15:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
