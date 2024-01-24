@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1301" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="984" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5437 Commits
+                            5438 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,6 +302,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/unocss-completion</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6915f31</div>
+                                        <div class="message">chore: docs update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -371,128 +391,12 @@ https://github.com/microsoft/vscode-extension-samples/tree/main/codelens-sample<
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4566 commits in
-                                        <span class="repo">Simon-He95/vscode</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2120c54</div>
-                                        <div class="message">editors - let simple browser auto lock groups (#200578)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa79d7e</div>
-                                        <div class="message">fix terminal editor icon color (#200573)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9824af2</div>
-                                        <div class="message">Fix `Customize Layout` bugs related to Activity Bar (fix #200571)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83180a3</div>
-                                        <div class="message">Using the action title in the hover message when auto-running on clicking of sparkle (#199521)
-
-* using the action title prepended with Run keyword
-
-* setting the title in one function which is outside of _updateLightBulbTitleAndIcon</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fca41e</div>
-                                        <div class="message">Making the settings readonly (#200221)
-
-making the settings readonly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#66fda5f</div>
-                                        <div class="message">Merge pull request #200329 from microsoft/benibenj/codIconLabelSupport
-
-Added support for custom icons in various editor inputs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#692599b</div>
-                                        <div class="message">support updating icon</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d6eac5</div>
-                                        <div class="message">SCM - 💄 remove unused service (#200555)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ff022b</div>
-                                        <div class="message">fix selector and icon name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#528afd8</div>
-                                        <div class="message">fix typechecker error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8910c5</div>
-                                        <div class="message">Merge pull request #200382 from SimonSiefke/fix/memory-leak-diff-editor
-
-fix: memory leak in diff editor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13d454d</div>
-                                        <div class="message">fix terminal test?</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d68f53f</div>
-                                        <div class="message">SCM - Input widget should use a context key service with an overlay (#200544)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09dc82e</div>
-                                        <div class="message">Merge pull request #126199 from loganrosen/patch-1
-
-Update Stack Overflow tag in CONTRIBUTING.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fe872e</div>
-                                        <div class="message">Merge branch 'main' into patch-1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55d7566</div>
-                                        <div class="message">SCM - fix scmProvider context keys (#200536)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#751baa0</div>
-                                        <div class="message">
-                                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb76941</div>
-                                        <div class="message">Disabling auto-send on sparkle auto-run command (#199680)
-
-* wip
-
-* changing the arguments when opening inline chat
-
-* making the code more concise</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0c510b</div>
-                                        <div class="message">api - warn when using `isCloseAffordance` multiple times (fix #200504) (#200521)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#513adf5</div>
-                                        <div class="message">aux window - show lock icon in main window if locked (#200520)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 21:19:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 22:15:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
