@@ -1,8 +1,10 @@
 <h1 align="center"> <a href="https://www.hejian.club/"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=welcome+to+my+GitHub"> </a> </h1>
 
-<p align="center">
-<img src="./code.gif" width=480 />
-</p>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Simon-He95&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Simon-He95&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="[https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)](https://pixel-profile.vercel.app/api/github-stats?username=Simon-He95&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))">
+</picture>
 
 ![img](./profile-3d-contrib/profile-south-season-animate.svg)
 
@@ -51,6 +53,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
 
 <!-- Gif -->
 <div align="center">
