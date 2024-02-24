@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="970" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5688 Commits
+                            5692 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            455 issue comments
+                            457 issue comments
                         </div>
                     </section>
                     <section>
@@ -307,29 +307,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.27</span>
+                                        <span class="code">v0.1.31</span>
                                         in
-                                        <span class="repo">Simon-He95/v-component-prompter</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/v-component-prompter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#32b56f2</div>
-                                        <div class="message">chore: release v0.0.27</div>
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
                                     </div>
                                 </div>
                             </section>
@@ -348,8 +328,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#88515c0</div>
-                                        <div class="message">chore: update</div>
+                                        <div class="sha">#e869c4c</div>
+                                        <div class="message">chore: release v0.1.31</div>
                                     </div>
                                 </div>
                             </section>
@@ -362,14 +342,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/Simon-He95</span>
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5a5daa</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#c7d5c85</div>
+                                        <div class="message">Update descriptions in JSON files</div>
                                     </div>
                                 </div>
                             </section>
@@ -382,20 +362,31 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#3 无法使用vscode-tailwind-magic</span>
+                                        <span class="issue">#58 feat: add ElementPlus Tour TourStep</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Y3coder in <span class="repo">Simon-He95/vscode-tailwind-magic</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>
-                                                你是吗
-                                                <code>windows</code>
-                                            </i>
-                                            是的，window版本是Windows 10 专业版22H2 19045.3930
-                                        </i>
-                                        需要你看一下，当你写完保存时候，有没有什么错误日志，我使用你的demo，mac上是正常的，可能有路径或者哪里处理的有问题
+                                    <div>opened by Floyd-bit in <span class="repo">Simon-He95/vscode-common-intellisense</span></div>
+                                    <div class="comment">thx~</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#825d0d6</div>
+                                        <div class="message">feat: add ElementPlus Tour TourStep (#58)</div>
                                     </div>
                                 </div>
                             </section>
@@ -405,7 +396,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2024, 00:17:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2024, 01:14:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
