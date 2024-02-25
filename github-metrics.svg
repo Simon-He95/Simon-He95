@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="944" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1237" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            3 Pull requests reviewed
+                            4 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -166,13 +166,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    No license preference
+                                    Prefers MIT license
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    0 Releases
+                                    657 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -198,19 +198,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    0 Stargazers
+                                    763 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    0 Forkers
+                                    67 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    0 Watchers
+                                    95 Watchers
                                 </div>
                             </section>
                         </div>
@@ -302,6 +302,141 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 977 commits in
+                                        <span class="repo">Simon-He95/vscode</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8e5d9da</div>
+                                        <div class="message">fix #203197</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fb1e92</div>
+                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> move new save-functions close to existing saveAll function (#203356)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09231ca</div>
+                                        <div class="message">Merge pull request #203357 from microsoft/merogge/status2
+
+ensure alerts do not override content</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b96127e</div>
+                                        <div class="message">fix #203266</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c109db</div>
+                                        <div class="message">Remove redundant canActivityBarBeHidden() method (#203351)
+
+canActivityBarBeHidden() no longer needed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc6f22b</div>
+                                        <div class="message">chore: update builds for electron@27.2.3 (#203346)
+
+* chore: update builds for electron@27.2.3
+
+* chore: bump distro</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5fea9b4</div>
+                                        <div class="message">Setting default enablement state to false for the experiment (#203324)
+
+setting default enablement state to false for the experiment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97b8727</div>
+                                        <div class="message">Git - fix viewing stahes with added/deleted/renamed files (#203341)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25af41d</div>
+                                        <div class="message">Clarify custom title bar style setting description (#203336)
+
+fix #203290</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9040d0</div>
+                                        <div class="message">Fix Drag n Drop behavior in Open Editors with multiple groups (#203330)
+
+fix #203179</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5375e37</div>
+                                        <div class="message">Error: Cannot register two commands with the same id: workbench.action.focusCommentsPanel (#203331)
+
+Third time's the charm
+Fixes #202563</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bc3583</div>
+                                        <div class="message">handle `rerun` message during make_request state (#203333)
+
+handle `rerun` message during make_request state,
+
+fixes https://github.com/microsoft/vscode-copilot/issues/3650</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7970376</div>
+                                        <div class="message">Protect against empty readonly-message (#203328)
+
+Fixes #203122</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f607d6</div>
+                                        <div class="message">fix https://github.com/microsoft/vscode-copilot/issues/3652 (#203305)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa7c021</div>
+                                        <div class="message">SCM - fix treeview comparison function (#203325)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2561395</div>
+                                        <div class="message">Merge branch 'main' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bd3a6b</div>
+                                        <div class="message">Merge branch 'main' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4a1e14</div>
+                                        <div class="message">docs: update comment for hideFromUser</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#676d7ba</div>
+                                        <div class="message">Increase editor.stickyScroll.maxLineCount from 10 to 20</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a61ab7</div>
+                                        <div class="message">Add duration to the terminal command SI tooltip</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#3578 docs(directives): avoid requiring quotes in `--at-apply` causes misun…</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhangzheheng12345 in <span class="repo">unocss/unocss</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
@@ -354,49 +489,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#58 feat: add ElementPlus Tour TourStep</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Floyd-bit in <span class="repo">Simon-He95/vscode-common-intellisense</span></div>
-                                    <div class="comment">thx~</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#825d0d6</div>
-                                        <div class="message">feat: add ElementPlus Tour TourStep (#58)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2024, 11:15:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2024, 12:18:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
