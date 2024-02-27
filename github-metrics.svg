@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1221" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="871" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 230 repositories
+                            Contributed to 229 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5723 Commits
+                            5728 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 944 repositories
+                            Starred 945 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,286 +302,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#13041 I think the sizes should be uniform "1/4"</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">tailwindlabs/tailwindcss</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 97 commits in
-                                        <span class="repo">Simon-He95/tailwindcss</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7720e16</div>
-                                        <div class="message">Skip `calc()` normalisation in nested `theme()` calls (#11705)
-
-* add `calc` normalisation test cases using `theme()`
-
-* ignore formatting in some known functions, such as `theme`
-
-* update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfd0420</div>
-                                        <div class="message">Improve normalisation of `calc()`-like functions (#11686)
-
-* parse the `calc()`-like expressions and format them
-
-* update changelog
-
-* Add test case for double negatives
-
-wanted to be sure this worked
-
----------
-
-Co-authored-by: Jordan Pittman &lt;jordan@cryptica.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e771a50</div>
-                                        <div class="message">Add spot for v3.3.4 changelogs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bd81a0</div>
-                                        <div class="message">3.3.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a6ceb5</div>
-                                        <div class="message">Update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f97759f</div>
-                                        <div class="message">Don’t error when a config file is missing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#005c1be</div>
-                                        <div class="message">Don't prefix arbitrary classes in `peer`/`group` variants (#11454)
-
-* Refactor
-
-* Don’t prefix classes in arbitrary values for group and peer
-
-* use `foo` instead of `lol`
-
-* handle the prefix inside the group/peer variants
-
-Then add the `NoPrefix` feature to the variant itself, which will skip
-prefixing any other class in the generated selector (because we already
-took care of prefixing `.group` and `.peer`).
-
-We are using an internal symbol such that:
-
-- We can keep it as a private API
-- We don't introduce a breaking change
-
-* refactor to simple object instead
-
-We will still use a symbol as an internal/private marker, but the data
-itself will be a simple object for now.
-
-If we want to refactor this (and more) in the future using bitflags then
-we can refactor that in a separate PR.
-
----------
-
-Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b9cbb3</div>
-                                        <div class="message">Make PostCSS plugin async to improve performance (#11548)
-
-* make main plugin async
-
-This way we can improve the `fs.readFileSync` to a bunch of
-`fs.promises.readFile` in a `Promise.all` instead.
-
-* make CLI plugin async
-
-* update CHANGELOG</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c9bb38</div>
-                                        <div class="message">Allow variant to be an at-rule without a prelude (#11589)
-
-* Allow variant to be an at-rule without a prelude
-
-* Update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80f3e85</div>
-                                        <div class="message">Sort classes using position of first matching rule (#11504)
-
-* Refactor
-
-* Sort based on first occurence of a candidate
-
-This primarily affects components and utilities which contain multiple matched classes
-
-* Simplify
-
-* Update changelog
-
-* Update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2432268</div>
-                                        <div class="message">Reset dialog element styles (#11069)
-
-* disable useragent styling for dialog
-
-* nits
-
-* Update src/css/preflight.css
-
-* Simplify dialog reset
-
-We don’t want to reset everything here. Just the padding should be enough.
-
-* Update test
-
----------
-
-Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;
-Co-authored-by: Jordan Pittman &lt;jordan@cryptica.me&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b885fff</div>
-                                        <div class="message">Add `aria-busy` utility (#10966)
-
-* Add aria-busy variant
-
-This is useful to show a spinner or dim a region that is updating.
-
-Very useful in conjunction with [Turbo](https://turbo.hotwired.dev/reference/attributes#automatically-added-attributes)
-
-* update changelog
-
----------
-
-Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fb7486</div>
-                                        <div class="message">Make font settings propagate into buttons, inputs, etc. (#10940)
-
-* Make font settings propagate into buttons, inputs, etc.
-
-* update source-maps test due to preflight change
-
-* update changelog
-
----------
-
-Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac43650</div>
-                                        <div class="message">Ensure CI jobs don't run for longer than 15 minutes (#11496)
-
-* fix: prevent long unwanted runs!
-
-* add timeout-minutes to all the workflows
-
----------
-
-Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24c6a99</div>
-                                        <div class="message">Escape animation names when prefixes contain special characters (#11470)
-
-* Escape animation names when prefixes contain special characters
-
-* Update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61cf624</div>
-                                        <div class="message">Move unknown pseudo elements outside of `:is` (#11345)
-
-* More pseudo elements outside of `:is` by default
-
-* Update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02147e3</div>
-                                        <div class="message">fixed a type in generateRules.js (#11264)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63403d8</div>
-                                        <div class="message">Ensure `repeating-conic-gradient` is detected as an image (#11180)
-
-* ensure `repeating-conic-gradient` is detected as an image
-* update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79b5b12</div>
-                                        <div class="message">Fix parsing of `theme()` inside `calc()` when there are no spaces around operators (#11157)
-
-* Refactor
-
-* Don’t resolve functions for anything not using theme or screen
-
-* Normalize math operators inside calc when handling functions
-
-* Inline postcss-value-parser
-
-* Treat all functions the same as calc
-
-* Remove workaround for calc + operators without spaces
-
-* Remove `postcss-value-parser` dependency
-
-* Update lockfile
-
-* Update sourcemaps
-
-* Update changelog
-
-* Update `value-parser` formatting
-
-* Stop prettier from complaining</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b4de46</div>
-                                        <div class="message">Fix issues with some pseudo-elements (#11111)
-
-* Fix issues with some pseudo-elements
-
-We’ve included pseudo elements for backdrop, marker, placeholder, and selection and they were all “jumpable” before we made changes in v3.3.2. Ideally they wouldn’t be because if they ever eventually have any interactivity that could become a problem.
-
-* Update changelog</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">ErrorPro/react-google-autocomplete</span>
-                                        to
-                                        <span class="repo">Simon-He95/react-google-autocomplete</span>
+                                        Starred
+                                        <span class="repo">Simon-He95/vscode-vue-highlight</span>
                                     </div>
                                 </div>
                             </section>
@@ -595,9 +320,9 @@ We’ve included pseudo elements for backdrop, marker, placeholder, and selectio
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.10</span>
+                                        <span class="code">v0.0.4</span>
                                         in
-                                        <span class="repo">Simon-He95/trim-paste</span>
+                                        <span class="repo">Simon-He95/vscode-vue-highlight</span>
                                     </div>
                                 </div>
                             </section>
@@ -609,19 +334,51 @@ We’ve included pseudo elements for backdrop, marker, placeholder, and selectio
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Simon-He95/trim-paste</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-vue-highlight</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f127913</div>
-                                        <div class="message">chore: release v0.0.10</div>
+                                        <div class="sha">#a18a9be</div>
+                                        <div class="message">chore: release v0.0.4</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-vue-highlight</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#58ce360</div>
+                                        <div class="sha">#6444369</div>
                                         <div class="message">chore: update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.0.3</span>
+                                        in
+                                        <span class="repo">Simon-He95/vscode-vue-highlight</span>
                                     </div>
                                 </div>
                             </section>
@@ -631,7 +388,7 @@ We’ve included pseudo elements for backdrop, marker, placeholder, and selectio
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2024, 23:15:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2024, 00:19:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
