@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1608" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1255" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6004 Commits
+                            6009 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -305,15 +305,99 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-tailwind-magic</span>
+                                        Pushed 91 commits in
+                                        <span class="repo">Simon-He95/devtools-next</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d5a29d</div>
-                                        <div class="message">chore: update</div>
+                                        <div class="sha">#fca27ca</div>
+                                        <div class="message">fix(kit): use factory function to init/reset state</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54e8493</div>
+                                        <div class="message">refactor!: deprecate schema package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b622349</div>
+                                        <div class="message">refactor: devtools kit (#219)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8762db2</div>
+                                        <div class="message">chore: fix lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40f9331</div>
+                                        <div class="message">fix(kit): mark vue as peer dependencies (#218)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32746c5</div>
+                                        <div class="message">feat: enable editing on BigInt type (#215)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1ff8d9</div>
+                                        <div class="message">chore: release v7.0.14</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e604b41</div>
+                                        <div class="message">feat(vite): introducing component inspector option (#214)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e65ba84</div>
+                                        <div class="message">feat: update assets in real time (#212)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3da9850</div>
+                                        <div class="message">fix(client): call bridgeRpc on demand in `openInEditor` function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e10b952</div>
+                                        <div class="message">chore: fix lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2be9f6b</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#206)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f61c7c8</div>
+                                        <div class="message">chore: migrate to `shiki`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b35a3a</div>
+                                        <div class="message">chore(deps): replace dependency npm-run-all with npm-run-all2 ^5.0.0 (#205)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6689f3</div>
+                                        <div class="message">chore: fix package export types (#204)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44df8b8</div>
+                                        <div class="message">chore: export types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe85959</div>
+                                        <div class="message">chore: fix typo (#199)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b81456</div>
+                                        <div class="message">chore: fix typo (#197)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72bc2ec</div>
+                                        <div class="message">chore: release v7.0.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98fc8ed</div>
+                                        <div class="message">feat(client): module update track for graph page (#195)
+
+
+
+Co-authored-by: arlo &lt;webfansplz@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -322,285 +406,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a073f8e</div>
-                                        <div class="message">fix: 边界错误判断</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 44 commits in
-                                        <span class="repo">Simon-He95/core-vapor</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a382823</div>
-                                        <div class="message">chore(deps): update build (#10490)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de0336a</div>
-                                        <div class="message">fix(deps): update compiler (#10492)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcd9f62</div>
-                                        <div class="message">chore(deps): update lint (#10491)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a936aa</div>
-                                        <div class="message">feat(reactivity): add failSilently argument for onScopeDispose</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef2eaef</div>
-                                        <div class="message">refactor: inline recordEffectScope</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebd3710</div>
-                                        <div class="message">refactor(runtime-vapor): don't record metadata for `on`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#280b8cb</div>
-                                        <div class="message">refactor: remove getCurrentEffect, add effect flag for on
-
-Use the effect flag to distinguish whether it is in the effect of a v-for block.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fef2acb</div>
-                                        <div class="message">ci: upgrade setup pnpm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dec8a52</div>
-                                        <div class="message">types: fix `scroll` event type; add support for `scrollend` (#10443)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e76d743</div>
-                                        <div class="message">fix(compiler-sfc): use options module name if options provide runtimeModuleName options (#10457)
-
-close #10454</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03d1d0a</div>
-                                        <div class="message">refactor: delegate set modelValue event</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11b99ba</div>
-                                        <div class="message">fix(runtime-vapor): clean event handler in current effect</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2cc5615</div>
-                                        <div class="message">feat(reactivity): `onEffectCleanup` API
-
-ref #10173
-
-Instead of exposing `getCurrentEffect`, this version accepts a second
-argument to suppress the no-active-effect warning.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d20cf6d</div>
-                                        <div class="message">chore: update todo list</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70196a4</div>
-                                        <div class="message">perf(reactivity): optimize array tracking (#9511)
-
-close #4318</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72bde94</div>
-                                        <div class="message">types: fix ComputedRefImpl type build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d30366</div>
-                                        <div class="message">chore(types): fix ComputedRefImpl type build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55660b0</div>
-                                        <div class="message">refactor(scheduler): use bitwise flags for scheduler jobs + optimize queueJob (#10407)
-
-related: https://github.com/vuejs/core-vapor/pull/138</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58d827c</div>
-                                        <div class="message">chore: Merge branch 'main' into minor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05eb4e0</div>
-                                        <div class="message">Refactor reactivity system to use version counting and doubly-linked list tracking (#10397)
-
-Bug fixes
-close #10236
-close #10069
-
-PRs made stale by this one
-close #10290
-close #10354
-close #10189
-close #9480</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 74 commits in
-                                        <span class="repo">Simon-He95/nextui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0ce1026</div>
-                                        <div class="message">fix(components): incorrect strokeWidth (#2410)
-
-* fix(components): incorrect strokeWidth
-
-* feat(changeset): incorrect strokeWidth in circular progress</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd3b809</div>
-                                        <div class="message">fix: sematic typos (#2408)
-
-* fix(docs): sematic -&gt; semantic
-
-* fix(stories): sematic -&gt; semantic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc91ab8</div>
-                                        <div class="message">fix(docs): accordion itemClasses (#2406)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dec7d41</div>
-                                        <div class="message">fix: pagination RTL (#2393)
-
-* fix(components): handle RTL in onNext and onPrevious in use-pagination.ts
-
-* fix(components): invert forward icon for RTL
-
-* fix(hooks): invert pagination logic for RTL
-
-* chore(root): add changeset for pagination RTL change
-
-* fix(hooks): add isRTL to hook dependency
-
-* fix(components): add isRTL to hook dependency
-
-* fix(components): incorrect isDisabled logic
-
-* refactor(hooks): remove isRTL dependency from paginationRange
-
-* chore(deps): add @react-aria/i18n</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37bed23</div>
-                                        <div class="message">fix(components): rtl styles in toggle (#2392)
-
-* fix(components): rtl styles in toggle
-
-* chore(root): add changeset for switcher rtl issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#755a835</div>
-                                        <div class="message">fix(docs): update introduction.mdx replace p tag to div to avoid p tag nested p tag (#2388) (#2389)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f27b04</div>
-                                        <div class="message">Fixed Typo (#2400)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc9362f</div>
-                                        <div class="message">Fix: Added few missing imports (#2401)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6f3628</div>
-                                        <div class="message">fix(components): number input label #2268 fixed (#2274)
-
-* fix(components): number input label #2268 fixed
-
-* fix(component): comments resolved
-
-* fix(component): format with prettier
-
----------
-
-Co-authored-by: Prakash Choudhary &lt;prakashchoudhary@Prakashs-iMac.local&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f75174d</div>
-                                        <div class="message">docs(modal): update documentation to include dismiss properties (#2217)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ac0e564</div>
-                                        <div class="message">fix(docs): development setup in CONTRIBUTEING.md (#1673)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60e453d</div>
-                                        <div class="message">fix(docs): typos (#2373)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e5ba69</div>
-                                        <div class="message">Added note for installing React. (#2369)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4ba43b</div>
-                                        <div class="message">fix(components): input label overlapping issue (#2371)
-
-* fix(components): input label overlapping issue
-
-* chore(root): add changeset for input overlapping issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#995b37e</div>
-                                        <div class="message">Update spinner.mdx (#2355)
-
-Fix labelColor description</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3be8c62</div>
-                                        <div class="message">chore: typo (#2353)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b5cde7</div>
-                                        <div class="message">fix(spinner): pass classNames.label to slot (#2325)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4cab30</div>
-                                        <div class="message">docs(components): tooltip delays inverted (#2338)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ff61b5</div>
-                                        <div class="message">docs(components): table component link for storybook does not work (#2342)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a3015c</div>
-                                        <div class="message">docs(components): tabs component link for storybook does not work (#2344)</div>
+                                        Created new
+                      tag
+                                        <span class="code">v0.0.51</span>
+                                        in
+                                        <span class="repo">Simon-He95/fast-jump</span>
                                     </div>
                                 </div>
                             </section>
@@ -613,14 +426,54 @@ Fix labelColor description</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-generate-preset</span>
+                                        <span class="repo">Simon-He95/fast-jump</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b89dd52</div>
-                                        <div class="message">chore: update icon</div>
+                                        <div class="sha">#fa60f39</div>
+                                        <div class="message">chore: release v0.0.51</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/fast-jump</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#60ec104</div>
+                                        <div class="message">fix(vue2): jump</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/fast-create-variable</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b2702d7</div>
+                                        <div class="message">chore: update scripts</div>
                                     </div>
                                 </div>
                             </section>
@@ -630,7 +483,7 @@ Fix labelColor description</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2024, 13:16:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2024, 14:19:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
