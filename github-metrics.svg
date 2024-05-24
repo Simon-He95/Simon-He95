@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1019" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1312" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6819 Commits
+                            6820 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -305,6 +305,110 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 43 commits in
+                                        <span class="repo">Johnkat-Mj/unocss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">preset-mini-aria</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fa49753</div>
+                                        <div class="message">fix(transformer-directive): get raw string in directive, support slash &amp; hash (#3790)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9eb6e29</div>
+                                        <div class="message">feat(eslint-plugin): allow customize configPath via settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d39a708</div>
+                                        <div class="message">test: add tests for more eslint rules</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b313ee</div>
+                                        <div class="message">test: migrate rule tester</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20ed897</div>
+                                        <div class="message">feat(eslint-plugin): blocklist meta with message (#3783)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fd5f51</div>
+                                        <div class="message">docs(preset-icon): complete options introduce (#3786)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58e26bd</div>
+                                        <div class="message">chore: add autofix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c69c599</div>
+                                        <div class="message">test: update snap (#3787)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d83789</div>
+                                        <div class="message">chore: release v0.60.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26f9dbd</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0539e5b</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b84df4</div>
+                                        <div class="message">fix(vite): move @import before other rules (#3743)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9f5b5b</div>
+                                        <div class="message">fix(CJS)!: remove `.default` suffix from d.ts and d.cts files (#3750)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b36a60</div>
+                                        <div class="message">feat(preset-icons): add svg props customization (#3774)
+
+Co-authored-by: Anthony Fu &lt;github@antfu.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#249fe73</div>
+                                        <div class="message">feat(preset-mini): add children variant (*-{modifier}) (#3763)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18df52c</div>
+                                        <div class="message">fix(preset-mini): align with `selection` (#3771)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54e08c0</div>
+                                        <div class="message">pref(transfomer-directives): optimize theme parsing (#3764)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d0598c</div>
+                                        <div class="message">docs: typo (#3765)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bba916</div>
+                                        <div class="message">docs: fix typo (#3759)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47eafba</div>
+                                        <div class="message">fix(preset-legacy-compat): update the split color string regex (#3756)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Simon-He95/lazy-js-utils-docs</span>
                                     </div>
@@ -375,29 +479,12 @@ fix(deps): update dependency astro to v4.9.1</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#3560 Automatically apply a variant to all utilities used in certain files</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by RebeccaStevens in <span class="repo">unocss/unocss</span></div>
-                                    <div class="comment">I think you can completely use the unocss parser and then use your own plug-in to handle it.</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2024, 15:15:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 May 2024, 16:20:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
