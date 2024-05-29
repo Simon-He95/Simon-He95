@@ -306,6 +306,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#3847 0.60.3 上下文中的符号导致不能正确的生成class</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Djuvl in <span class="repo">unocss/unocss</span></div>
+                                    <div class="comment">It seems that this problem only occurs in playground. It cannot be reproduced when tested in unocss. Can you provide a mini-repo that reproduces it?</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#3846 请问有没有项目实践案例？</span>
                                     </div>
                                 </div>
@@ -377,35 +394,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#3846 请问有没有项目实践案例？</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by miaojinsing in <span class="repo">unocss/unocss</span></div>
-                                    <div class="comment">
-                                        <i>.filter-item{ &amp;::after{ position: absolute; content: ""; @apply b-r-2 b-r-gray-6 b-b-2 b-b-gray-6 b-2 border-transparent right-0.5 bottom-0.5; }
-@apply block bg-gray-2/80 text-gray-6 text-md w-10 max-w-15 py-1 px-2 rounded-1 leading-none truncate relative;
-} 我常常这样使用 请问这种写法推荐吗</i>
-                                        Nested CSS is currently not handled well. It is not recommended to use it
-related：#3835，#3573
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2024, 01:15:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2024, 02:20:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
