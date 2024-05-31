@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1080" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1073" class="">
     <defs>
         <style/>
     </defs>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            630 issue comments
+                            631 issue comments
                         </div>
                     </section>
                     <section>
@@ -302,6 +302,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#3847 0.60.3 上下文中的符号导致不能正确的生成class</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Djuvl in <span class="repo">unocss/unocss</span></div>
+                                    <div class="comment">
+                                        <i>extractor</i>
+                                        I know this is due to problems with the extractor's regular expression, but it is difficult for regular expressions to cover all scenarios. We can still try to reduce the edge cases of regular expressions by filtering comments.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -402,34 +422,12 @@ In addition, if there is any unocss related explanation syntax in the comments, 
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#3847 0.60.3 上下文中的符号导致不能正确的生成class</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Djuvl in <span class="repo">unocss/unocss</span></div>
-                                    <div class="comment">
-                                        <i>@Simon-He95 You're going too fast resolve the issue. 👍 你解决问题的速度太快了。 👍 It is worth noting that forcibly removing the comment string may be a bit violent. UnoCSS scans all strings for parsing. Whether to remove comments should be decided by the user. 值得注意的是，强行删除评论字符串可能有点暴力。 UnoCSS 扫描所有字符串进行解析。是否删除评论应由用户决定。
-Note that we have some magic strings to work with. https://unocss.dev/guide/extracting#extracting-from-build-tools-pipeline请注意，我们有一些神奇的字符串可以使用。 https://unocss.dev/guide/extracting#extracting-from-build-tools-pipeline
-In line 49 of your screenshot, the problem may be caused by multiple single quotes. Refer to Playground.在屏幕截图的第 49 行中，问题可能是由多个单引号引起的。请参阅游乐场。</i>
-                                        I understand your concern. I think it is OK to delete the string in @unocss/preset-attributify/extractor, because it does not affect the code. It just extracts the keywords in the code. Removing comments may even bring performance advantages, reducing more loops and possible special edge cases caused by irregular comments, because no one knows what will be written in his comments, but we don't need to care about this.
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2024, 13:18:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2024, 14:22:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
