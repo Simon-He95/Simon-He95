@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="918" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1234" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}.token.property,.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 220 repositories
+                            Contributed to 221 repositories
                         </div>
                     </section>
                 </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            162 Pull requests opened
+                            163 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,6 +302,1077 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">Simon-He95/metamask-extension</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dbdbaf1</div>
+                                        <div class="message">fix: ellipsify long NFT IDs (#25479)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+
+Long token IDs will overflow the padding and breaking the styling. This
+PR truncates long token IDs from the middle.
+
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25479?quickstart=1)
+
+## **Related issues**
+
+Fixes: #25370 
+
+## **Manual testing steps**
+
+1. Go to the send flow
+2. Select an NFT (721 or 1155) with a token ID long enough to overflow
+the component
+3. Ensure that it is truncated with and ellipsis in the middle
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+&lt;img width="405" alt="Screenshot 2024-06-21 at 6 00 32 PM"
+src="https://github.com/MetaMask/metamask-extension/assets/44588480/4c491710-f636-4980-8f9a-a22001e1380f"&gt;
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+### **After**
+
+&lt;img width="405" alt="Screenshot 2024-06-21 at 6 01 51 PM"
+src="https://github.com/MetaMask/metamask-extension/assets/44588480/911e494a-e940-49a6-9855-412babfc0557"&gt;
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+## **Pre-merge author checklist**
+
+- [x] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [x] I've completed the PR template to the best of my ability
+- [x] I’ve included tests if applicable
+- [x] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [x] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c632062</div>
+                                        <div class="message">fix: disable unsupported swap+send networks (#25474)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+
+Swap+Send relies on a function in the newest swap+send contracts (i.e.
+once Swap+Send is deployed on all current swap networks, Swap+Send
+network support should be 1-to-1 with that of Swaps). However, we are
+still waiting on the API to be updated for these new contracts so we
+cannot operate under the assumption that all of these networks will be
+deployed by the time Swap+Send begins rolling out in production.
+
+To mitigate this concern, we can utilize a property in Swaps' feature
+flag endpoint (see: https://swap.dev-api.cx.metamask.io/featureFlags)
+when the send flow is initialized to determine if that network should be
+disabled despite having swaps support.
+
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25474?quickstart=1)
+
+## **Related issues**
+
+Fixes: #25107 
+
+## **Manual testing steps**
+
+1. Set `SWAPS_USE_DEV_APIS=true` in `.metamaskrc` (the endpoint update
+hasn't been deployed to prod as of writing)
+2. Switch to an unsupported network (e.g., zkSync)
+3. Verify that, when entering the swaps flow, that network is disabled
+(i.e., the destination asset picker is disabled)
+4. Switch to a supported network (e.g., BNB)
+5. Verify that the network is not disabled in the send flow
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+#### zkSync (network enabled despite no support)
+
+&lt;img width="405" alt="Screenshot 2024-06-21 at 2 01 27 PM"
+src="https://github.com/MetaMask/metamask-extension/assets/44588480/fbbac5d5-860f-49a4-9bf3-1f4722a975f0"&gt;
+
+
+#### BNB (network enabled)
+
+&lt;img width="405" alt="Screenshot 2024-06-21 at 2 00 48 PM"
+src="https://github.com/MetaMask/metamask-extension/assets/44588480/06fbc608-829e-443f-80d2-8bd4e152843c"&gt;
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+### **After**
+
+#### zkSync (network disabled)
+
+&lt;img width="405" alt="Screenshot 2024-06-21 at 1 59 48 PM"
+src="https://github.com/MetaMask/metamask-extension/assets/44588480/7910a56c-3744-4aef-9964-085c83f6c391"&gt;
+
+#### BNB (network enabled)
+
+&lt;img width="405" alt="Screenshot 2024-06-21 at 2 00 11 PM"
+src="https://github.com/MetaMask/metamask-extension/assets/44588480/e3fd781f-e3f0-4e7d-bc1b-ed3cc2148dc8"&gt;
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+## **Pre-merge author checklist**
+
+- [x] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [x] I've completed the PR template to the best of my ability
+- [x] I’ve included tests if applicable
+- [x] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [x] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e00b43</div>
+                                        <div class="message">fix: disable multiple send transactions (#25468)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+
+Multiple transactions break STX logic; we need to prevent these
+transactions from being submitted concurrently. While the confirmations
+screen covers this, the swap+send flow bypasses this screen altogether,
+so we need to add logic to prevent submission via the instant submit
+button (i.e. submit for swap+send).
+
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25468?quickstart=1)
+
+## **Related issues**
+
+Fixes: #25349 
+
+## **Manual testing steps**
+
+1. Submit a smart transactions (e.g., basic send on mainnet)
+2. Go to the send flow and fill out the form for a swap+send
+3. Ensure that the submit button is disabled with a tooltip: "A previous
+transaction is still being signed or submitted"
+4. Ensure that the send flow is not reset to the recipient stage when
+the transactions complete
+5. Ensure that a transaction can now be submitted as normal
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+See: #25349 
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+### **After**
+
+
+https://github.com/MetaMask/metamask-extension/assets/44588480/8f2b662c-2e55-433c-8c4a-50aaeb912d22
+
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+## **Pre-merge author checklist**
+
+- [ ] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3552a39</div>
+                                        <div class="message">fix: flaky test `Settings Redirects to ENS domains when user inputs ENS into address bar` (#24898)
+
+This PR fixes some flakiness of the test `Settings Redirects to ENS
+domains when user inputs ENS into address bar`. After looking into the
+code I've identified a source of flakiness, as well as a problem that
+prevents to upload the artifacts (screenshot) if the test fail.
+
+- The test was not using any mock: this is a source of flakiness, and
+it's now fixed by adding the necessary mocks to the ENS contracts and
+Infura calls (we need to set Mainnet, since this feature is only
+available on Mainnet)
+- The test was not using fixtures: this per se is not a problem, but the
+issue here is that we are not triggering the
+`verboseReportOnFailure(title,error)` on error, making it harder to
+debug, as no artifacts are uploaded for this test, if it fails. Now we
+are going to be able to see the screenshot if the test ever fails again
+
+Circle ci job:
+https://app.circleci.com/pipelines/github/MetaMask/metamask-extension/83569/workflows/0883aa51-cd94-4066-9f96-77d1375e5e9b/jobs/2994904/tests
+
+Failure log: `TimeoutError: Wait timed out after 213ms`
+
+Extra note: @davidmurdoch is also working on mitigating the rest of the
+flakiness by waiting for the metamask to be fully initialized before
+proceeding with the test. This work will be done in a separate PR.
+
+---------
+
+Co-authored-by: Dan J Miller &lt;danjm.com@gmail.com&gt;
+Co-authored-by: Harika Jetpoluru &lt;153644847+hjetpoluru@users.noreply.github.com&gt;
+Co-authored-by: legobeat &lt;109787230+legobeat@users.noreply.github.com&gt;
+Co-authored-by: Howard Braham &lt;howrad@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#889ff38</div>
+                                        <div class="message">fix: issue where queued request counts were not included in logic to reroute from home screen and close notification (#25454)
+
+## **Description**
+
+We introduced logic to add queued requests (pending requests not yet in
+the `ApprovalController`) [to the trayIcon badge
+number](https://github.com/MetaMask/metamask-extension/blob/b8bd980b1c47b64f855cc599d1ee8ef3e961edcd/app/scripts/background.js#L853),
+but failed to account for these requests in two other crucial spots:
+- [Where we determine whether to reroute the homescreen for a pending
+transaction](https://github.com/MetaMask/metamask-extension/blob/b8bd980b1c47b64f855cc599d1ee8ef3e961edcd/ui/pages/home/home.component.js#L331)
+- [Where we determine whether to close the
+notification](https://github.com/MetaMask/metamask-extension/blob/b8bd980b1c47b64f855cc599d1ee8ef3e961edcd/ui/pages/home/home.component.js#L102)
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25454?quickstart=1)
+
+## **Related issues**
+
+Fixes: https://github.com/MetaMask/metamask-extension/issues/25412
+Fixes: https://github.com/MetaMask/MetaMask-planning/issues/2677
+
+## **Manual testing steps**
+
+1. Import a ledger account
+2. Connect ledger account to dapp 1 with sepolia (or any network)
+3. Connect a MM account to dapp 2 with mainnet (or any network)
+4. Trigger a tx from dapp 1 with ledger
+5. Trigger a tx from dapp 2 with MM account
+6. Confirm tx 1
+7. You should see a loading screen in the pop up waiting for you to
+confirm on your hardware wallet
+8. Confirm in your hardware wallet
+9. You should now see the transaction from dapp 2 on mainnet
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+
+https://github.com/MetaMask/metamask-extension/assets/34557516/ede5873c-18a8-45d3-8f38-ba10df496d2b
+
+### **After**
+
+
+https://github.com/MetaMask/metamask-extension/assets/34557516/879074b4-a028-4c9e-9a88-ba23603e032a
+
+## **Pre-merge author checklist**
+
+- [ ] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [x] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.
+
+---------
+
+Co-authored-by: jiexi &lt;jiexiluan@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4dc9d3</div>
+                                        <div class="message">feat(multichain): add BalancesController (#25257)
+
+## **Description**
+
+This PR adds the Balances Controller that retrieves non EVM balances of
+accounts.
+
+## **Related issues**
+
+Fixes https://github.com/MetaMask/accounts-planning/issues/452
+
+## **Manual testing steps**
+
+**This tests requires a btc account for the balances to appear in the
+state**
+
+1. Start the extension
+2. Create a non evm account
+3. Wait for interval to pass and see the balances in the state
+`state.metamask.balances`
+
+## **Screenshots/Recordings**
+
+Not Applicable
+
+## **Pre-merge author checklist**
+
+- [x] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [x] I've completed the PR template to the best of my ability
+- [x] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.
+
+---------
+
+Co-authored-by: Monte Lai &lt;monte.lai@consensys.net&gt;
+Co-authored-by: MetaMask Bot &lt;metamaskbot@users.noreply.github.com&gt;
+Co-authored-by: Charly Chevalier &lt;charly.chevalier@consensys.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c87e58</div>
+                                        <div class="message">feat: add alerts for redesigned contract interaction confirmation (#25174)
+
+Migrate the existing transaction alerts for contract interaction transactions to the new alert system.
+Update the `useCurrentConfirmation` hook to simplify the logic and use deep equal selectors.
+Update the alert system to recursively close all the alert modals when clicking an action button.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97edb9a</div>
+                                        <div class="message">fix: filter eth request to non-EVM accounts  (#25003)
+
+## **Description**
+
+This pr filters eth requests that goes to non evm accounts and also
+disables the selection of non evm accounts in the permission connect
+page.
+
+## **Related issues**
+
+Fixes https://github.com/MetaMask/accounts-planning/issues/462
+
+## **Manual testing steps**
+
+- Affects the accounts list during the dapp connection flow
+- Connection to dapps with an evm account stays the same.
+
+## **Screenshots/Recordings**
+
+Not applicable
+
+## **Pre-merge author checklist**
+
+- [x] I’ve followed [MetaMask Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [x] I've completed the PR template to the best of my ability
+- [x] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48bc2f0</div>
+                                        <div class="message">fix: flaky test `vault-decryption` due to autodetect NFT and tokens overlaying modals (#25466)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+The problem is that there is a new announcement modal that appears on
+top of the autodetect tokens. Both announcements need to be closed
+before proceeding with the test.
+
+
+
+![image](https://github.com/MetaMask/metamask-extension/assets/54408225/cc2920de-638f-4bc5-af05-b426af8f44a8)
+
+An issue has also been opened in order to address this on the MM side
+[here](https://github.com/MetaMask/metamask-extension/issues/25465).
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25466?quickstart=1)
+
+## **Related issues**
+
+Fixes:
+
+## **Manual testing steps**
+
+The ci run is here
+https://app.circleci.com/pipelines/github/MetaMask/metamask-extension/88631/workflows/722e50e3-0dbd-4a56-b691-508dd818b3d2/jobs/3264868
+
+![Screenshot from 2024-06-21
+16-27-12](https://github.com/MetaMask/metamask-extension/assets/54408225/a14effa4-3808-401a-86b5-ca85df9606d7)
+
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+
+https://github.com/MetaMask/metamask-extension/assets/54408225/9f8d85e8-c139-4d6a-b3c4-16b7e9fba2a5
+
+
+
+- [ ] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e3b289</div>
+                                        <div class="message">feat: edit custom network flow (#25272)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+Edit network flow from the modal added
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25272?quickstart=1)
+
+## **Related issues**
+
+Fixes:
+
+## **Manual testing steps**
+
+1. Run `yarn &amp;&amp; ENABLE_NETWORK_UI_REDESIGN=1 yarn start`
+2. Go to Settings -&gt; Developer Options
+3. Tun on the network new toggle
+4. Go to the wallet page
+5. Click on the network button ( see the video below )
+6. click on the three points button
+7. click on edit
+8. you should be able to edit a network
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+
+
+https://github.com/MetaMask/metamask-extension/assets/26223211/cc2e7716-cb13-4158-9994-1c7bccf377ad
+
+
+### **After**
+
+
+
+https://github.com/MetaMask/metamask-extension/assets/26223211/c6473a45-bdd1-49d7-81bd-cf92f55376f5
+
+
+
+## **Pre-merge author checklist**
+
+- [ ] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.
+
+---------
+
+Co-authored-by: David Walsh &lt;davidwalsh83@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6ebbc7</div>
+                                        <div class="message">fix: Preventing a routechange to the Metametrics Onboarding page on wallet creation (#25344)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abbd7ed</div>
+                                        <div class="message">feat: Artifact screenshots per open tab (#25453)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e48bee</div>
+                                        <div class="message">fix: locked app header styling and connection link (#25326)
+
+## **Description**
+
+This PR fixes the issue where the connection icon opens the account menu
+instead of the connection menu and the styling of the locked header
+
+## **Related issues**
+
+## **Manual testing steps**
+
+1. Open Metamask
+2. See that the fox on the locked logo is aligned to the right.
+3. Unlock the wallet
+4. Click the dapp icon to see the connection menu. 
+
+## **Screenshots/Recordings**
+
+### **Before**
+
+
+https://github.com/MetaMask/metamask-extension/assets/96463427/968afc67-c064-4080-a77a-dcfa6627c5e8
+
+### **After**
+
+
+https://github.com/MetaMask/metamask-extension/assets/96463427/18e1a96b-33c8-420c-8a77-dffb0873b09a
+
+
+
+
+## **Pre-merge author checklist**
+
+- [x] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [x] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.
+
+---------
+
+Co-authored-by: Charly Chevalier &lt;charly.chevalier@consensys.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3777882</div>
+                                        <div class="message">feat: show paymaster address in redesigned contract interaction (#25396)
+
+Display the paymaster address in the contract interaction confirmation.
+Replace duplicate `Box` usages with new `ConfirmInfoSection` component.
+Add stories for the full contract interaction confirmation page for easier testing.
+Create selectors to retrieve paymaster data and address by user operation ID.
+Rename `AlertRow` to `ConfirmInfoAlertRow`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5960ae7</div>
+                                        <div class="message">test: Store artifacts for `test-e2e-chrome-vault-decryption` tests (#24030)
+
+… in circleci
+
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/24030?quickstart=1)
+
+## **Related issues**
+
+Fixes:
+
+## **Manual testing steps**
+
+1. Go to this page...
+2.
+3.
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+### **After**
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+## **Pre-merge author checklist**
+
+- [ ] I’ve followed [MetaMask Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c8e1a9</div>
+                                        <div class="message">fix: Permit signature re-design papercuts (#25383)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c9b126</div>
+                                        <div class="message">feat: refactor e2e wallet rendered helper function (#25352)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+Refactor some e2e tests to use new helper function
+`logInWithBalanceValidation` or `locateAccountBalanceDOM` and remove
+previous function `waitForAccountRendered`. The former also two involves
+balance check from ganache server, we can migrate all to those and
+remove the DOM only check helper function.
+
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25352?quickstart=1)
+
+## **Related issues**
+
+Fixes:
+
+## **Manual testing steps**
+
+1. Go to this page...
+2.
+3.
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+### **After**
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+## **Pre-merge author checklist**
+
+- [ ] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99a1df7</div>
+                                        <div class="message">fix: capturing primaryType of typed signature messages in metrics (#25384)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03b7dec</div>
+                                        <div class="message">fix: flaky test `vault-decrypt` by removing driver navigate to open a new window (#25443)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+The vault decryption test opens 2 MetaMask windows whenever we start the
+test, causing flakiness in which window is currently selected and where
+the actions are performed.
+
+Having 2 MM windows, together with the fact that the Chrome active
+window can sometimes not be the same as the Webdriver active window (see
+@HowardBraham 's [work on that
+area](https://github.com/MetaMask/metamask-extension/pull/25362)),
+causes unpredictable effects - see video below.
+
+For fixing it, we now remove the step of `driver.navigate` which will
+open a MM window, and caused to have 2 windows instead of 1.
+
+However, this lead to a new problem. Lavamoat presents a race condition,
+which now is more present making the test fail in almost all runs. From
+@naugtur :
+
+&gt; It is indeed a race condition, because scuttling can only destroy the
+global references after they've been successfully copied and used for
+establishing the root compartment of the application.
+
+For fixing this, we add `Proxy` in the exceptions, following Lavamoat's
+team suggestion as a temporary solution.
+
+
+
+
+https://github.com/MetaMask/metamask-extension/assets/54408225/4385b491-eb23-4c7d-94b6-37e30c4ef70f
+
+
+
+
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25443?quickstart=1)
+
+## **Related issues**
+
+Fixes:
+
+## **Manual testing steps**
+
+See successful run
+[here](https://app.circleci.com/pipelines/github/MetaMask/metamask-extension/88573/workflows/154e6b73-7174-499d-b5f9-cb5ebf490d01/jobs/3261609)
+
+## **Screenshots/Recordings**
+
+&lt;!-- If applicable, add screenshots and/or recordings to visualize the
+before and after of your change. --&gt;
+
+### **Before**
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+### **After**
+
+&lt;!-- [screenshots/recordings] --&gt;
+
+## **Pre-merge author checklist**
+
+- [ ] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [ ] I've completed the PR template to the best of my ability
+- [ ] I’ve included tests if applicable
+- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [ ] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#acdaa2d</div>
+                                        <div class="message">feat: Convert Detect multiple instances tests from mocha to jest (#25331)
+
+&lt;!--
+Please submit this PR as a draft initially.
+Do not mark it as "Ready for review" until the template has been
+completely filled out, and PR status checks have passed at least once.
+--&gt;
+
+## **Description**
+
+&lt;!--
+Write a short description of the changes included in this pull request,
+also include relevant motivation and context. Have in mind the following
+questions:
+1. What is the reason for the change?
+2. What is the improvement/solution?
+--&gt;
+
+[![Open in GitHub
+Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25331?quickstart=1)
+
+This PR converts `app/scripts/detect-multiple-instances.test.js` from
+mocha to jest. In particular, replaces instances of `assert` with
+`expect`, and removes `sinon` and uses `jest`'s mocking capabilities in
+its place. The `jest.config.js` was updated to include
+`app/scripts/detect-multiple-instances.test.js` in the `testMatch`
+array. The `.mocharc.js` was updated to ignore the test.
+
+## **Related issues**
+
+Fixes: #19355
+
+## **Manual testing steps**
+
+1. Running `yarn jest -- app/scripts/detect-multiple-instances.test.js`
+and seeing all tests pass
+2. Running `yarn test:unit:mocha` and not seeing the metametrics tests
+run.
+
+## **Screenshots/Recordings**
+
+Not applicable
+
+## **Pre-merge author checklist**
+
+- [x] I've followed [MetaMask Contributor
+Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
+Extension Coding
+Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
+- [x] I've completed the PR template to the best of my ability
+- [x] I’ve included tests if applicable
+- [x] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
+if applicable
+- [x] I’ve applied the right labels on the PR (see [labeling
+guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
+Not required for external contributors.
+
+## **Pre-merge reviewer checklist**
+
+- [ ] I've manually tested the PR (e.g. pull and build branch, run the
+app, test code being changed).
+- [ ] I confirm that this PR addresses all acceptance criteria described
+in the ticket it closes and includes the necessary testing evidence such
+as recordings and or screenshots.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#25482 refactor(ui): components</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">MetaMask/metamask-extension</span></div>
+                                    <div>1 file changed <span class="code">++1 --3</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">refactor</span>
+                                        in
+                                        <span class="repo">Simon-He95/metamask-extension</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -331,69 +1402,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Simon-He95/fast-jump</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#842a4dc</div>
-                                        <div class="message">chore: release v0.0.65</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fcfddd</div>
-                                        <div class="message">chore: update deps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#3906 @unocss/runtime icons disappear randomly.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Alkaidcc in <span class="repo">unocss/unocss</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">runtime-perf</span>
-                                        in
-                                        <span class="repo">Simon-He95/unocss</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2024, 14:22:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jun 2024, 15:16:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
