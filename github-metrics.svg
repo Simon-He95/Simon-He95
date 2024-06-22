@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1318" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository,footer{display:flex;flex-direction:column}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}.token.property{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 527 users
+                            Followed by 528 users
                         </div>
                     </section>
                     <section>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            163 Pull requests opened
+                            164 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -166,13 +166,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    Prefers MIT license
+                                    No license preference
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    868 Releases
+                                    0 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -198,19 +198,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    998 Stargazers
+                                    0 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    83 Forkers
+                                    0 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    96 Watchers
+                                    0 Watchers
                                 </div>
                             </section>
                         </div>
@@ -222,10 +222,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    527 followers
+                    528 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHCP/EAC4QAAEDAgMGBQQDAAAAAAAAAAECAwQFEQASIQYTIjFBUQcUFWGRI3Gh8LHB0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIDAf/EABoRAQADAQEBAAAAAAAAAAAAAAEAAhEhA2H/2gAMAwEAAhEDEQA/ANIbR1qPQojb8pxKAtWVN/YEn8DCdL2i2hlLQ9Sn6f5cpKi3muoDoeX4wH8Yag4uqQoxbC0pbzNJtzUq4P8ACfnASmbPyAfUK6yGqWhslUhv6mqhYWy3OhPMdsYsZReym0XahYiFVd3UcAX3yVXQf39vhsbWh1tLiCFIULgjqMZ2pzE/1NqCzOIQDdhThsHRvOCxI7E/Hti/wFgRkoyoRu+CyVXGmNMyTsI9kn8UiltyJUVtXkMlsNNkXQ8LnOg37i1/t74dqXJpbVKYjRQhuORdLVu/FYDrif7WLVL24RTH1KVGacJTrxD6YVa/a+DVfhNwUwfKrdRlbctZZ7I/0/P2tK/2X89yBdt25O+jyUOR2o7EtDaWmki4sCbuLvqefIademGWl1d6DTo6Gpmi05zvOM5rkHXrqDhCmx80qpM71YbguK3IFtMx1vpioxKbCVDj5ozRs2OY76/3hChDbLdZ/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwQBAgUH/8QALxAAAQMCAwUFCQAAAAAAAAAAAQIDEQAEEiExBTJBYaETFFFxkSIjM7Gy0dLh8f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIRAyExUf/aAAwDAQACEQMRAD8A4uoa+Va9u+lSZCe0OESmASTl4k/KkH3UuwlthpqJ+HjM+pNP7PdIZYlZAEiSqBx8VgdP2HwOO22izzj04js5xtCyILjbbfPXCP5UdrcDcSwkHOO8J+9HuLuzTaowLaDgwGG0ieejY+uhN7WSkEYnjmeJ/KpJPwRcMbjTzalP2AZbbXkQhShAGsich1PCkVaURhZRepSACFKwmROVXGT2OXezUtW63kOyEZaTJ8x7HoTSJt7gAe4cgid01u2zqlbGXfqJLzTgQBJzHNW91qbltK3MShJIFTjOzSjR/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQYHBAX/xAAqEAABAwMDAwIHAQAAAAAAAAABAgMEAAURBhJBEyExB1EiI1JhcZGh4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQAB/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAAxIhIgQFETJR/9oADAMBAAIRAxEAPwCt8VH9T+qF6Zm3OPYLGHmoRIclOBaw2ASCSBjAyPfinE324XOW21aYqwxuwXXMge4J9h9uc0LJotyFI1CoTQ1b7iSZTQT22LHgcjBK/wCUiPCe0oPa1o4aE4PpR6gzdWS34V1jx2pLbXVSpkEBwZwexJxjIqnYpV0zoO36UuZkRB89yOGyoE9wTnknv2FNFdJV9iGoyx5RHs99diRkRy0gttN79w8udz/lMdjnLu0hwIebjrbSCkg5DoJ+g8dvHB/FTG0urKZG5RPTLaE54Hx1tU0koZdyQtJ2Ag8UV6g0jL1j1ti2xKlcpDEe5hrqBzqDJUDk5wPNHqN8LH7qfFOxptzKlLyDlRzWmPOko6qQ+vAcOMmstQAjCdwPyf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYEBwgD/8QALxAAAgEDAwIDBQkAAAAAAAAAAQMCBAURAAYSITETQVEUImGBsQcVFkJiccHh8f/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/AAm5LtU1NWuCCZqyAAPzf1oXb79SWK81n3isuKz4qlxOQGHvD4f7qF+JKelqah9IkNbj3ZuOB8ofPRm4bKU3ZEL7zb7Y1K6khjQSwTJGcY7ZB79emqrtYftOudZuJaby0MtdS4AqAACh5Y093KdVcK1raVjVKgfDEI9hjVO7YsIrH09SwZV4mIricmZHkfQa0ptqi9itCoT95s8sYf1HvoMjVdPOnqmIYCGLOJA+R1KqbjUuStTGs4LWFRBYSBH0+Hf66bdw0FPWLVWNhioYkTlKPTJ4x0mwXGTuJHTp9NUNGyb+qzXOnaI8EQJ5DHMTwPTyJOOo1cdbcqm5MhVUUJyppwBgfUd/51nikiDq5di1DJ7ZpOUs8TID9uR1KP/Z" width="28" height="28" alt="" />
@@ -249,7 +250,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAKxAAAQMDAwEHBQEAAAAAAAAAAQIDBAAFERIhMQYTFSJBUWGhFCMyUnGB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABsRAAMBAAMBAAAAAAAAAAAAAAABAgMRE1ES/9oADAMBAAIRAxEAPwDXbJDYstliQIv4MpAJ/c+Z/wBNTckKUrmqd25pSW0uOIQTsATzQfSs643mVdEybY7DaiyC0045sHk+ozj2O2eawNtt8saGpZHnRCZJUM0od5yW+re6F2+QGhH7f6vfs+SMA4x8534pmbKSgYIoAz+8w2ZegymQ5oOWzkgoP9FVl3uc5y1z4B16HWVtshpzQTlHrkYOaa3mUORRrGfER8Ck25p7F0FBVjUBgnbmpb2sYdlcp7KUMc7MxGHS0e2ZeXEQ0EZcdJcPrk5zR0SdAtkZuKj7SEDwpydhXfopDcm0oeebQpzjOKtZduiS3y4+whSh4c+wpZ32QtPRVPxTjw//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgDBP/EACsQAAICAQIEBQMFAAAAAAAAAAEDAgQRAAUGEiFBBxMiMXFhgZEIFTNRY//EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAgMREkET/9oADAMBAAIRAxEAPwDVGjURt90fuVrbmMc6whK3SbMACQZJgAAHceWc9NeRPESm7oimarwH2HVltyCOdQJlkZyB6Tg/HtnW4IOLeL9k4SVVbxBdFWFlnkqPJKXNL4iD0+umKPtrOf6rFG3e4dWiWWoi1khnIAJhjp9j+NPG4eJYrLpANrwfOvGT1kZ5G5IkPjpkf2CD30sqmoqS6FGzaTi+Dwnabit1tX43k+c9KkyBrHACzMjHr/0Oo6rwq2pusdxr3krueY6bJit/LFhyYT9XWIOCO4x79TluxoxodmKVXxV4Z2N5mxsdwXN0hksdEg5yPnpjP4H26UPCxNempL9wFhkBgtFYAyHYH1dhgD6Aas/RpvexrGQ1VFH/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -305,6 +305,75 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 14 commits in
+                                        <span class="repo">Simon-He95/core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">refactor</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7fa241f</div>
+                                        <div class="message">Merge branch 'main' into refactor</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#11198 refactor(compiler-core): code refactor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">vuejs/core</span></div>
+                                    <div>3 files changed <span class="code">++19 --28</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">refactor</span>
+                                        in
+                                        <span class="repo">Simon-He95/core</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">refactor</span>
+                                        in
+                                        <span class="repo">Simon-He95/core</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">Simon-He95/unocss</span>
                                     </div>
@@ -318,1113 +387,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/tailwindcss</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor-1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e66551f</div>
-                                        <div class="message">refactor(util): code refactor</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#25482 refactor(ui): components</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Simon-He95 in <span class="repo">MetaMask/metamask-extension</span></div>
-                                    <div class="comment">I have read the CLA Document and I hereby sign the CLA</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#25482 refactor(ui): components</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Simon-He95 in <span class="repo">MetaMask/metamask-extension</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            CLA Signature Action:
-Thank you for your submission, we really appreciate it. We ask that you read and sign our Contributor License Agreement before we can accept your contribution. You can sign the CLA by just by adding a comment to this pull request with this exact sentence:
-                                            <i>I have read the CLA Document and I hereby sign the CLA</i>
-                                            By commenting with the above message you are agreeing to the terms of the CLA. Your account will be recorded as agreeing to our CLA so you don't need to sign it again for future contributions to this repository.
-0 out of 1 committers have signed the CLA. ❌ @Simon-He95
-                                        </i>
-                                        I have read the CLA Document and I hereby sign the CLA
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">Simon-He95/metamask-extension</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">refactor</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbdbaf1</div>
-                                        <div class="message">fix: ellipsify long NFT IDs (#25479)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-
-Long token IDs will overflow the padding and breaking the styling. This
-PR truncates long token IDs from the middle.
-
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25479?quickstart=1)
-
-## **Related issues**
-
-Fixes: #25370 
-
-## **Manual testing steps**
-
-1. Go to the send flow
-2. Select an NFT (721 or 1155) with a token ID long enough to overflow
-the component
-3. Ensure that it is truncated with and ellipsis in the middle
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-&lt;img width="405" alt="Screenshot 2024-06-21 at 6 00 32 PM"
-src="https://github.com/MetaMask/metamask-extension/assets/44588480/4c491710-f636-4980-8f9a-a22001e1380f"&gt;
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-### **After**
-
-&lt;img width="405" alt="Screenshot 2024-06-21 at 6 01 51 PM"
-src="https://github.com/MetaMask/metamask-extension/assets/44588480/911e494a-e940-49a6-9855-412babfc0557"&gt;
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-## **Pre-merge author checklist**
-
-- [x] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [x] I've completed the PR template to the best of my ability
-- [x] I’ve included tests if applicable
-- [x] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [x] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c632062</div>
-                                        <div class="message">fix: disable unsupported swap+send networks (#25474)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-
-Swap+Send relies on a function in the newest swap+send contracts (i.e.
-once Swap+Send is deployed on all current swap networks, Swap+Send
-network support should be 1-to-1 with that of Swaps). However, we are
-still waiting on the API to be updated for these new contracts so we
-cannot operate under the assumption that all of these networks will be
-deployed by the time Swap+Send begins rolling out in production.
-
-To mitigate this concern, we can utilize a property in Swaps' feature
-flag endpoint (see: https://swap.dev-api.cx.metamask.io/featureFlags)
-when the send flow is initialized to determine if that network should be
-disabled despite having swaps support.
-
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25474?quickstart=1)
-
-## **Related issues**
-
-Fixes: #25107 
-
-## **Manual testing steps**
-
-1. Set `SWAPS_USE_DEV_APIS=true` in `.metamaskrc` (the endpoint update
-hasn't been deployed to prod as of writing)
-2. Switch to an unsupported network (e.g., zkSync)
-3. Verify that, when entering the swaps flow, that network is disabled
-(i.e., the destination asset picker is disabled)
-4. Switch to a supported network (e.g., BNB)
-5. Verify that the network is not disabled in the send flow
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-#### zkSync (network enabled despite no support)
-
-&lt;img width="405" alt="Screenshot 2024-06-21 at 2 01 27 PM"
-src="https://github.com/MetaMask/metamask-extension/assets/44588480/fbbac5d5-860f-49a4-9bf3-1f4722a975f0"&gt;
-
-
-#### BNB (network enabled)
-
-&lt;img width="405" alt="Screenshot 2024-06-21 at 2 00 48 PM"
-src="https://github.com/MetaMask/metamask-extension/assets/44588480/06fbc608-829e-443f-80d2-8bd4e152843c"&gt;
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-### **After**
-
-#### zkSync (network disabled)
-
-&lt;img width="405" alt="Screenshot 2024-06-21 at 1 59 48 PM"
-src="https://github.com/MetaMask/metamask-extension/assets/44588480/7910a56c-3744-4aef-9964-085c83f6c391"&gt;
-
-#### BNB (network enabled)
-
-&lt;img width="405" alt="Screenshot 2024-06-21 at 2 00 11 PM"
-src="https://github.com/MetaMask/metamask-extension/assets/44588480/e3fd781f-e3f0-4e7d-bc1b-ed3cc2148dc8"&gt;
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-## **Pre-merge author checklist**
-
-- [x] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [x] I've completed the PR template to the best of my ability
-- [x] I’ve included tests if applicable
-- [x] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [x] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e00b43</div>
-                                        <div class="message">fix: disable multiple send transactions (#25468)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-
-Multiple transactions break STX logic; we need to prevent these
-transactions from being submitted concurrently. While the confirmations
-screen covers this, the swap+send flow bypasses this screen altogether,
-so we need to add logic to prevent submission via the instant submit
-button (i.e. submit for swap+send).
-
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25468?quickstart=1)
-
-## **Related issues**
-
-Fixes: #25349 
-
-## **Manual testing steps**
-
-1. Submit a smart transactions (e.g., basic send on mainnet)
-2. Go to the send flow and fill out the form for a swap+send
-3. Ensure that the submit button is disabled with a tooltip: "A previous
-transaction is still being signed or submitted"
-4. Ensure that the send flow is not reset to the recipient stage when
-the transactions complete
-5. Ensure that a transaction can now be submitted as normal
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-See: #25349 
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-### **After**
-
-
-https://github.com/MetaMask/metamask-extension/assets/44588480/8f2b662c-2e55-433c-8c4a-50aaeb912d22
-
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-## **Pre-merge author checklist**
-
-- [ ] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3552a39</div>
-                                        <div class="message">fix: flaky test `Settings Redirects to ENS domains when user inputs ENS into address bar` (#24898)
-
-This PR fixes some flakiness of the test `Settings Redirects to ENS
-domains when user inputs ENS into address bar`. After looking into the
-code I've identified a source of flakiness, as well as a problem that
-prevents to upload the artifacts (screenshot) if the test fail.
-
-- The test was not using any mock: this is a source of flakiness, and
-it's now fixed by adding the necessary mocks to the ENS contracts and
-Infura calls (we need to set Mainnet, since this feature is only
-available on Mainnet)
-- The test was not using fixtures: this per se is not a problem, but the
-issue here is that we are not triggering the
-`verboseReportOnFailure(title,error)` on error, making it harder to
-debug, as no artifacts are uploaded for this test, if it fails. Now we
-are going to be able to see the screenshot if the test ever fails again
-
-Circle ci job:
-https://app.circleci.com/pipelines/github/MetaMask/metamask-extension/83569/workflows/0883aa51-cd94-4066-9f96-77d1375e5e9b/jobs/2994904/tests
-
-Failure log: `TimeoutError: Wait timed out after 213ms`
-
-Extra note: @davidmurdoch is also working on mitigating the rest of the
-flakiness by waiting for the metamask to be fully initialized before
-proceeding with the test. This work will be done in a separate PR.
-
----------
-
-Co-authored-by: Dan J Miller &lt;danjm.com@gmail.com&gt;
-Co-authored-by: Harika Jetpoluru &lt;153644847+hjetpoluru@users.noreply.github.com&gt;
-Co-authored-by: legobeat &lt;109787230+legobeat@users.noreply.github.com&gt;
-Co-authored-by: Howard Braham &lt;howrad@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#889ff38</div>
-                                        <div class="message">fix: issue where queued request counts were not included in logic to reroute from home screen and close notification (#25454)
-
-## **Description**
-
-We introduced logic to add queued requests (pending requests not yet in
-the `ApprovalController`) [to the trayIcon badge
-number](https://github.com/MetaMask/metamask-extension/blob/b8bd980b1c47b64f855cc599d1ee8ef3e961edcd/app/scripts/background.js#L853),
-but failed to account for these requests in two other crucial spots:
-- [Where we determine whether to reroute the homescreen for a pending
-transaction](https://github.com/MetaMask/metamask-extension/blob/b8bd980b1c47b64f855cc599d1ee8ef3e961edcd/ui/pages/home/home.component.js#L331)
-- [Where we determine whether to close the
-notification](https://github.com/MetaMask/metamask-extension/blob/b8bd980b1c47b64f855cc599d1ee8ef3e961edcd/ui/pages/home/home.component.js#L102)
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25454?quickstart=1)
-
-## **Related issues**
-
-Fixes: https://github.com/MetaMask/metamask-extension/issues/25412
-Fixes: https://github.com/MetaMask/MetaMask-planning/issues/2677
-
-## **Manual testing steps**
-
-1. Import a ledger account
-2. Connect ledger account to dapp 1 with sepolia (or any network)
-3. Connect a MM account to dapp 2 with mainnet (or any network)
-4. Trigger a tx from dapp 1 with ledger
-5. Trigger a tx from dapp 2 with MM account
-6. Confirm tx 1
-7. You should see a loading screen in the pop up waiting for you to
-confirm on your hardware wallet
-8. Confirm in your hardware wallet
-9. You should now see the transaction from dapp 2 on mainnet
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-
-https://github.com/MetaMask/metamask-extension/assets/34557516/ede5873c-18a8-45d3-8f38-ba10df496d2b
-
-### **After**
-
-
-https://github.com/MetaMask/metamask-extension/assets/34557516/879074b4-a028-4c9e-9a88-ba23603e032a
-
-## **Pre-merge author checklist**
-
-- [ ] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [x] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.
-
----------
-
-Co-authored-by: jiexi &lt;jiexiluan@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4dc9d3</div>
-                                        <div class="message">feat(multichain): add BalancesController (#25257)
-
-## **Description**
-
-This PR adds the Balances Controller that retrieves non EVM balances of
-accounts.
-
-## **Related issues**
-
-Fixes https://github.com/MetaMask/accounts-planning/issues/452
-
-## **Manual testing steps**
-
-**This tests requires a btc account for the balances to appear in the
-state**
-
-1. Start the extension
-2. Create a non evm account
-3. Wait for interval to pass and see the balances in the state
-`state.metamask.balances`
-
-## **Screenshots/Recordings**
-
-Not Applicable
-
-## **Pre-merge author checklist**
-
-- [x] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [x] I've completed the PR template to the best of my ability
-- [x] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.
-
----------
-
-Co-authored-by: Monte Lai &lt;monte.lai@consensys.net&gt;
-Co-authored-by: MetaMask Bot &lt;metamaskbot@users.noreply.github.com&gt;
-Co-authored-by: Charly Chevalier &lt;charly.chevalier@consensys.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c87e58</div>
-                                        <div class="message">feat: add alerts for redesigned contract interaction confirmation (#25174)
-
-Migrate the existing transaction alerts for contract interaction transactions to the new alert system.
-Update the `useCurrentConfirmation` hook to simplify the logic and use deep equal selectors.
-Update the alert system to recursively close all the alert modals when clicking an action button.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97edb9a</div>
-                                        <div class="message">fix: filter eth request to non-EVM accounts  (#25003)
-
-## **Description**
-
-This pr filters eth requests that goes to non evm accounts and also
-disables the selection of non evm accounts in the permission connect
-page.
-
-## **Related issues**
-
-Fixes https://github.com/MetaMask/accounts-planning/issues/462
-
-## **Manual testing steps**
-
-- Affects the accounts list during the dapp connection flow
-- Connection to dapps with an evm account stays the same.
-
-## **Screenshots/Recordings**
-
-Not applicable
-
-## **Pre-merge author checklist**
-
-- [x] I’ve followed [MetaMask Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [x] I've completed the PR template to the best of my ability
-- [x] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48bc2f0</div>
-                                        <div class="message">fix: flaky test `vault-decryption` due to autodetect NFT and tokens overlaying modals (#25466)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-The problem is that there is a new announcement modal that appears on
-top of the autodetect tokens. Both announcements need to be closed
-before proceeding with the test.
-
-
-
-![image](https://github.com/MetaMask/metamask-extension/assets/54408225/cc2920de-638f-4bc5-af05-b426af8f44a8)
-
-An issue has also been opened in order to address this on the MM side
-[here](https://github.com/MetaMask/metamask-extension/issues/25465).
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25466?quickstart=1)
-
-## **Related issues**
-
-Fixes:
-
-## **Manual testing steps**
-
-The ci run is here
-https://app.circleci.com/pipelines/github/MetaMask/metamask-extension/88631/workflows/722e50e3-0dbd-4a56-b691-508dd818b3d2/jobs/3264868
-
-![Screenshot from 2024-06-21
-16-27-12](https://github.com/MetaMask/metamask-extension/assets/54408225/a14effa4-3808-401a-86b5-ca85df9606d7)
-
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-
-https://github.com/MetaMask/metamask-extension/assets/54408225/9f8d85e8-c139-4d6a-b3c4-16b7e9fba2a5
-
-
-
-- [ ] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e3b289</div>
-                                        <div class="message">feat: edit custom network flow (#25272)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-Edit network flow from the modal added
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25272?quickstart=1)
-
-## **Related issues**
-
-Fixes:
-
-## **Manual testing steps**
-
-1. Run `yarn &amp;&amp; ENABLE_NETWORK_UI_REDESIGN=1 yarn start`
-2. Go to Settings -&gt; Developer Options
-3. Tun on the network new toggle
-4. Go to the wallet page
-5. Click on the network button ( see the video below )
-6. click on the three points button
-7. click on edit
-8. you should be able to edit a network
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-
-
-https://github.com/MetaMask/metamask-extension/assets/26223211/cc2e7716-cb13-4158-9994-1c7bccf377ad
-
-
-### **After**
-
-
-
-https://github.com/MetaMask/metamask-extension/assets/26223211/c6473a45-bdd1-49d7-81bd-cf92f55376f5
-
-
-
-## **Pre-merge author checklist**
-
-- [ ] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.
-
----------
-
-Co-authored-by: David Walsh &lt;davidwalsh83@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6ebbc7</div>
-                                        <div class="message">fix: Preventing a routechange to the Metametrics Onboarding page on wallet creation (#25344)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abbd7ed</div>
-                                        <div class="message">feat: Artifact screenshots per open tab (#25453)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e48bee</div>
-                                        <div class="message">fix: locked app header styling and connection link (#25326)
-
-## **Description**
-
-This PR fixes the issue where the connection icon opens the account menu
-instead of the connection menu and the styling of the locked header
-
-## **Related issues**
-
-## **Manual testing steps**
-
-1. Open Metamask
-2. See that the fox on the locked logo is aligned to the right.
-3. Unlock the wallet
-4. Click the dapp icon to see the connection menu. 
-
-## **Screenshots/Recordings**
-
-### **Before**
-
-
-https://github.com/MetaMask/metamask-extension/assets/96463427/968afc67-c064-4080-a77a-dcfa6627c5e8
-
-### **After**
-
-
-https://github.com/MetaMask/metamask-extension/assets/96463427/18e1a96b-33c8-420c-8a77-dffb0873b09a
-
-
-
-
-## **Pre-merge author checklist**
-
-- [x] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [x] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.
-
----------
-
-Co-authored-by: Charly Chevalier &lt;charly.chevalier@consensys.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3777882</div>
-                                        <div class="message">feat: show paymaster address in redesigned contract interaction (#25396)
-
-Display the paymaster address in the contract interaction confirmation.
-Replace duplicate `Box` usages with new `ConfirmInfoSection` component.
-Add stories for the full contract interaction confirmation page for easier testing.
-Create selectors to retrieve paymaster data and address by user operation ID.
-Rename `AlertRow` to `ConfirmInfoAlertRow`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5960ae7</div>
-                                        <div class="message">test: Store artifacts for `test-e2e-chrome-vault-decryption` tests (#24030)
-
-… in circleci
-
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/24030?quickstart=1)
-
-## **Related issues**
-
-Fixes:
-
-## **Manual testing steps**
-
-1. Go to this page...
-2.
-3.
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-### **After**
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-## **Pre-merge author checklist**
-
-- [ ] I’ve followed [MetaMask Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c8e1a9</div>
-                                        <div class="message">fix: Permit signature re-design papercuts (#25383)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c9b126</div>
-                                        <div class="message">feat: refactor e2e wallet rendered helper function (#25352)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-Refactor some e2e tests to use new helper function
-`logInWithBalanceValidation` or `locateAccountBalanceDOM` and remove
-previous function `waitForAccountRendered`. The former also two involves
-balance check from ganache server, we can migrate all to those and
-remove the DOM only check helper function.
-
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25352?quickstart=1)
-
-## **Related issues**
-
-Fixes:
-
-## **Manual testing steps**
-
-1. Go to this page...
-2.
-3.
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-### **After**
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-## **Pre-merge author checklist**
-
-- [ ] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99a1df7</div>
-                                        <div class="message">fix: capturing primaryType of typed signature messages in metrics (#25384)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03b7dec</div>
-                                        <div class="message">fix: flaky test `vault-decrypt` by removing driver navigate to open a new window (#25443)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-The vault decryption test opens 2 MetaMask windows whenever we start the
-test, causing flakiness in which window is currently selected and where
-the actions are performed.
-
-Having 2 MM windows, together with the fact that the Chrome active
-window can sometimes not be the same as the Webdriver active window (see
-@HowardBraham 's [work on that
-area](https://github.com/MetaMask/metamask-extension/pull/25362)),
-causes unpredictable effects - see video below.
-
-For fixing it, we now remove the step of `driver.navigate` which will
-open a MM window, and caused to have 2 windows instead of 1.
-
-However, this lead to a new problem. Lavamoat presents a race condition,
-which now is more present making the test fail in almost all runs. From
-@naugtur :
-
-&gt; It is indeed a race condition, because scuttling can only destroy the
-global references after they've been successfully copied and used for
-establishing the root compartment of the application.
-
-For fixing this, we add `Proxy` in the exceptions, following Lavamoat's
-team suggestion as a temporary solution.
-
-
-
-
-https://github.com/MetaMask/metamask-extension/assets/54408225/4385b491-eb23-4c7d-94b6-37e30c4ef70f
-
-
-
-
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25443?quickstart=1)
-
-## **Related issues**
-
-Fixes:
-
-## **Manual testing steps**
-
-See successful run
-[here](https://app.circleci.com/pipelines/github/MetaMask/metamask-extension/88573/workflows/154e6b73-7174-499d-b5f9-cb5ebf490d01/jobs/3261609)
-
-## **Screenshots/Recordings**
-
-&lt;!-- If applicable, add screenshots and/or recordings to visualize the
-before and after of your change. --&gt;
-
-### **Before**
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-### **After**
-
-&lt;!-- [screenshots/recordings] --&gt;
-
-## **Pre-merge author checklist**
-
-- [ ] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [ ] I've completed the PR template to the best of my ability
-- [ ] I’ve included tests if applicable
-- [ ] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [ ] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acdaa2d</div>
-                                        <div class="message">feat: Convert Detect multiple instances tests from mocha to jest (#25331)
-
-&lt;!--
-Please submit this PR as a draft initially.
-Do not mark it as "Ready for review" until the template has been
-completely filled out, and PR status checks have passed at least once.
---&gt;
-
-## **Description**
-
-&lt;!--
-Write a short description of the changes included in this pull request,
-also include relevant motivation and context. Have in mind the following
-questions:
-1. What is the reason for the change?
-2. What is the improvement/solution?
---&gt;
-
-[![Open in GitHub
-Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension/pull/25331?quickstart=1)
-
-This PR converts `app/scripts/detect-multiple-instances.test.js` from
-mocha to jest. In particular, replaces instances of `assert` with
-`expect`, and removes `sinon` and uses `jest`'s mocking capabilities in
-its place. The `jest.config.js` was updated to include
-`app/scripts/detect-multiple-instances.test.js` in the `testMatch`
-array. The `.mocharc.js` was updated to ignore the test.
-
-## **Related issues**
-
-Fixes: #19355
-
-## **Manual testing steps**
-
-1. Running `yarn jest -- app/scripts/detect-multiple-instances.test.js`
-and seeing all tests pass
-2. Running `yarn test:unit:mocha` and not seeing the metametrics tests
-run.
-
-## **Screenshots/Recordings**
-
-Not applicable
-
-## **Pre-merge author checklist**
-
-- [x] I've followed [MetaMask Contributor
-Docs](https://github.com/MetaMask/contributor-docs) and [MetaMask
-Extension Coding
-Standards](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/CODING_GUIDELINES.md).
-- [x] I've completed the PR template to the best of my ability
-- [x] I’ve included tests if applicable
-- [x] I’ve documented my code using [JSDoc](https://jsdoc.app/) format
-if applicable
-- [x] I’ve applied the right labels on the PR (see [labeling
-guidelines](https://github.com/MetaMask/metamask-extension/blob/develop/.github/guidelines/LABELING_GUIDELINES.md)).
-Not required for external contributors.
-
-## **Pre-merge reviewer checklist**
-
-- [ ] I've manually tested the PR (e.g. pull and build branch, run the
-app, test code being changed).
-- [ ] I confirm that this PR addresses all acceptance criteria described
-in the ticket it closes and includes the necessary testing evidence such
-as recordings and or screenshots.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jun 2024, 23:16:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2024, 00:20:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
