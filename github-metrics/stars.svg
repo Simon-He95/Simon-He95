@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="256" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/material-ui</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>francoismassart/eslint-plugin-tailwindcss</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ESLint plugin for Tailwind CSS usage</div>
@@ -129,11 +129,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>varletjs/varlet-icons-library-starter</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">
-                                </div>
+                                <div class="field description">A starter template for building an icon library, supporting vue3 and react.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
