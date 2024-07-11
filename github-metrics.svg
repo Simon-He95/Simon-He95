@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="909" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1291" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -305,15 +305,161 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vitesse</span>
+                                        Pushed 21 commits in
+                                        <span class="repo">Simon-He95/astro</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">refactor-astro</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d1b378b</div>
-                                        <div class="message">chore: update deps</div>
+                                        <div class="sha">#88e2b43</div>
+                                        <div class="message">fix: bad Handler type (#11448)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#619f07d</div>
+                                        <div class="message">Actions: expose utility types (#11438)
+
+* feat: expose ACTION_ERROR_CODES util
+
+* feat: expose ActionHandler util type
+
+* chore: changeset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d6f356</div>
+                                        <div class="message">[ci] format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ccb30e</div>
+                                        <div class="message">feat: astro:env allow schema keys to include numbers (#11437)
+
+Co-authored-by: Florian Lefebvre &lt;contact@florian-lefebvre.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea4bc04</div>
+                                        <div class="message">feat: `ActionReturnType` (#11443)
+
+* feat: ActionReturnType util
+
+* feat(test): ActionReturnType
+
+* chore: changeset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dca68f</div>
+                                        <div class="message">Fix: Actions `accept` type completions (#11436)
+
+* fix: `accept` type completions
+
+* chore: changeset
+
+* Edit: fix -&gt; fixes astro:actions
+
+Co-authored-by: Florian Lefebvre &lt;contact@florian-lefebvre.dev&gt;
+
+* feat(test): accept types
+
+---------
+
+Co-authored-by: bholmesdev &lt;bholmesdev@gmail.com&gt;
+Co-authored-by: Florian Lefebvre &lt;contact@florian-lefebvre.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa73316</div>
+                                        <div class="message">[ci] format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08baf56</div>
+                                        <div class="message">Actions: expand `isInputError` to accept `unknown` (#11439)
+
+* feat: allow type `unknown` on `isInputError`
+
+* chore: move ErrorInferenceObject to internal utils
+
+* chore: changeset
+
+* deps: expect-type
+
+* feat: first types test
+
+* chore: add types test to general test command
+
+* refactor: use describe and it for organization</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea8582f</div>
+                                        <div class="message">[ci] format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a4b31f</div>
+                                        <div class="message">feat: astro:env validateSecrets (#11337)
+
+Co-authored-by: Sarah Rainsberger &lt;sarah@rainsberger.ca&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75d118b</div>
+                                        <div class="message">[ci] release (#11409)
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9e906f</div>
+                                        <div class="message">Revert "Fix attribute rendering for boolean values (#11369)" (#11408)
+
+* Revert "Fix attribute rendering for boolean values (#11369)"
+
+This reverts commit e6de11f4a941e29123da3714e5b8f17d25744f0f.
+
+* Add a changeset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#571e184</div>
+                                        <div class="message">[ci] release (#11351)
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d958e08</div>
+                                        <div class="message">[ci] format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a55ee02</div>
+                                        <div class="message">fix(rewrite): correctly update the status code during a rewrite (#11352)
+
+* fix(rewrite): correctly update the status code during a rewrite
+
+* rebase
+
+* remove `.only`
+
+* remove log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93993b7</div>
+                                        <div class="message">fix(i18n): update strategy when defining manually astro i18n middleware (#11362)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a223b4</div>
+                                        <div class="message">fix(overlay): adjust the color of punctuations (#11388)
+
+* fix(overlay): adjust the color of punctuations
+
+* chore: add changeset</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e60aab9</div>
+                                        <div class="message">fix(deps): update all non-major dependencies (#11383)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Co-authored-by: bluwy &lt;bjornlu.dev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6de11f</div>
+                                        <div class="message">Fix attribute rendering for boolean values (#11369)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1ad389</div>
+                                        <div class="message">Update config.yml (#11370)</div>
                                     </div>
                                 </div>
                             </section>
@@ -322,15 +468,17 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">refactor</span>
-                                        in
-                                        <span class="repo">Simon-He95/rollup</span>
+                                        Commented on
+                                        <span class="issue">#66 feat: n-flex 自 2.37.0 提供该组件。</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ice-fortress in <span class="repo">Simon-He95/vscode-common-intellisense</span></div>
+                                    <div class="comment">英文部分也需要补充一下，谢谢
+另外仓库很久没有同步 naive-ui 的文档了，似乎有一些新的组件，如果你感兴趣的话，可以一起加上，我一般是通过脚本直接从 dom 信息上获取数据转换成 json 数据格式，粘贴过来的，你也可以参考这里的代码, 配置一个 naive-ui 的浏览器方法去获取 json</div>
                                 </div>
                             </section>
                         </div>
@@ -343,9 +491,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.6</span>
+                                        <span class="code">v0.0.24</span>
                                         in
-                                        <span class="repo">Simon-He95/translate</span>
+                                        <span class="repo">Simon-He95/vscode-highlight-text</span>
                                     </div>
                                 </div>
                             </section>
@@ -358,14 +506,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/translate</span>
+                                        <span class="repo">Simon-He95/vscode-highlight-text</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b1e191f</div>
-                                        <div class="message">chore: release v0.0.6</div>
+                                        <div class="sha">#e29eb00</div>
+                                        <div class="message">chore: release v0.0.24</div>
                                     </div>
                                 </div>
                             </section>
@@ -378,14 +526,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/translate</span>
+                                        <span class="repo">Simon-He95/vscode-highlight-text</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bcae1ac</div>
-                                        <div class="message">feat: 支持多个文本并行翻译</div>
+                                        <div class="sha">#615500c</div>
+                                        <div class="message">perf: 按需更新,解决了页面抖动,代码重构</div>
                                     </div>
                                 </div>
                             </section>
@@ -395,7 +543,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jul 2024, 21:19:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jul 2024, 22:15:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
