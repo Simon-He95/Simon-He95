@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1055" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="889" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 562 users
+                            Followed by 561 users
                         </div>
                     </section>
                     <section>
@@ -222,7 +222,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    562 followers
+                    561 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -307,9 +307,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.1.15</span>
+                                        <span class="code">v0.1.65</span>
                                         in
-                                        <span class="repo">vscode-use/utils</span>
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
                                     </div>
                                 </div>
                             </section>
@@ -322,14 +322,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">vscode-use/utils</span>
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#587aaaa</div>
-                                        <div class="message">chore: release v0.1.15</div>
+                                        <div class="sha">#5e87ec0</div>
+                                        <div class="message">chore: release v0.1.65</div>
                                     </div>
                                 </div>
                             </section>
@@ -342,14 +342,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">vscode-use/utils</span>
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f040e66</div>
-                                        <div class="message">feat(isInPosition): support with offset</div>
+                                        <div class="sha">#465cea1</div>
+                                        <div class="message">fix(isInAttribute): with no attr</div>
                                     </div>
                                 </div>
                             </section>
@@ -358,83 +358,11 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">Simon-He95/vue-vine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8a109f3</div>
-                                        <div class="message">docs: add playground (#134)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19ec8b4</div>
-                                        <div class="message">docs: add contributing doc (#131)
-
-* docs: add contributing doc
-* chore: add contribution guide Chinese edition. [ci skip]
-
----------
-
-Co-authored-by: ShenQingchuan &lt;tmy991106@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b228dd</div>
-                                        <div class="message">release: publish extension v0.1.14</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27f8cb5</div>
-                                        <div class="message">feat(vsc-ext): modify grammar definition and Rocking Vine theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cef84c</div>
-                                        <div class="message">release: publish extension v0.1.13</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5963ea2</div>
-                                        <div class="message">feat(vsc-ext): add Rocking Vine theme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bf64a3</div>
-                                        <div class="message">release: publish extension v0.1.12</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b475932</div>
-                                        <div class="message">fix(playground): example broken by async</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a489280</div>
-                                        <div class="message">feat(vscode-ext): add snippets (#125)
-
-* feat(vscode-ext): add snippets
-* feat(vscode-ext): add vsty snippets
-* feat(vscode-ext): add vtpl snippet
-* feat(vscode-ext): add vcf snippet
-* feat(vscode-ext): add vstysc snippet
-* feat(vscode-ext): vsty add one more slot
-* chore(playground): remove test code
-* feat(vscode-ext): add vpr, vprdf and vpr? snippets
-* feat(vscode-ext): add vemt snippet
----------
-
-Co-authored-by: ShenQingchuan &lt;tmy991106@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
+                                        Closed
                                         <span class="issue">#73 todo: support vue-vine</span>
                                     </div>
                                 </div>
@@ -443,12 +371,28 @@ Co-authored-by: ShenQingchuan &lt;tmy991106@gmail.com&gt;</div>
                                 </div>
                             </section>
                         </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.1.64</span>
+                                        in
+                                        <span class="repo">Simon-He95/vscode-common-intellisense</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2024, 22:16:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2024, 23:18:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
