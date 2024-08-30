@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1242" class="">
     <defs>
         <style/>
     </defs>
@@ -302,6 +302,102 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 384 commits in
+                                        <span class="repo">Simon-He95/vue-vben-admin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c531f0c</div>
+                                        <div class="message">chore: init website project</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59b4f7d</div>
+                                        <div class="message">fix: stylelint not work</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11a36ef</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2644db</div>
+                                        <div class="message">fix: When refreshing the page, the topic is wrong</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#352119c</div>
+                                        <div class="message">fix: 修复tabs已知问题</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#977d108</div>
+                                        <div class="message">feat: add shortcut keys</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#666371e</div>
+                                        <div class="message">chore: Optimize loading display</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0732a8d</div>
+                                        <div class="message">chore: format code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e042a03</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38d5839</div>
+                                        <div class="message">feat: add docker shell</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d733987</div>
+                                        <div class="message">chore: remove unuse file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c28adc9</div>
+                                        <div class="message">feat: The accordion mode of the menu is configurable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0423eb</div>
+                                        <div class="message">feat(project): add menu split config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1cdea4</div>
+                                        <div class="message">feat(project): support dynamic title</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e83adf0</div>
+                                        <div class="message">fix: some bugs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9a7eef</div>
+                                        <div class="message">feat: add website package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20af961</div>
+                                        <div class="message">chore: update dir</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6087ce</div>
+                                        <div class="message">chore(project): refactor types dir</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c31d21b</div>
+                                        <div class="message">feat(other): The menu supports jumping to external links and fixing some known problems</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#399334a</div>
+                                        <div class="message">chore: init project</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -373,38 +469,12 @@ fix(deps): update dependency typescript to v5.5.4</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Simon-He95/lazy-js-utils-docs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d8251f</div>
-                                        <div class="message">Merge pull request #79 from Simon-He95/renovate/astro-monorepo
-
-fix(deps): update dependency astro to v4.14.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0644e40</div>
-                                        <div class="message">fix(deps): update dependency astro to v4.14.6</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2024, 20:33:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Aug 2024, 21:22:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
