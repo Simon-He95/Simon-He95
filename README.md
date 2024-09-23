@@ -102,7 +102,7 @@
 ### 为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪
 [`Buy me a cup of coffee`](https://github.com/Simon-He95/sponsor)
 
-[`爱发电`](https://afdian.net/a/simon-he1995)
+[`爱发电`](https://afdian.com/a/simon-he1995)
 
 ## Sponsors
 
