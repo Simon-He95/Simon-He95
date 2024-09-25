@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1022" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1338" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -302,6 +302,169 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 293 commits in
+                                        <span class="repo">Simon-He95/tailwindcss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#722f436</div>
+                                        <div class="message">bump versions to `4.0.0-alpha.4` (#13113)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bfc1cc</div>
+                                        <div class="message">add extension less exports for all exported CSS files (#13110)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd2c680</div>
+                                        <div class="message">bump versions to `4.0.0-alpha.3` (#13106)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99e3fdb</div>
+                                        <div class="message">drop deprecated `decoration-slice` and `decoration-clone` utilities (#13107)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#813aa45</div>
+                                        <div class="message">[v4] Improve CI by linting before installing playwright browsers (#13105)
+
+* improve CI by linting before building and intalling playwright browsers
+
+* move lint below build</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3b2deb</div>
+                                        <div class="message">[v4] Support old important modifier position (#13103)
+
+* Support old important modifier position
+
+* update
+
+---------
+
+Co-authored-by: Adam Wathan &lt;4323180+adamwathan@users.noreply.github.com&gt;
+Co-authored-by: Jordan Pittman &lt;jordan@cryptica.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19fcd0e</div>
+                                        <div class="message">use `fs.readFileSync` instead of an import (#13104)
+
+In some environments, depending on the Node version importing a `.json`
+file without a `with` or `assert` doesn't work.
+
+Let's play it safe and use an `fs.readFileSync` instead.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a2b319</div>
+                                        <div class="message">bump versions to `4.0.0-alpha.2`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ba42fe</div>
+                                        <div class="message">Copy README file to every package (#13096)
+
+* copy README file to every package
+
+* point workflow status badge to correct workflow file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0597489</div>
+                                        <div class="message">Move the CLI to its own package `@tailwindcss/cli` (#13095)
+
+* move `cli` to its own package `@tailwindcss/cli`
+
+* minify builds when using `tsup`
+
+* prefer tsup cli flag over tsup.config.ts file
+
+* add `--clean`, to make sure `dist/` folders are cleaned before building
+
+* make CLI esm only
+
+* use version of `tailwindcss` instead of the version of `@tailwindcss/cli`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bab74da</div>
+                                        <div class="message">Prep alpha release (#13089)
+
+* use `next` as default release channel
+
+* bump versions to `4.0.0-alpha.1`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abb702b</div>
+                                        <div class="message">Add README, LICENSE, and CONTRIBUTING (#13088)
+
+* Add README, LICENSE, CONTRIBUTING, and CODE_OF_CONDUCT
+
+* Add alpha status to README.
+
+* Remove intro sentence
+
+---------
+
+Co-authored-by: Adam Wathan &lt;4323180+adamwathan@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca07ca8</div>
+                                        <div class="message">Only output `@property foo` once instead of N times (#13087)
+
+* only output `@property foo` once instead of N times
+
+* compute the indent once
+
+* improve performance by using strings and for-loops
+
+* drop unnecessary new line</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#191643f</div>
+                                        <div class="message">pretty print generated CSS by default (#13086)
+
+The pretty printing is fairly basic, but it adds some space between
+properties `color: red;`, adds newlines after `;`, `{`, and `}`.
+
+Last but not least, it indents nested CSS based on depth with 2 spaces.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86e7119</div>
+                                        <div class="message">use `oxide` tag instead of `internal` tag by default
+
+This will allow us to install `tailwindcss@oxide`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1988978</div>
+                                        <div class="message">rename `release.yml` to `release-oxide.yml`
+
+This way we can re-use the workflow that already exists on the `master`
+branch and it will allow us to trigger manual releases from the `next`
+branch without making changes to the `master` branch.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#117ceef</div>
+                                        <div class="message">ensure CI runs against PRs that have to go into `next`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a500854</div>
+                                        <div class="message">run CI on `master` and `next` branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a68de1d</div>
+                                        <div class="message">introduce v4 codebase</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32cf8aa</div>
+                                        <div class="message">remove v3 codebase</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                                     </svg>
                                     <div class="content">
@@ -380,32 +543,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">common-intellisense/common-intellisense</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#febdf98</div>
-                                        <div class="message">chore: update deps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2024, 06:17:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 07:18:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
