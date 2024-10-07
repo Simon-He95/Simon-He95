@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="909" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
     <defs>
         <style/>
     </defs>
@@ -307,9 +307,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.2.19</span>
+                                        <span class="code">v0.0.37</span>
                                         in
-                                        <span class="repo">common-intellisense/common-intellisense</span>
+                                        <span class="repo">Simon-He95/v-component-prompter</span>
                                     </div>
                                 </div>
                             </section>
@@ -322,34 +322,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">common-intellisense/common-intellisense</span>
+                                        <span class="repo">Simon-He95/v-component-prompter</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aacd487</div>
-                                        <div class="message">chore: release v0.2.19</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">common-intellisense/common-intellisense</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#27aff00</div>
-                                        <div class="message">fix: 当导入多个UI单独组件时类型提示不生效</div>
+                                        <div class="sha">#47fc0d5</div>
+                                        <div class="message">chore: release v0.0.37</div>
                                     </div>
                                 </div>
                             </section>
@@ -363,9 +343,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.34</span>
+                                        <span class="code">v0.2.20</span>
                                         in
-                                        <span class="repo">Simon-He95/vscode-highlight-text</span>
+                                        <span class="repo">common-intellisense/common-intellisense</span>
                                     </div>
                                 </div>
                             </section>
@@ -378,14 +358,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-highlight-text</span>
+                                        <span class="repo">common-intellisense/common-intellisense</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#26c0baa</div>
-                                        <div class="message">chore: release v0.0.34</div>
+                                        <div class="sha">#61d56ac</div>
+                                        <div class="message">chore: release v0.2.20</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">common-intellisense/common-intellisense</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3f710f7</div>
+                                        <div class="message">fix: hover multiple UI lib</div>
                                     </div>
                                 </div>
                             </section>
@@ -395,7 +395,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 19:18:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 20:37:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
