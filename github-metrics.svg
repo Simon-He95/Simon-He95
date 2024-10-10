@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1255" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
     <defs>
         <style/>
     </defs>
@@ -302,6 +302,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-tailwind-magic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3152fc0</div>
+                                        <div class="message">docs: update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vscode-tailwind-magic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4195998</div>
+                                        <div class="message">chore: start charge</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
@@ -354,138 +394,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-toggle-dynamic-prop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d09da6</div>
-                                        <div class="message">chore: add function to toggleExport</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 296 commits in
-                                        <span class="repo">Simon-He95/Follow</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3a7ed50</div>
-                                        <div class="message">feat: followed status for external follow button</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cfe2ab</div>
-                                        <div class="message">fix: lists edit follow modal in external page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c4c3c5</div>
-                                        <div class="message">feat: display feed list in lists external page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46e246a</div>
-                                        <div class="message">feat: list api in subscription modal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0454747</div>
-                                        <div class="message">ci: fix macos nightly build
-
-Signed-off-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09eae80</div>
-                                        <div class="message">feat: compatible profile query by username
-
-Signed-off-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48b86d2</div>
-                                        <div class="message">Merge branch 'dev' into ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b57f43f</div>
-                                        <div class="message">fix: lists date group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36fbbdd</div>
-                                        <div class="message">feat: sort list by insertedat</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65e69cd</div>
-                                        <div class="message">Merge branch 'dev' into ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17b1de9</div>
-                                        <div class="message">chore: update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4166cb2</div>
-                                        <div class="message">chore: update hono</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc52075</div>
-                                        <div class="message">Merge branch 'dev' into ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#caf5fe5</div>
-                                        <div class="message">fix: import circular and copywrite i18n
-
-Signed-off-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3bf9d9e</div>
-                                        <div class="message">update
-
-Signed-off-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#185ea0f</div>
-                                        <div class="message">Merge branch 'dev' into ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8decd43</div>
-                                        <div class="message">chore: format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94965b9</div>
-                                        <div class="message">Merge branch 'dev' into ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d81f57d</div>
-                                        <div class="message">feat: read image proxy url from ab value</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f3b787</div>
-                                        <div class="message">init
-
-Signed-off-by: Innei &lt;i@innei.in&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2024, 04:20:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2024, 05:19:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
