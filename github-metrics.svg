@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="922" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1205" class="">
     <defs>
         <style/>
     </defs>
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1025 repositories
+                            Starred 1026 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,6 +302,136 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 336 commits in
+                                        <span class="repo">Simon-He95/vueuse</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#12c09a1</div>
+                                        <div class="message">fix(useAnimate): immediate option set false not working (#3763)
+
+Co-authored-by: banruo &lt;shl@dataqin.com&gt;
+Co-authored-by: Anthony Fu &lt;github@antfu.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dee9ac4</div>
+                                        <div class="message">feat(useDraggable): add disabled parameter (#3613)
+
+Co-authored-by: banruo &lt;shl@dataqin.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20aecd2</div>
+                                        <div class="message">docs(useDraggable): update demo style[z-index] (#3725)
+
+Co-authored-by: banruo &lt;shl@dataqin.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98fac39</div>
+                                        <div class="message">feat(useMutationObserver): allow multiple targets (#3741)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15fc0fa</div>
+                                        <div class="message">feat(useBreakpoints): add `strategy` option to allow desktop-first convention (#3783)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66d09b5</div>
+                                        <div class="message">feat(throttleFilter): support object as argument (#3722)
+
+Co-authored-by: Anthony Fu &lt;github@antfu.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#668ca14</div>
+                                        <div class="message">fix(useFileSystemAccess): updateData on modified file (#3780)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b8ed55</div>
+                                        <div class="message">fix(useGamepad): improve data updating logic (#3775)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c73515</div>
+                                        <div class="message">fix(useGamepad): explicitly ensure gamepad index is available (#3653)
+
+Co-authored-by: AntoninRousset &lt;antonin@i-r-s.ch&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d33176e</div>
+                                        <div class="message">feat(useBreakpoints): enable passing ref or getter to get breakpoints (#3621)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#751683a</div>
+                                        <div class="message">fix(createReusableTemplate): improve types (#3641)
+
+Co-authored-by: louiss0 &lt;louisshelton0gmail.com&gt;
+Co-authored-by: Anthony Fu &lt;github@antfu.me&gt;
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55b943a</div>
+                                        <div class="message">fix(useDraggable): avoid moving out of container (#3768)
+
+Co-authored-by: wangliangxin3 &lt;wangliangxin3@jd.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2cfd34</div>
+                                        <div class="message">feat(createInjectionState): injectionKey use composable name (#3788)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31d4a49</div>
+                                        <div class="message">fix(useFetch): mark `isFinished`, `isFetching` readonly (#3616)
+
+Co-authored-by: Anthony Fu &lt;anthonyfu117@hotmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f66e6f</div>
+                                        <div class="message">fix(useMounted): hold the instance, close #3785, close #3795</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a086e8b</div>
+                                        <div class="message">fix: stricter types</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a61d33</div>
+                                        <div class="message">chore: update deps</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cea5078</div>
+                                        <div class="message">chore: typo (#3784)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a80fde</div>
+                                        <div class="message">chore: create FUNDING.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f84d63</div>
+                                        <div class="message">docs: add update interval time unit (#3771)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">magicuidesign/magicui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -347,52 +477,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/simon.me</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#017b44b</div>
-                                        <div class="message">fix: image link</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/simon.me</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a416d6a</div>
-                                        <div class="message">chore: update deps</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2025, 11:23:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2025, 12:22:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
