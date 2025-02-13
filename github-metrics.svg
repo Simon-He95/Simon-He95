@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1255" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 654 users
+                            Followed by 655 users
                         </div>
                     </section>
                     <section>
@@ -222,10 +222,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    654 followers
+                    655 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgQFAQMH/8QALRAAAQMCBQIEBgMAAAAAAAAAAQIDBAURAAYSEyExURQiMkEVU3GBkbFhweH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHhEAAQQDAQEBAAAAAAAAAAAAAQACAxEEEiETQZH/2gAMAwEAAhEDEQA/AJMOox/jvgpT5b1NXbSLeZfPU/bCaTFpz7NoEha30EIdSHEuBCvccWtjnFFlVedLQZUFlkslWpzbc9rei4+twcXNRl/C50TZeWN0jddDRNx346f7iHkSEaxgUQP3qsY0YfbifqlZipyqfQpb777Uggr0lPf2B+mDGV3nJ1GaffUkuFa0nSnjhZH9YvMwR9qiz2YQb8PtF+wHI7g/Xrf+MEsoSNFBaCb23He3zFY1i9u0PKGtAJFlWtO1iS6+2jdqLjaGHdIcJXo4Cz1AJAH4viZU5k5tO020hDqD6bcg42ZEmrp9GisRG2m0qj761BPmUvuTgTmCsTZE+bNU+tL2oegkJ6dsBe31kKMx3jGNup9ltp1xlfjSC4o9FXP57/rFQ/lwR3ltRTsshRIS36bk3JH3Jw3cpTDOVqNUm1vJlSYzbjp18KKgL/vGErHKdtqyTpHkHTCx3jNAphpZILIX/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwIDBQYABAj/xAAlEAACAQMDBAIDAAAAAAAAAAABAgMABBEFITEGElFxExYiQWH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHhEAAgMBAAIDAAAAAAAAAAAAAQIAAxEEEhMUISL/2gAMAwEAAhEDEQA/AOnqZmuYYO0TypGzbDubGadJwCcZ/lDW+1GC56nuUvXlMUbgQrKNh+IyPGe7ORzsM1L39fxa/Zm/YlVFXtbxhEtLyC8jZ7aZJVVu0spyM+6ebmqz0pI5nlS3KmzG7YGyt4B845H62qzNzWvPcbKxYRmxHUI5AmnrLXI0+Q2VuLmccRmX48+jQ7gsbqWymP16/TVGAJaR+9Q53bcnznjx6ooisJ3odHPXd+bBogrdkOockN0tp7adpVvAytGETHxvgnPJORUw3NKpLc1SqhBgiz//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAADq0lEQVR4nKVWSUxTURT9WK0bExPjhNFEjbPRBUs0caUuUBdG4sKocUBNN7ozChgnRKziEBMxdU6c52iMxKhxABwo0F/KUMBCbRkFidbygdZjzqPF/n5rB25yN//ef897993hSFIU0el0UlpaWqrJZDJWVVUVK4rSDsBHVRSljd9MJtNx+tA3YdHr9UkGg2G90+ms8gMoavqJI6+bsfGuAyuv1QnddM+BvDct+OzygEJfg8GwQa/XD4sLLCUlZaYsyyXePj/y37VimlGGtLf0vzo734qCj+3o9f2GLMvFjBETWEZGRrrX6/1xz9qFKXmWqEDhOvOEFc/t3WAMxooK5gf8O5864wYK1wMv3cyyPyIoU8BT7XraNGQwKaAHX7rFTTXp5SMz70xj6A/rbn/B8st26DKjB9dnm7HqWh3Sb9Srvhfau/mmJSzCQUBWIwsk9M1GZpuh9LM+Afu3Hqy4Wodll+wwPG7CnkIXdj//ii33HVh8vgbpNxrg7O4Vvl3efs2b9vl+gxgCjL3Dcs5/36pynJRrQaIyMtusimX61C5aRvQpG5b3mHpM1qQoeMN4pMPTp0n3/FOVwkYsiROETR3utONRY0K38/mBZZdqNfHKm3+BWJIsy0U5r5tVxuFZpeKkiYrZ7dEAnnjXCpvNVixxHm68+0VlXHjGhqHKuMMVqphbHzhALAlA/4qrdpVxUUH1kAHn5FtVMdkyxBKAHMShxnknrUMGnHBEfcOVQUBec/N9h8o4IssMTy83UGLS+lNbqdwsIqV8SOPbFo3DFXNHwoCnitQ9TeUaY4GKtmDJhjsk51rg6FLiBqvt6MGYQ+WaeKUuz0BbsBnpuOB0pTCM2l+G5NyB/I/PqcAtS6forWhCn5uWTowNq07q3EBNiMYPjrYLnzsGW6KhU8GhV82q27J1bG1eDVCZ+5cY8hPDikQKUS7mwdEWHN4csLMCpTz5qAXfe/qx9mbD4E8TcirENg8XDv3RB8oigs04LqPX5/87vAPrKYnriaskKeDI6UOAsyVt2P6oEXesXRHTmVpQHRHwWY1YT8UanhNcwAdfuYUjT/3x6wA5iiZLTDX/BMt+4fr3Ag6lGKQFQVBdVimWXqzFtoeN2PfCFRdgZqHr/xQjnEQxvVyewQAMGgvgdKOMJ9XfYyNRoell3vt8EBU292Ql1lyvjwi4+nq9aKtzH0gT/fHRxKDwkUlqWc4xPeRfIrxexV/ilVCqz5NzHoZQ/fYA1TfGSvX/ANoQyUwClTp6AAAAAElFTkSuQmCC" width="28" height="28" alt="" />
@@ -249,7 +250,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwMFBgEE/8QALRAAAQMEAQIEBAcAAAAAAAAAAQIDBAAFESEGEzFBUWFxBxIUIhcyM1KBobH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwAB/8QAGxEAAwACAwAAAAAAAAAAAAAAAAECAxEhIjH/2gAMAwEAAhEDEQA/AN7cuVvzCUtkoHmKr7s9LtsZuRBP1rjySEgJJIUe2R7kVFarc4+4MJ1WL5fyJ23znWrG4HTCllExxtQBDaxnAODrI3jxHrVMvC6gwpW+wg8emXh1o9eI25EA/Xz0ydeCNnHvVqt9h1La3UKQsoGU5GqGrlzBERmA+2XID4HVbhgaQk/vCdYI3hf9UzccksSbFBeZKEocaCgEHQoRVP0rcwvD23SImIw5DZWuP1WiG5jZSQFnQGO/+ehoo498K76mD9dyaOY8hl5QcdD/AFA814LxgnvvHf0FK10gN2zljDzK3nEupSoNPOFbaCd6HuM7z3NTc+vk6LYmpEdwIcSoHQ0deNcadLbMmk9IJvwwjSLjb+s+47LuDwClEq+9s7WRn8pRjsR/NPFu4tYbNERDh29tLSN/cpSiT55JrH8PkOzWXLtKWXJnyEBR7JGewHlXZlylKfUS6c0pkGS+T//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAgME/8QAKRAAAQMCBQMEAwEAAAAAAAAAAQIDBAARBRITITEGQWEUMlGRIjRxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQFBv/EACYRAAECBQMDBQAAAAAAAAAAAAECAwAEBRESITGBBlGhE0FhkcH/2gAMAwEAAhEDEQA/AJ1ILgZJZAz7ci4piwXpF7EkNzH5kllA20GmQsHznvv9UDQ6ttJDZ5tseDbi9VqG9ClYe2GnpUdamUIBbVnI5BIQQRsfkdvFajqObeYQlDCrE/NtuDEmlobyKnkkpHYX35ESXGYb+DYouI5LjSwSCnTuhxtN7HOg8VjTJ1aoOY3JjN6pGVtYcUUjNsfeBvfYkZh3Pilun0d1b0qlTpzPB8jT6g1QCEvENjEdrEeDtzHZhH7yB6JuaLG7LoBQf7farZEjYWYSGmUYetsoGZt5I1EG3AufxG3HbzUKjPuxnUvsLKHUe1Q7Vtkz5M57O+6SbZbDYWqfXumhWVXS4UKTpca3G+0Ip9UckxhiCIdevmYMUNmPHRNXpafqim+mfB43+R8WpCok/i8t+KiKtYDVkpukWNgkjn/B9UNqjR6ainS3poUSSbkn3P5xA5+fVOKzWLW0Fu0f/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBwT/xAAvEAABAwMDAgQDCQAAAAAAAAABAgMEBREhAAYTEjEHUWFxFCKRFSNEUoGSocHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIEBf/EACERAAIBAwMFAAAAAAAAAAAAAAECABESIQMEEyIxQUKh/9oADAMBAAIRAxEAPwCBofh9UqjHDoitxW2W/iHXX5OFti1xi+c6dQ2ovBZuowyhsW+WoFdvpprt6vir7YkMR+tlbTVnC4BYoui+f00LYXh3Hc204/NqE9mTNH4ZwN8IAJBIsb5AGPPXBHVXmNKRhqVymZxT9jVSoxY1XYDU6nyEFLSWphJJBNzn2I0Pbm1JwiPi8KLZ4jjeWFK7DN9UuwJD1Bp0ikVGocgiOuhpJOHOQg9Y9fkX+7RqbMaWqWeNlX35ys57D01nd3VyoOIqG4VmaQ6FU47cYPUx4Bt4OnqaNlWvj31Q0GqVOBSZkeUmdGfKlfDstNhaB3sBe9vby1XQKpKCWZBWlTrgtdSQekenlrt+1pRT1K4CfMsI/wA1bbjkJuEBVsQKPEyJcF9yttVBlqS26lAaVyNnKyLrWTmw797aYwXKnF5w22p1C3CoLQcHAH9a0Z2pSlpef60pWlHGQltICk5wRbPb+TqZDLa8hKmx+Vtakj6A6ZdRX7iRc3r9n//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYBBwIDCP/EACkQAAEDAgQFBAMAAAAAAAAAAAECAwQAEQUGEiETFDFBUSKBkaFCYnH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAHBEAAgMBAQEBAAAAAAAAAAAAAQIAAxEEBSFB/9oADAMBAAIRAxEAPwDp9UthMhtkrSHXAopBPXSQD9kVnx2+Y4Or16dftVYY9jrbeZIaorjjkhiWthTSAbAcQk383uPiiAmTJc519xaUlbZaKQnbSe29ca71VqOZ+yhKGYbHtU1gYgiCpY5hTReCf1BAv8kVvbcQ4nUhSVDyKQ5stMN57FHXAiY1GLCW72unsB72NHskSzNy1EfNt7i4/Kxtf6qmnvFx+CB6io2KuK5QlOZkXOXGD7RkcwlSSNj2267bUTlYfILhTy760Hr6SaeTUVjd5ddh0kxL0MBkrXMeBzMQnxA1FeU2hgtkEbdvP8ptylhpwnLsOFIShDjQVdKeguom33R6oqijjTnYtpOwNYW+T//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -306,187 +306,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-fake-coding</span>
+                                        <span class="repo">common-intellisense/common-intellisense</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b32c53c</div>
-                                        <div class="message">feat: update README and package.json for VSCode Fake Coding extension</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 49 commits in
-                                        <span class="repo">Simon-He95/core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22dcbf3</div>
-                                        <div class="message">fix(reactivity): ensure multiple effectScope on() and off() calls maintains correct active scope
-
-close #12631
-close #12632
-
-This is a combination of changes from both 8dec243 and #12641</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8e8422</div>
-                                        <div class="message">chore: remove unused `configDefaults` (#12643)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a6e98c</div>
-                                        <div class="message">chore(deps): update pnpm to v9.15.2 (#12628)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb618fd</div>
-                                        <div class="message">chore(deps): update build (#12627)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21f8d9d</div>
-                                        <div class="message">chore(deps): update test (#12600)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3faa0a3</div>
-                                        <div class="message">chore(deps): update build (major) (#12562)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7085a8</div>
-                                        <div class="message">chore(deps): update dependency magic-string to ^0.30.17 (#12597)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#289f4bd</div>
-                                        <div class="message">chore(deps): update lint (#12598)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#234b6cb</div>
-                                        <div class="message">chore(deps): update build (#12595)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6da11a7</div>
-                                        <div class="message">chore(deps): update all non-major dependencies (#12594)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc68843</div>
-                                        <div class="message">docs: remove 3.3 info from 3.4 changelog (#12565)[ci-skip]
-
-Some clean-up. All removed info is already included in [3.3 changelog](https://github.com/vuejs/core/blob/main/changelogs/CHANGELOG-3.3.md)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#833f9ea</div>
-                                        <div class="message">chore(deps): update lint (#12561)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec22b79</div>
-                                        <div class="message">chore(deps): update build (#12558)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76bdd78</div>
-                                        <div class="message">chore(deps): update dependency magic-string to ^0.30.15 (#12559)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f74146f</div>
-                                        <div class="message">fix(deps): update dependency monaco-editor to ^0.52.2 (#12560)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d07cdea</div>
-                                        <div class="message">chore(deps): update all non-major dependencies (#12557)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11c053a</div>
-                                        <div class="message">fix(typos): fix comments referencing transformElement.ts (#12551)[ci-skip]</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#201936f</div>
-                                        <div class="message">chore(deps): update build (#12512)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11f7674</div>
-                                        <div class="message">chore(deps): update dependency magic-string to ^0.30.14 (#12493)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c86a08b</div>
-                                        <div class="message">chore(deps): update all non-major dependencies (#12492)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">common-intellisense/element-ui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d6b789a</div>
-                                        <div class="message">chore: release v0.0.3</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">common-intellisense/element-ui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8396ae8</div>
-                                        <div class="message">fix: update default values to false in JSON configuration files</div>
+                                        <div class="sha">#03c0afb</div>
+                                        <div class="message">fix: update @vscode-use/utils to version 0.1.47 in package.json and pnpm-lock.yaml</div>
                                     </div>
                                 </div>
                             </section>
@@ -500,9 +327,65 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.22</span>
+                                        <span class="code">v0.1.47</span>
                                         in
-                                        <span class="repo">Simon-He95/vscode-translate</span>
+                                        <span class="repo">vscode-use/utils</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">vscode-use/utils</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3edd92c</div>
+                                        <div class="message">chore: release v0.1.47</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">vscode-use/utils</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#293a761</div>
+                                        <div class="message">fix: prevent returning active text editor for 'exthost' file</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.0.47</span>
+                                        in
+                                        <span class="repo">Simon-He95/vscode-highlight-text</span>
                                     </div>
                                 </div>
                             </section>
@@ -512,7 +395,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 04:20:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 05:17:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
