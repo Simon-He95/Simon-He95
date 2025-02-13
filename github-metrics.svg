@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1255" class="">
     <defs>
         <style/>
     </defs>
@@ -305,6 +305,139 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 49 commits in
+                                        <span class="repo">Simon-He95/core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#22dcbf3</div>
+                                        <div class="message">fix(reactivity): ensure multiple effectScope on() and off() calls maintains correct active scope
+
+close #12631
+close #12632
+
+This is a combination of changes from both 8dec243 and #12641</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8e8422</div>
+                                        <div class="message">chore: remove unused `configDefaults` (#12643)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5a6e98c</div>
+                                        <div class="message">chore(deps): update pnpm to v9.15.2 (#12628)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb618fd</div>
+                                        <div class="message">chore(deps): update build (#12627)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21f8d9d</div>
+                                        <div class="message">chore(deps): update test (#12600)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3faa0a3</div>
+                                        <div class="message">chore(deps): update build (major) (#12562)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7085a8</div>
+                                        <div class="message">chore(deps): update dependency magic-string to ^0.30.17 (#12597)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#289f4bd</div>
+                                        <div class="message">chore(deps): update lint (#12598)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#234b6cb</div>
+                                        <div class="message">chore(deps): update build (#12595)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6da11a7</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#12594)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc68843</div>
+                                        <div class="message">docs: remove 3.3 info from 3.4 changelog (#12565)[ci-skip]
+
+Some clean-up. All removed info is already included in [3.3 changelog](https://github.com/vuejs/core/blob/main/changelogs/CHANGELOG-3.3.md)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#833f9ea</div>
+                                        <div class="message">chore(deps): update lint (#12561)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec22b79</div>
+                                        <div class="message">chore(deps): update build (#12558)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76bdd78</div>
+                                        <div class="message">chore(deps): update dependency magic-string to ^0.30.15 (#12559)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f74146f</div>
+                                        <div class="message">fix(deps): update dependency monaco-editor to ^0.52.2 (#12560)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d07cdea</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#12557)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11c053a</div>
+                                        <div class="message">fix(typos): fix comments referencing transformElement.ts (#12551)[ci-skip]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#201936f</div>
+                                        <div class="message">chore(deps): update build (#12512)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11f7674</div>
+                                        <div class="message">chore(deps): update dependency magic-string to ^0.30.14 (#12493)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c86a08b</div>
+                                        <div class="message">chore(deps): update all non-major dependencies (#12492)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">common-intellisense/element-ui</span>
                                     </div>
@@ -374,32 +507,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vscode-translate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#757a3dd</div>
-                                        <div class="message">chore: update package.json to remove duplicate @vscode/vsce entry and improve index.ts for safer string handling</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 00:24:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 01:14:12 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
