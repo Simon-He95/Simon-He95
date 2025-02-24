@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1257" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.c .side{background-color:#58a6ff26}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -128,7 +128,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 794 users
+                            Following 795 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -258,10 +258,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    794 followed
+                    795 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcD/8QALBAAAgEDAwIEBQUAAAAAAAAAAQMCBAURAAYSITETQWGhFCNxkbEyUVKB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAQQG/8QAIhEAAQQBAgcAAAAAAAAAAAAAAwABAhEEEiEFIiQyQVHh/9oADAMBAAIRAxEAPwB5p91stCWItfhzp2nlANByk+YA9emqZ3XeRKbfjTAnqcLhj8aW3SERy5Y4A5/OrdRb6pu2Z1hiQXAzjHP6VwHOZ9hH6nWj0AE2ojNuqeVCTkqCaLJva6trFunE1aJnhJcVgGXQ9QQNaQiug9C2yiEmUQeDM8h9emsOp11VLQc0eJBaF8zIHHp+Tq1G713CPCuqRHHT5p0IuALIfkpqQImnDu3QGvw/5MyYeKwDt3GQCR9/bThbNnV9Lc7isXKtqKAp+HQt7ZzgOZhnuTkAZ/zQfcdMpO4H0q44TT+NBcf2AZyHuTrtQ7nutFtVTo1Jaznxy0cjjJ8++lvFLjEbsmWN1BJO/j6jG5rBdH3RVHba1tNbjSqSVBccNZ4vmSD5TycEdtDKbbzpWu3PlSyeaimi3P8AEdQB9gD/AHqdjblul831SIuFRySufOMIRERn1x31tbKBC4KSqJgpMAuEYnAER2GoEQmLGne73QSiiaVel//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAABgElEQVR4nGNgGAUjAjAyMsqzs7MVE4uZmZlMKLKQh4f7pIAA/39iMTs7WzFFFvLx8T5HNtDCSPN/XV4ETmxpqE49C5sKo/9f2jbh/5szi3Di7BhP6lk4pz0Hr2VvqGmhm53x/40zq+hn4Y1dUwha9mbUQmJAmI/t84QQl//3D8xEDb6La/6/u7UfFV/fRXkcXts5+TnW+Lqw6v/HN4//f/nyBY7f3dpPQwtplWiuIVl4c8/U/xe29GPgmAD7LAdzHVcQlpUUlqeahZe3T/x/bHUHBlZXkjamyJLhaSEzMzNLZnZc+Y7dSy4g4wc3dvx6dWHl/9dnFv1/fmLe/6fH5mLgA3sX3UTWM3te1wYhIQERnJYZGmqbN7eVTn349OR/XPjprR3/X15YiTVlPn5wEEP9yjXT90dE+adgtTAqOiANn2Uw/OzGVgzLXp9b+v/Rw0NY1S9eNmknRRaCLb25HQU/vrcfp9rF1LCQFLx4UFu4/+jK/71Tq0iyAF3PgFsIABv7RoOuWPXvAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA10lEQVR4nMWVsQ0DIQxFPQA9m3oLJJggBWOkYgJQajoKeweEEilpiIIu3PlIXoNonrBl/OG+APiDtLUWY/Temyfe+5RSa+2glIgQUWsNH2itEZGZ90mttUop2EQp5ZybldZaeZpa647yJUB/CSFcDhFCGEuZ+WsfN/pLRAMpIoIARBxIc843ATnncU/PAl5HKeUqppTyJjXGgBhjzHppWVH+ucDakcIVw09Ekm/ar1dYu1BOBH63pJ1zM3FirZ196Qtm3g6+foHujuiUUh/RMcbjES1hifQBY7Orfz8HBtMAAAAASUVORK5CYII=" width="28" height="28" alt="" />
@@ -285,7 +286,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYDBwIECP/EACcQAAEDAwMEAwADAAAAAAAAAAECAwUABBEGITESE0FhMlFxFFKx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIUH/2gAMAwEAAhEDEQA/ALIfZQwEdagOo4Hs0IvNWaStbsxqphkyf9erYH6zjFVTqbUk6mLadeU4iXlD27NhHzZbO2cfZ4oHG2UK1bmzMemYuCla3HmUlayf0jxvxjkb+aIFNWvFucti6208oNFzZsk5Qv8ADRDu+65yZkrCOuLhHXeNW2CUsh1fQT4GCeQaP6e1hMmNR/Dc7rIJAK1bj1TlZBkp+9vZ9uWfVl9twLSkEgAA7AY4FSagmRJuF3ulrYAJGcj9PmgKuaxCQVmtJtgo3Dn4k+807aMu+zEqRnh0/wCCko/Ktq1uXWmylCsDNPK3/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHA//EACsQAAEDAgUDAwQDAAAAAAAAAAECAwQFEQAGEiExBxNRFUFhIkKhwVJxgf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAf/EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMREhNBYf/aAAwDAQACEQMRAD8Ay6mdQasrux7ocfv2mnb2Gs7AkeL2wlzyK7klpFRpubZ8xwL7MhIBDQc8FBJCkHwQRiLkVDrzmWo7dGSt1EtTrgSkXCOUOk22AK773Gwwz6u1JLuT3YSDGW5ZPdDdlrFjzfEmfDhiqagyEzL4yoeY4b7zWiLmFKitTKUhDMlPOtH8V/A2PO1sSkyJMUqZfU4w4k7trFiPxip0nqUui5rbq0RK1ussOFslVrm1v2cd81Zpj5prDlUkCQl5wBKwbcjG9YhbHKj2avS5Ujpr07kVKRDYlVMuJjtCOnZDSAgXJtf7CT/mEtbp7VSqVPq8Qa4chgXChsQdwD84h9Uk68hPt3Ukazuk2PODMSNIYypTK56rVHZKoSlllySVM3S0vT9HxidijY+rQB9Ei9Qazl31eW7ES83LsG0piOJ7Yt5HA9/J39sZhVJ658kOutFSwgIJ82w2n0yJrYZS0EtMtKslO2r+zyefwMCZ1UlRKhKaYWlLYcNhpHwP1i/FTUrAQd7bYUPk/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAABf0lEQVR4nGNgGAWjYBQMOcCpqK0l7BQWLuwUHsGlrKdDM4tYBERFNHt27LbY++M/MtaedOAIu7SyEtUt1OzbtVd//sWr+gsuXUO31GjNo+ec8pqayOpZRaTEybaMS9VAn9/E1RXGF7Dw8jLd8vYzsqXG65++EvVMSOBS0tESdY+Lk0lqaCDfe0zMTOhCfAb29qabX39E960FyMcr7z1mFRQXY6A24JBRUVGpXrTEZMPzN+Z7f/w32fD8tUrVgsVs4nKyJBvGKiQhrlQ8Y5bRqvtPzPd8/2O85tFz5cr5C9mlaJBAWHiFBA2W3riLLbhAwchnYG+HoYmJCSPYiQbScdU14n5p6dzqxoZiPskpxuufvUaxdMvbzwLmnh4w9by61tbcGqbGxNuABthEZaSQ+aAkb7Tm4XNkS833fP+vN/fcJd3Zp89pTzl0lIGRkZFsC7EBdmllZe0ph49hZPzJh46wCktJMtAKcKsZGYq6x8aBMLe6CfnBOApGwSgYMAAAipjBKZ4kuw8AAAAASUVORK5CYII=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAcFBgACA//EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQAEQUGEiETMVFxIiNBoQcVUmGBwdL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHREAAgMAAgMAAAAAAAAAAAAAAQIAAxEEIRMiMf/aAAwDAQACEQMRAD8Adr0tLLRcfcCG0C5UTYCqi98TMsx5DiJE/hoQbcVSfAT9vX2o7PkNWJ5RxCM26WluBPmAXIGsE+wNKOPlqPCxCSIrUORxbBpp103PIHn+qe641nBBTR5BseUOWnEYbcmPrDTm6b7XHXtWFv6nReueVmmsGy7AgznhJkMspQ44TzIHpRysYhJNkstAdq2VjknORQ55z7PwuQgYaIsiEG/OLuu5N7G1vS1uv4tVMwPOsb502rEoZ4Dm7SmTrIUTtz2tQ0g8Xipd8QSRa9AJw+M0/qbaCSpW9u9St7nTETkMvQjvnPOuNoVCda19XHF6Ldgd6iWoUkay5IgrWVEk8AVA5XmSIuXwhtwkJfcaGrfw7f0a1k6nHlKU45c9Fmla/folKp1s/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -298,6 +298,255 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1568 commits in
+                                        <span class="repo">Simon-He95/element-plus</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#834fb38</div>
+                                        <div class="message">fix(components): [tree] filter expand loaded node (#15150)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01b2d5a</div>
+                                        <div class="message">Merge pull request #15165 from element-plus/dev
+
+D2M</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#273ff7b</div>
+                                        <div class="message">chore: Update changelog 2.4.4 (#15166)
+
+chore: update changelog 2.4.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a078860</div>
+                                        <div class="message">docs(components): [menu,pagination,switch] modify version (#15157)
+
+- Due to delays in planned new component versions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f687ae</div>
+                                        <div class="message">feat(components): [el-menu] allow user to hide menu when clicking outside (#14742)
+
+* fix(components): allow user to hide menu when clicking outside
+
+when user sets `menu-trigger` to `click` and then clicking outside, it should be close menu
+
+closed #14738
+
+* revert settings.json config
+
+* fix: debounce hide menu when clicking out side
+
+* fix: only trigger click outside when menu is open
+
+* fix: hide parent menu
+
+* fix: only trigger close menu when its opened
+
+* refactor: remove redundant code
+
+* refactor: remove redundant code
+
+* fix(docs): `collapse-on-click-outside` prop
+
+* fix(docs): `collapse-on-click-outside` prop
+
+* fix: move `clickOutSide` to `menu.ts`
+
+* fix: submenu does not emit `close` when clicking outside
+
+* fix: submenu does not emit `close` when clicking outside
+
+* fix: ts type
+
+* fix: ts type
+
+* fix: only close when passing `props.collapseOnClickOutside` to `true`
+
+* refactor: create `directives` variable
+
+* improvement: allow `recusiveMouseInSubMenu` to receive array
+
+* refactor: remove redundant code
+
+* fix: rename `recusiveMouseInSubMenu` to  `recursiveMouseInSubMenu`
+
+* feat: add `hide-timeout` prop
+
+* fix: revert code
+
+* fix: code owner
+
+* fix: coder owner
+
+* fix: menu closed when clicking on submenu
+
+* refactor: remove redundant code
+
+* fix: get correct index path
+
+* fix: build
+
+* refactor: update docs and remove `unref`
+
+* fix: change `collapseOnClickOutside` to `closeOnClickOutside`
+
+* fix: remove `hideTimeout` prop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b4bc76</div>
+                                        <div class="message">fix(build): fix built component source contains unsafe file path (#15152)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4f331f</div>
+                                        <div class="message">fix(components): [date-picker] tagName judgement error (#15079)
+
+* fix(components): [table] fix tests typo
+
+* fix(components): [date-picker] tagName judgement error
+
+---------
+
+Co-authored-by: zhuangyufeng &lt;zhuangyufeng@szkingdom.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6befedd</div>
+                                        <div class="message">fix(components): [collapse-transition] collapse get el exists height (#14801)
+
+fix: collapse get el exists height
+
+Signed-off-by: Innei &lt;i@innei.in&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec34092</div>
+                                        <div class="message">chore: format (#15137)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac6b0e7</div>
+                                        <div class="message">feat(components): [pagination] add change event (#14828)
+
+* feat(components): [pagination] add change event
+
+* feat(components): [pagination] add change event
+
+* feat(components): [pagination] add change event
+
+* feat(components): [pagination] add change event
+
+* feat(components): [pagination] add change event</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a778a9c</div>
+                                        <div class="message">test(hooks): fix typo (#15113)
+
+test(hooks): fix typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7a05e7</div>
+                                        <div class="message">fix(components): [input-number] Fix not trigger change event and incorrect value display (#15066)
+
+* fix(components): [input-number] Fix not trigger change event
+
+closed #14967
+
+* fix(components): [input-number]
+
+* test(components): update test
+
+* fix(components): fix #14438</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2854219</div>
+                                        <div class="message">fix(ci): git workflows not work (#15092)
+
+fix(build): git workflows not work</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df0befc</div>
+                                        <div class="message">feat(components): [switch] (in)active icon slot (#15078)
+
+* feat(components): [switch] (in)active icon slot
+
+* feat(components): [switch] slots are renamed
+
+* test(components): [switch] action-slot test case</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6b98bb</div>
+                                        <div class="message">fix(components): [table] tooltipOptions.showAfter is not effective  (#14741)
+
+* fix(components): [table]
+tooltipOptions.showAfter is not effective
+
+* fix(components): [table]
+rolling unable to destroy Popper</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7500886</div>
+                                        <div class="message">feat(components): [menu] add popperOffset and ellipsisIcon props(#14923) (#15051)
+
+* feat(components): [menu] add popperOffset and ellipsisIcon props(#14923)
+
+* Update docs/examples/menu/ellipsis.vue
+
+Co-authored-by: kooriookami &lt;38392315+kooriookami@users.noreply.github.com&gt;
+
+* Update docs/en-US/component/menu.md
+
+Co-authored-by: kooriookami &lt;38392315+kooriookami@users.noreply.github.com&gt;
+
+* Update docs/en-US/component/menu.md
+
+Co-authored-by: kooriookami &lt;38392315+kooriookami@users.noreply.github.com&gt;
+
+* docs(components): [menu] upgrade props
+
+* Update docs/en-US/component/menu.md
+
+Co-authored-by: kooriookami &lt;38392315+kooriookami@users.noreply.github.com&gt;
+
+---------
+
+Co-authored-by: zhixiaotong &lt;zhixiaotong.me@qq.com&gt;
+Co-authored-by: kooriookami &lt;38392315+kooriookami@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0482d11</div>
+                                        <div class="message">fix(components): [data-picker] use renderSlot simplified code (#15036)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#005bdf6</div>
+                                        <div class="message">fix(components): [table] header slot not displayed (#15035)
+
+* fix(components): [table] header slot not displayed
+
+* fix(components): [table] header slot not displayed
+
+* fix(components): null commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c8b6a5</div>
+                                        <div class="message">fix(components): [table-v2] cell, header-cell, empty slots not displayed (#15016)
+
+Thanks for your contribution.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7df7461</div>
+                                        <div class="message">fix(docs): Algolia highlight error (#14831)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -371,32 +620,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">common-intellisense/element-plus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">version-2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bb09562</div>
-                                        <div class="message">feat: enhance component JSON schemas with new properties and default values</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2025, 09:26:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2025, 10:54:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
