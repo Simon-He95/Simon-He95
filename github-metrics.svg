@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1272" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1275" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 680 users
+                            Followed by 679 users
                         </div>
                     </section>
                     <section>
@@ -222,7 +222,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    680 followers
+                    679 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -302,6 +302,108 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 31 commits in
+                                        <span class="repo">Simon-He95/vitesse-webext</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dbb6e7f</div>
+                                        <div class="message">chore: delete FUNDING.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#15b7d6e</div>
+                                        <div class="message">docs: update components readme (#173)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cd287e</div>
+                                        <div class="message">fix: set sever origin in dev (#168)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eff3c2e</div>
+                                        <div class="message">chore: upgrade deps (#166)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f213c17</div>
+                                        <div class="message">fix: prefer primitive value types in storage (#165)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ecdd69</div>
+                                        <div class="message">fix: use localhost as base in dev mode (#164)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b830baa</div>
+                                        <div class="message">feat: add an option to develop in the cloud using Gitpod (#161)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ec9dfe</div>
+                                        <div class="message">fix: storage reactivity (#157)
+
+Fixes storage reactivity by reimplementing useAsyncStorage from vueuse
+and replacing the storage listener on window by a custom one using the
+polyfill webextension storage API.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#713d7ee</div>
+                                        <div class="message">chore: fix deprecated config (#153)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc86725</div>
+                                        <div class="message">fix: support firefox background script (#137)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d00809e</div>
+                                        <div class="message">chore: add unocss vscode ext &amp;&amp; dedupe deps with the same semvers (#136)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#113f29a</div>
+                                        <div class="message">feat: integrate playwright e2e test (#135)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#404a907</div>
+                                        <div class="message">fix: change background script to .mjs extension (#134)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a72e398</div>
+                                        <div class="message">chore: upgrade webext-bridge@6 and other deps (#132)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25ebb48</div>
+                                        <div class="message">fix: add build:background to build workflow (#133)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92abe8c</div>
+                                        <div class="message">fix: remove malformed URL pattern (#131)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3c5a3d</div>
+                                        <div class="message">fix: background build with hmr (#130)
+
+Co-authored-by: 云游 &lt;yunyou.yr@alipay.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c76a50</div>
+                                        <div class="message">fix: adjust manifest config based on the mv3 (#127)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8159882</div>
+                                        <div class="message">feat: upgrade to manifest v3 &amp; upgrade lock (#124)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1daa88a</div>
+                                        <div class="message">fix(pkg): add --glob flag to clear script (#119)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -375,175 +477,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">Simon-He95/chrome-extension-typescript-starter</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c578779</div>
-                                        <div class="message">Update build.yml
-
-Update checkout and setup-node</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee56f90</div>
-                                        <div class="message">Merge pull request #69 from katayama8000/patch-1
-
-Add node-version 22.x</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#92e1c34</div>
-                                        <div class="message">Add node-version 22.x</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f6e039</div>
-                                        <div class="message">Merge pull request #68 from chibat/dependabot/npm_and_yarn/webpack-5.94.0
-
-Bump webpack from 5.82.1 to 5.94.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdb3ad4</div>
-                                        <div class="message">Bump webpack from 5.82.1 to 5.94.0
-
-Bumps [webpack](https://github.com/webpack/webpack) from 5.82.1 to 5.94.0.
-- [Release notes](https://github.com/webpack/webpack/releases)
-- [Commits](https://github.com/webpack/webpack/compare/v5.82.1...v5.94.0)
-
----
-updated-dependencies:
-- dependency-name: webpack
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#105204b</div>
-                                        <div class="message">Merge pull request #65 from chibat/dependabot/npm_and_yarn/babel/traverse-7.24.7
-
-Bump @babel/traverse from 7.21.5 to 7.24.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52c95d2</div>
-                                        <div class="message">Bump @babel/traverse from 7.21.5 to 7.24.7
-
-Bumps [@babel/traverse](https://github.com/babel/babel/tree/HEAD/packages/babel-traverse) from 7.21.5 to 7.24.7.
-- [Release notes](https://github.com/babel/babel/releases)
-- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/babel/babel/commits/v7.24.7/packages/babel-traverse)
-
----
-updated-dependencies:
-- dependency-name: "@babel/traverse"
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b982cba</div>
-                                        <div class="message">Merge pull request #64 from chibat/dependabot/npm_and_yarn/braces-3.0.3
-
-Bump braces from 3.0.2 to 3.0.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f93890d</div>
-                                        <div class="message">Bump braces from 3.0.2 to 3.0.3
-
-Bumps [braces](https://github.com/micromatch/braces) from 3.0.2 to 3.0.3.
-- [Changelog](https://github.com/micromatch/braces/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/micromatch/braces/compare/3.0.2...3.0.3)
-
----
-updated-dependencies:
-- dependency-name: braces
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e570a3</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c438503</div>
-                                        <div class="message">Merge pull request #62 from chibat/develop
-
-node20 build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fede541</div>
-                                        <div class="message">node20 build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#237c70f</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25338bb</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d223e99</div>
-                                        <div class="message">Merge pull request #57 from JackNgWeiMing/master
-
-fix: enable tree-shake using 'module':'es6'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcfc6b3</div>
-                                        <div class="message">fix: enable tree-shake using 'module':'es6'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c74083a</div>
-                                        <div class="message">Merge pull request #54 from InbarDanieli/feat/update-react-to-v-18
-
-feat: update react to version 18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd75067</div>
-                                        <div class="message">feat: update react to version 18</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7937eae</div>
-                                        <div class="message">Merge pull request #53 from chibat/dependabot/npm_and_yarn/webpack-5.76.0
-
-Bump webpack from 5.72.1 to 5.76.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#397f4e1</div>
-                                        <div class="message">Bump webpack from 5.72.1 to 5.76.0
-
-Bumps [webpack](https://github.com/webpack/webpack) from 5.72.1 to 5.76.0.
-- [Release notes](https://github.com/webpack/webpack/releases)
-- [Commits](https://github.com/webpack/webpack/compare/v5.72.1...v5.76.0)
-
----
-updated-dependencies:
-- dependency-name: webpack
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2025, 01:17:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Mar 2025, 02:26:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
