@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1225" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,.activity .commit .sha,span.code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown b,code{display:inline-block}.markdown b{width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}.markdown blockquote{border-left:4px solid #7777771f;color:#777;margin:0;padding-left:16px}code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            134 Pull requests opened
+                            135 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1061 repositories
+                            Starred 1062 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,6 +302,634 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 600 commits in
+                                        <span class="repo">Simon-He95/tailwindcss</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#65240c9</div>
+                                        <div class="message">Template migrations: Migrate v3 prefixes to v4 (#14557)
+
+This PR adds a new migration that can migrate Tailwind CSS v3 style
+prefixes into Tailwind CSS v4.
+
+The migration is split into three separate pieces of work:
+
+1. Firstly, we need to read the full JavaScript config to get the _old_
+prefix option. This is necessary because in v4, we will not allow things
+like custom-separators for the prefix. From this option we will then try
+and compute a new prefix (in 90% of the cases this is going to just
+remove the trailing `-` but it can also work in more complex cases).
+2. Then we migrate all Candidates. The important thing here is that we
+need to operate on the raw candidate string because by relying on
+`parseCandidate` (which we do for all other migrations) would not work,
+as the candidates are not valid in v4 syntax. More on that in a bit.
+3. Lastly we also make sure to update the CSS config to include the new
+prefix. This is done by prepending the prefix option like so:
+    
+    ```css
+    @import "tailwindcss" prefix(tw);
+    ```
+
+### Migrating candidates
+
+The main difference between v3 prefixes and v4 prefixes is that in v3,
+the prefix was _part of the utility_ where as in v4 it is _always in
+front of the CSS class.
+
+So, for example, this candidate in v3: 
+
+```
+hover:-tw-mr-4
+```
+
+Would be converted to the following in v4:
+
+```
+tw:hover:-mr-4
+```
+
+Since the first example _won't parse as a valid Candidate in v4, as the
+`tw-mr` utility does not exist, we have to operate on the raw candidate
+string first. To do this I created a fork of the `parseCandidate`
+function _without any validation of utilities or variants_. This is used
+to identify part of the candidate that is the `base` and then ensuring
+the `base` starts with the old prefix. We then remove this to create an
+"unprefixed" candidate that we validate against a version of the
+DesignSystem _with no prefixes configured_. If the variant is valid this
+way, we can then print it again with the `DesignSystem` that has the new
+prefix to get the migrated version.
+
+Since we set up the `DesignSystem` to include the new prefix, we can
+also be certain that migrations that happen afterwards would still
+disqualify candidates that aren't valid according to the new prefix
+policy. This does mean we need to have the prefix fixup be the first
+step in our pipeline.
+
+One interesting bit is that in v3, arbitrary properties did not require
+prefixes where as in v4 they do. So the following candidate:
+
+```
+[color:red]
+```
+
+Will be converted to:
+
+```
+tw:[color:red]
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f85b74</div>
+                                        <div class="message">Add integration tests for multi-root builds (#14564)
+
+When your Vite or postcss project has multiple Tailwind CSS roots with
+different configs, they should not influence each other (with the
+exception of the same candidates being used).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3813f03</div>
+                                        <div class="message">Bare values: Disallow zeros in decimal places (#14562)
+
+I noticed some more unexpected values being passed through as _bare
+values_: Decimal places with zero.
+
+These should not generate CSS but currently does:
+
+- `from-25.%`
+- `from-25.0%`
+- `from-25.00%`
+- etc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30fbc2c</div>
+                                        <div class="message">Fix rebuilds when editing imported CSS files (#14561)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78b75e4</div>
+                                        <div class="message">Only run Ubuntu tests on feature branches (#14560)
+
+This PR changes it so that only the Ubuntu runner starts when doing a
+pull request. On a successfull `next` merge, all runners shoould start.
+
+Furthermore this increases the retry count for integration test to 3.
+This is mainly so that rare Windows flakes we still see won't become
+noise when we enabled the Discord notification.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c0dd000</div>
+                                        <div class="message">Template migrations: Add automatic var injection codemods (#14526)
+
+In v4, we're [removing automatic var
+injection](https://github.com/tailwindlabs/tailwindcss/pull/13657)
+(please refer to this PR for more detail as to why).
+
+Automatic var injection made it so that if you have a candidate like
+`bg-[--my-color]`, v3 would automatically wrap the content of the
+arbitrary section with a `var(…)`, resulting in the same as typing
+`bg-[var(--my-color)]`.
+
+This PR adds codemods that go over various arbitrary fields and does the
+`var(…)` injection for you. To be precise, we will add `var(…)` to:
+
+- Modifiers, e.g.: `bg-red-500/[var(--my-opacity)]`
+- Variants, e.g.:  `supports-[var(--test)]:flex`
+- Arbitrary candidates, e.g.: `[color:var(--my-color)]`
+- Arbitrary values for functional candidates, e.g.:
+`bg-[var(--my-color)]`
+
+---------
+
+Co-authored-by: Robin Malfait &lt;malfait.robin@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a50e6e</div>
+                                        <div class="message">Add `blocklist` support from v3 config files (#14556)
+
+This PR adds support for the `blocklist` config option when using a JS
+config file in v4. You can now block certain classes from being
+generated at all. This is useful in cases where scanning files sees
+things that look like classes but are actually not used. For example, in
+paragraphs in a markdown file:
+
+  ```js
+  // tailwind.config.js
+  export default {
+    blocklist: ['bg-red-500'],
+  }
+  ```
+  
+  ```html
+  &lt;!-- index.html --&gt;
+  &lt;div class="bg-red-500 text-black/75"&gt;&lt;/div&gt;
+  ```
+
+Output:
+  
+  ```css
+  .text-black/75 {
+    color: rgba(0, 0, 0, 0.75);
+  }
+  ```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab82efa</div>
+                                        <div class="message">Expose timing information in debug mode (#14553)
+
+This PR exposes when using the the `DEBUG` environment variable. This
+follows the `DEBUG` conventions where:
+
+- `DEBUG=1`
+- `DEBUG=true`
+- `DEBUG=*`
+- `DEBUG=tailwindcss`
+
+Will enable the debug information, but when using:
+
+- `DEBUG=0`
+- `DEBUG=false`
+- `DEBUG=-tailwindcss`
+
+It will not.
+
+This currently only exposes some timings related to:
+
+1. Scanning for candidates
+2. Building the CSS
+3. Optimizing the CSS
+
+We can implement a more advanced version of this where we also expose
+more fine grained information such as the files we scanned, the amount
+of candidates we found and so on. But I believe that this will be enough
+to start triaging performance related issues.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f8ca55</div>
+                                        <div class="message">CSS codemod: inject `@import` in a more expected location (#14536)
+
+This PR inserts the `@import` in a more sensible location when running
+codemods.
+
+The idea is that we replace `@tailwind base; @tailwind components;
+@tailwind utilities;` with the much simple `@import "tailwindcss";`. We
+did this by adding the `@import` to the top of the file.
+
+While this is correct, this means that the diff might not be as clear.
+For example, if you have a situation where you have a license comment:
+```css
+/**! My license comment */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+This resulted in:
+```css
+@import "tailwindcss";
+/**! My license comment */
+```
+
+While it is not wrong, it feels weird that this behaves like this. In
+this commit we make sure that it is injected in-place (the first
+`@tailwind` at-rule we find) and fixup the position if we can't inject
+it in-place.
+
+The above example results in this:
+```css
+/**! My license comment */
+@import "tailwindcss";
+```
+
+However, there are scenario's where you can't replace the `@tailwind`
+directives directly. E.g.:
+```css
+/**! My license comment */
+html {
+  color: red;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+If we replace the `@tailwind` directives in-place, it would look like
+this:
+```css
+/**! My license comment */
+html {
+  color: red;
+}
+@import "tailwindcss";
+```
+
+But this is invalid CSS, because you can't have CSS above an `@import`
+at-rule. There are some exceptions like:
+- `@charset`
+- `@import`
+- `@layer foo, bar;` (just the order, without a body)
+- comments
+
+In this scenario, we inject the import in the nearest place where it is
+allowed to. In this case:
+
+```css
+/**! My license comment */
+@import "tailwindcss";
+@layer base {
+  html {
+     color: red;
+  }
+}
+```
+
+Additionally, we will wrap the existing CSS in an `@layer` of the first
+Tailwind directive we saw. In this case an `@layer base`. This ensures
+that utilities still win from the default styles.
+
+Also note that the (license) comment is allowed to exist before the
+`@import`, therefore we do not put the `@import` above it. This also
+means that the diff doesn't touch the license header at all, which makes
+the diffs cleaner and easier to reason about.
+
+---------
+
+Co-authored-by: Philipp Spiess &lt;hello@philippspiess.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f92eb26</div>
+                                        <div class="message">Update @types/bun 1.1.8 → 1.1.10 (patch) (#14542)
+
+Here is everything you need to know about this update. Please take a
+good look at what changed and the test results before merging this pull
+request.
+
+### What changed?
+
+
+
+
+#### ✳️ @​types/bun (1.1.8 → 1.1.10) ·
+[Repo](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
+
+
+
+
+Sorry, we couldn't find anything useful about this release.
+
+
+
+
+
+
+
+
+
+
+
+---
+![Depfu
+Status](https://depfu.com/badges/edd6acd35d74c8d41cbb540c30442adf/stats.svg)
+
+[Depfu](https://depfu.com) will automatically keep this PR
+conflict-free, as long as you don't add any commits to this branch
+yourself. You can also trigger a rebase manually by commenting with
+`@depfu rebase`.
+
+&lt;details&gt;&lt;summary&gt;All Depfu comment commands&lt;/summary&gt;
+&lt;blockquote&gt;&lt;dl&gt;
+&lt;dt&gt;@​depfu rebase&lt;/dt&gt;&lt;dd&gt;Rebases against your default branch and
+redoes this update&lt;/dd&gt;
+&lt;dt&gt;@​depfu recreate&lt;/dt&gt;&lt;dd&gt;Recreates this PR, overwriting any edits
+that you've made to it&lt;/dd&gt;
+&lt;dt&gt;@​depfu merge&lt;/dt&gt;&lt;dd&gt;Merges this PR once your tests are passing and
+conflicts are resolved&lt;/dd&gt;
+&lt;dt&gt;@​depfu cancel merge&lt;/dt&gt;&lt;dd&gt;Cancels automatic merging of this
+PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu close&lt;/dt&gt;&lt;dd&gt;Closes this PR and deletes the branch&lt;/dd&gt;
+&lt;dt&gt;@​depfu reopen&lt;/dt&gt;&lt;dd&gt;Restores the branch and reopens this PR (if
+it's closed)&lt;/dd&gt;
+&lt;dt&gt;@​depfu pause&lt;/dt&gt;&lt;dd&gt;Ignores all future updates for this dependency
+and closes this PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu pause [minor|major]&lt;/dt&gt;&lt;dd&gt;Ignores all future minor/major
+updates for this dependency and closes this PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu resume&lt;/dt&gt;&lt;dd&gt;Future versions of this dependency will
+create PRs again (leaves this PR as is)&lt;/dd&gt;
+&lt;/dl&gt;&lt;/blockquote&gt;
+&lt;/details&gt;
+
+Co-authored-by: depfu[bot] &lt;23717796+depfu[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#998cb66</div>
+                                        <div class="message">Update turbo 2.1.1 → 2.1.2 (patch) (#14541)
+
+Here is everything you need to know about this update. Please take a
+good look at what changed and the test results before merging this pull
+request.
+
+### What changed?
+
+
+
+
+#### ✳️ turbo (2.1.1 → 2.1.2) ·
+[Repo](https://github.com/turborepo/turbo)
+
+
+
+
+
+Sorry, we couldn't find anything useful about this release.
+
+
+
+
+
+
+
+
+
+
+
+---
+![Depfu
+Status](https://depfu.com/badges/edd6acd35d74c8d41cbb540c30442adf/stats.svg)
+
+[Depfu](https://depfu.com) will automatically keep this PR
+conflict-free, as long as you don't add any commits to this branch
+yourself. You can also trigger a rebase manually by commenting with
+`@depfu rebase`.
+
+&lt;details&gt;&lt;summary&gt;All Depfu comment commands&lt;/summary&gt;
+&lt;blockquote&gt;&lt;dl&gt;
+&lt;dt&gt;@​depfu rebase&lt;/dt&gt;&lt;dd&gt;Rebases against your default branch and
+redoes this update&lt;/dd&gt;
+&lt;dt&gt;@​depfu recreate&lt;/dt&gt;&lt;dd&gt;Recreates this PR, overwriting any edits
+that you've made to it&lt;/dd&gt;
+&lt;dt&gt;@​depfu merge&lt;/dt&gt;&lt;dd&gt;Merges this PR once your tests are passing and
+conflicts are resolved&lt;/dd&gt;
+&lt;dt&gt;@​depfu cancel merge&lt;/dt&gt;&lt;dd&gt;Cancels automatic merging of this
+PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu close&lt;/dt&gt;&lt;dd&gt;Closes this PR and deletes the branch&lt;/dd&gt;
+&lt;dt&gt;@​depfu reopen&lt;/dt&gt;&lt;dd&gt;Restores the branch and reopens this PR (if
+it's closed)&lt;/dd&gt;
+&lt;dt&gt;@​depfu pause&lt;/dt&gt;&lt;dd&gt;Ignores all future updates for this dependency
+and closes this PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu pause [minor|major]&lt;/dt&gt;&lt;dd&gt;Ignores all future minor/major
+updates for this dependency and closes this PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu resume&lt;/dt&gt;&lt;dd&gt;Future versions of this dependency will
+create PRs again (leaves this PR as is)&lt;/dd&gt;
+&lt;/dl&gt;&lt;/blockquote&gt;
+&lt;/details&gt;
+
+Co-authored-by: depfu[bot] &lt;23717796+depfu[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#58edf8e</div>
+                                        <div class="message">Update template migration interface (#14539)
+
+This PR lands a quick interface update for template migration with some
+lessons learned form our existing migrations. Specifically, this version
+attempts to:
+
+- Allow migrations to access the raw candidate. This way we can migrate
+candidates that _would not parse as valid in v4_. This will help us
+migrate prefixes in candidates from v3 to v4.
+- There is no more awkward "return null" if nothing has changed. The
+return `null` was necessary because we relied on mutating the Variant
+and since parsing/printing could remove some information, it was not
+easy to find out wether a candidate needed to be migrated at all. With a
+string though, we can do this cheaply by returning the `rawCandidate`.
+- We previously asserted that if `parseCandidate` returns more than one
+candidate, we only picked the first one. This behavior is now moved into
+the migrations where we have more context. For now though, we still do
+not need to worry about this since in all cases, these duplicate
+candidates would serialize to the same `Candidate`. It is helpful if you
+only want to run a migration on a specific type of candidate (e.g. if
+there's a `static` one and a more generic `functional` one).
+- We need access to the `DesignSystem` inside migrations now to be able
+to `parseCandidate`s.
+
+Opening this up as a separate PR since it can take some time to iron out
+the edge cases for the individual codemod PRs and I don't want to be
+rebasing all the time.
+
+## Before
+
+```ts
+type Migration = (candidate: Candidate) =&gt; Candidate | null
+```
+
+## After
+
+```ts
+type Migration = (designSystem: DesignSystem, rawCandidate: string) =&gt; string
+```</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b16444f</div>
+                                        <div class="message">Add the bg-gradient migration to the default list of template migrations (#14538)
+
+Quick follow-up from #14537 as I forgot to add the new migration to the
+default list of migrations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64497e3</div>
+                                        <div class="message">Template migrations: Migrate `bg-gradient-*` utilities to `bg-linear-*` (#14537)
+
+In v4, we're making room for more gradient primitives with the addition
+of [gradient and conic gradient
+utilities](https://github.com/tailwindlabs/tailwindcss/pull/14467). To
+make this clearer, we are renaming all v3 `bg-gradient-*` utilities to
+`bg-linear-*` to make it clear that these refer to linear gradients.
+
+This PR adds a migration that will automatically update the class names
+based on this migration.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3440c1</div>
+                                        <div class="message">Remove `process.env.VERSION` check (#14531)
+
+Fixes #14523</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fad5c81</div>
+                                        <div class="message">Use official FxHash crate (#14530)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9030879</div>
+                                        <div class="message">Update @types/react 18.3.3 → 18.3.9 (patch) (#14532)
+
+Here is everything you need to know about this update. Please take a
+good look at what changed and the test results before merging this pull
+request.
+
+### What changed?
+
+
+
+
+#### ✳️ @​types/react (18.3.3 → 18.3.9) ·
+[Repo](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
+
+
+
+
+Sorry, we couldn't find anything useful about this release.
+
+
+
+
+
+
+
+
+
+
+
+---
+![Depfu
+Status](https://depfu.com/badges/edd6acd35d74c8d41cbb540c30442adf/stats.svg)
+
+[Depfu](https://depfu.com) will automatically keep this PR
+conflict-free, as long as you don't add any commits to this branch
+yourself. You can also trigger a rebase manually by commenting with
+`@depfu rebase`.
+
+&lt;details&gt;&lt;summary&gt;All Depfu comment commands&lt;/summary&gt;
+&lt;blockquote&gt;&lt;dl&gt;
+&lt;dt&gt;@​depfu rebase&lt;/dt&gt;&lt;dd&gt;Rebases against your default branch and
+redoes this update&lt;/dd&gt;
+&lt;dt&gt;@​depfu recreate&lt;/dt&gt;&lt;dd&gt;Recreates this PR, overwriting any edits
+that you've made to it&lt;/dd&gt;
+&lt;dt&gt;@​depfu merge&lt;/dt&gt;&lt;dd&gt;Merges this PR once your tests are passing and
+conflicts are resolved&lt;/dd&gt;
+&lt;dt&gt;@​depfu cancel merge&lt;/dt&gt;&lt;dd&gt;Cancels automatic merging of this
+PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu close&lt;/dt&gt;&lt;dd&gt;Closes this PR and deletes the branch&lt;/dd&gt;
+&lt;dt&gt;@​depfu reopen&lt;/dt&gt;&lt;dd&gt;Restores the branch and reopens this PR (if
+it's closed)&lt;/dd&gt;
+&lt;dt&gt;@​depfu pause&lt;/dt&gt;&lt;dd&gt;Ignores all future updates for this dependency
+and closes this PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu pause [minor|major]&lt;/dt&gt;&lt;dd&gt;Ignores all future minor/major
+updates for this dependency and closes this PR&lt;/dd&gt;
+&lt;dt&gt;@​depfu resume&lt;/dt&gt;&lt;dd&gt;Future versions of this dependency will
+create PRs again (leaves this PR as is)&lt;/dd&gt;
+&lt;/dl&gt;&lt;/blockquote&gt;
+&lt;/details&gt;
+
+Co-authored-by: depfu[bot] &lt;23717796+depfu[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db9cbf7</div>
+                                        <div class="message">Ensure that `@utility` is top-level and cannot be nested (#14525)
+
+This PR fixes an issue where we expect the `@utility` to be top-level,
+but we didn't enforce it. This PR enforces that the `@utility` is
+top-level.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89f0047</div>
+                                        <div class="message">CLI: Use the right `base` when loading files from `stdin` (#14522)
+
+Fixes #14521
+
+When using the CLI to read files from `stdin` like this:
+
+```bash
+npx tailwindcss  --input=- -o bar.css &lt; foo.css
+```
+
+We need to set the `base` path to be the current working directory
+(`process.cwd()`). However, `cwd()` already _is_ a directory and calling
+`dirname()` on it did go to the parent directory _which might not have
+the `tailwindcss` dependency installed.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bbdb57</div>
+                                        <div class="message">CSS codemod: ensure we don't lose selectors (#14518)
+
+This PR fixes an issue where a CSS rule with a selector that contains
+multiple selectors lost everything but the last selector.
+
+While testing the `npx @tailwindcss/upgrade` codemods on real world
+projects, I noticed that we lost one of the selectors in the
+`docker/docs` repository.
+
+```diff
+diff --git a/assets/css/toc.css b/assets/css/toc.css
+index 91ff92d7cd..3b2432e913 100644
+--- a/assets/css/toc.css
++++ b/assets/css/toc.css
+@@ -2,7 +2,7 @@
+   #TableOfContents {
+     .toc a {
+       @apply block max-w-full truncate py-1 pl-2 hover:font-medium hover:no-underline;
+-      &amp;[aria-current="true"],
++      
+       &amp;:hover {
+         @apply border-l-2 border-l-gray-light bg-gradient-to-r from-gray-light-100 font-medium text-black dark:border-l-gray-dark dark:from-gray-dark-200 dark:text-white;
+       }
+```
+
+This PR fixes the issue by not overriding the `node.selector` internally
+with the last selector we handled. Instead, we let the selector parser
+handle it entirely.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
@@ -370,40 +998,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Simon-He95/ccommand</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#17a1b4e</div>
-                                        <div class="message">chore: release v1.0.77</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcda28f</div>
-                                        <div class="message">refactor: command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa441fb</div>
-                                        <div class="message">chore: update lazy-js-utils to version 0.1.37 and remove minification from build script</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2025, 11:33:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2025, 12:23:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
