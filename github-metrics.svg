@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1521" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            11822 Commits
+                            11825 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,123 +302,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">ThinkInAIXYZ/deepchat</span>
-                                        to
-                                        <span class="repo">Simon-He95/deepchat</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">Simon-He95/deepchat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b83e55</div>
-                                        <div class="message">fix(toolcall): toolcall params not saved in db</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa9b643</div>
-                                        <div class="message">Merge pull request #385 from douyixuan/feature/copy-as-image
-
-add copy-as-image button for artifact preview</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e82da29</div>
-                                        <div class="message">add copy-as-image button for artifact preview</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b991626</div>
-                                        <div class="message">Merge pull request #382 from ThinkInAIXYZ/feature/inmemory-deep-research-mcp
-
-[Feature]inmemory deep research mcp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ea18b6</div>
-                                        <div class="message">Merge pull request #384 from ThinkInAIXYZ/fix/default-provider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78ec4af</div>
-                                        <div class="message">Merge pull request #383 from ThinkInAIXYZ/fix/prompt-reload</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#82b69dc</div>
-                                        <div class="message">new tab set default provider</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a42ad9</div>
-                                        <div class="message">CRUD Prompts reload MCP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7cdec64</div>
-                                        <div class="message">Merge pull request #381 from ThinkInAIXYZ/optimize/components
-
-Optimize/components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9379572</div>
-                                        <div class="message">feat(mcp): better tool call events for long tool like deep research</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed42715</div>
-                                        <div class="message">import issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6d8e9b</div>
-                                        <div class="message">fix search style</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5139d1</div>
-                                        <div class="message">feat(deepresearch): add more prompts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bbe1cb</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf4a675</div>
-                                        <div class="message">feat(deep--research): works for now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afe9e83</div>
-                                        <div class="message">fix threadsview click problem</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2625ef7</div>
-                                        <div class="message">split components</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Simon-He95/deepchat</span>
+                                        <span class="repo">Simon-He95/vue-markdown-render</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#72fad79</div>
-                                        <div class="message">fix(lint): fix tslint</div>
+                                        <div class="sha">#b5d8514</div>
+                                        <div class="message">refactor: update package name in README and installation instructions</div>
                                     </div>
                                 </div>
                             </section>
@@ -427,100 +322,14 @@ Optimize/components</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 80 commits in
-                                        <span class="repo">Simon-He95/deepchat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#20d9360</div>
-                                        <div class="message">feat(thinking): better thinking time</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#342b2ff</div>
-                                        <div class="message">feat(settings): Navigate to settings page when create is clicked if it exists</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#415cb55</div>
-                                        <div class="message">Merge pull request #369 from neoragex2002/PR
-
-fix(css): correct dark theme border to improve contrast with tool bac…</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f81ba7e</div>
-                                        <div class="message">feat(claude): support claude 4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f5f6a0</div>
-                                        <div class="message">feat(claude): add claude 4 support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2a67b3</div>
-                                        <div class="message">fix(css): correct right padding of MCP config panel</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9c19e2</div>
-                                        <div class="message">fix(css): correct dark theme border to improve contrast with tool background</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b02e57</div>
-                                        <div class="message">fix(markdown): math-block parser issue #342</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35d3a3a</div>
-                                        <div class="message">fix(openai): o1 o3 o4 use max_completion_tokens #336 #321</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#329c1a8</div>
-                                        <div class="message">feat(style): better style for image preview</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f1986f</div>
-                                        <div class="message">chore(devtool): default to detach</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#429e45f</div>
-                                        <div class="message">fix(artifacts): artifacts dialog layout</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ed1630</div>
-                                        <div class="message">fix(main): fix mac click dock icon cant show window</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b9420a</div>
-                                        <div class="message">Merge pull request #368 from neoragex2002/PR
-
-fix(modelcfg): official model configs of Qwen updated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#849a00a</div>
-                                        <div class="message">fix(modelcfg): official model configs of Qwen updated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8d1bfb</div>
-                                        <div class="message">refactor: add mcptool token estimation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bccfa8a</div>
-                                        <div class="message">Merge pull request #366 from Simon-He95/dev
-
-fix(CodeBlockNode): code update scroll to bottom</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87ea187</div>
-                                        <div class="message">feat(tab): add switch tab shortcut</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#487d6de</div>
-                                        <div class="message">fix(language): change language will notify all windows</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a03112a</div>
-                                        <div class="message">fix(locale): #247 add locale for function wrap prompt</div>
+                                        Created new
+                      tag
+                                        <span class="code">v0.0.2</span>
+                                        in
+                                        <span class="repo">Simon-He95/vue-markdown-render</span>
                                     </div>
                                 </div>
                             </section>
@@ -539,8 +348,51 @@ fix(CodeBlockNode): code update scroll to bottom</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2a10214</div>
-                                        <div class="message">refactor: remove types entry from package.json exports</div>
+                                        <div class="sha">#9223c4c</div>
+                                        <div class="message">chore: release v0.0.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/vue-markdown-render</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#710e24b</div>
+                                        <div class="message">refactor: remove MarkdownRenderer component and restructure markdown parsing
+
+- Deleted the MarkdownRenderer.vue component to streamline the codebase.
+- Updated exports in src/exports.ts to include new node components for markdown parsing.
+- Introduced a new types/index.ts file to define types for parsed nodes, enhancing type safety.
+- Refactored markdown parser imports to use the new types from the centralized types file.
+- Adjusted the markdown parsing logic to improve handling of various markdown elements.
+- Updated TypeScript configuration for better module resolution and type declaration support.
+- Modified Vite configuration to output type definitions correctly.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">ThinkInAIXYZ/deepchat</span>
+                                        to
+                                        <span class="repo">Simon-He95/deepchat</span>
                                     </div>
                                 </div>
                             </section>
@@ -550,7 +402,7 @@ fix(CodeBlockNode): code update scroll to bottom</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2025, 11:17:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 May 2025, 12:27:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
