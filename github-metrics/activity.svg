@@ -24,9 +24,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.31</span>
+                                        <span class="code">v0.0.47</span>
                                         in
-                                        <span class="repo">Simon-He95/lazy-parser</span>
+                                        <span class="repo">Simon-He95/v-component-prompter</span>
                                     </div>
                                 </div>
                             </section>
@@ -40,7 +40,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.1.27</span>
+                                        <span class="code">v0.1.28</span>
                                         in
                                         <span class="repo">Simon-He95/fast-jump-core</span>
                                     </div>
@@ -55,12 +55,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#409 chore: replace markdown.css with vue-renderer-markdown/index.css</span>
+                                        <span class="issue">#419 fix(markdown): with custom style</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">ThinkInAIXYZ/deepchat</span></div>
-                                    <div>3 files changed <span class="code">++2 --3</span></div>
+                                    <div>5 files changed <span class="code">++138 --17</span></div>
                                 </div>
                             </section>
                         </div>
@@ -73,7 +73,7 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.0.7</span>
+                                        <span class="code">v0.0.12</span>
                                         in
                                         <span class="repo">Simon-He95/vue-markdown-render</span>
                                     </div>
@@ -89,9 +89,9 @@
                                     <div class="content">
                                         Created new
                       tag
-                                        <span class="code">v0.1.26</span>
+                                        <span class="code">v0.0.11</span>
                                         in
-                                        <span class="repo">Simon-He95/fast-jump-core</span>
+                                        <span class="repo">Simon-He95/vue-markdown-render</span>
                                     </div>
                                 </div>
                             </section>
