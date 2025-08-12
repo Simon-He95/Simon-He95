@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1274" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="924" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            13102 Commits
+                            13103 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -302,6 +302,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">kpdecker/jsdiff</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -373,124 +386,12 @@ close: #8</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 84 commits in
-                                        <span class="repo">Simon-He95/deepchat</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#34ddb74</div>
-                                        <div class="message">feat: add empty data display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9df0ee5</div>
-                                        <div class="message">feat: change function name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbabbbc</div>
-                                        <div class="message">feat: refactor toggle logic for MCP service and tool state</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f0550f</div>
-                                        <div class="message">feat: filter MCP tools by enabledMcpTools</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edf84da</div>
-                                        <div class="message">feat: add enabledMcpTools field to conversation for controlling MCP tools</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#702549f</div>
-                                        <div class="message">Merge pull request #605 from ThinkInAIXYZ/dev
-
-V0.2.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8adb26f</div>
-                                        <div class="message">(WIP) feat: selectively enable mcp toolsets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c22c35b</div>
-                                        <div class="message">Merge pull request #569 from ThinkInAIXYZ/dev
-
-0.2.5 Release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6856910</div>
-                                        <div class="message">Merge pull request #549 from ThinkInAIXYZ/dev
-
-0.2.4 release</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af98026</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e467a8</div>
-                                        <div class="message">Merge pull request #500 from ThinkInAIXYZ/dev
-
-Release 0.2.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb5b81b</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ede971</div>
-                                        <div class="message">Merge pull request #443 from ThinkInAIXYZ/dev
-
-Release V0.2.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4af950f</div>
-                                        <div class="message">Merge pull request #397 from ThinkInAIXYZ/dev
-
-V0.2.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a94de6d</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20fa582</div>
-                                        <div class="message">Merge pull request #367 from ThinkInAIXYZ/dev
-
-Release 0.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a63973f</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99b4e1f</div>
-                                        <div class="message">Merge branch 'dev'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4065cd</div>
-                                        <div class="message">Merge pull request #319 from ThinkInAIXYZ/dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#592c718</div>
-                                        <div class="message">Merge pull request #291 from ThinkInAIXYZ/dev
-
-Release 0.1.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2025, 20:46:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2025, 21:35:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
