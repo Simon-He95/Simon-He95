@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1272" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -302,6 +302,341 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 771 commits in
+                                        <span class="repo">Simon-He95/cherry-studio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1afbb30</div>
+                                        <div class="message">fix(migrate): enable stream output for existing assistants in migrati… (#7772)
+
+fix(migrate): enable stream output for existing assistants in migration process
+
+- Updated the migration logic to set the default streamOutput setting to true for assistants that do not have this property defined, enhancing the user experience by ensuring consistent behavior across all assistants.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f016ef</div>
+                                        <div class="message">feat: SelectionAssistant macOS version / 划词助手macOS版 (#7561)
+
+* feat(SelectionAssistant): add macOS support and process trust handling
+
+- Updated the selection assistant to support macOS, including new IPC channels for process trust verification.
+- Enhanced the SelectionService to check for accessibility permissions on macOS before starting the service.
+- Added user interface elements to guide macOS users in granting necessary permissions.
+- Updated localization files to reflect macOS support and provide relevant user instructions.
+- Refactored selection-related configurations to accommodate both Windows and macOS environments.
+
+* feat(SelectionService): update toolbar window settings for macOS and Windows
+
+- Set the toolbar window to be hidden in Mission Control and accept the first mouse click on macOS.
+- Adjusted visibility settings for the toolbar window to ensure it appears correctly on all workspaces, including full-screen mode.
+- Refactored the MacProcessTrustHintModal component to improve layout and styling of buttons in the modal footer.
+
+* feat(SelectionToolbar): enhance styling and layout of selection toolbar components
+
+* feat(SelectionService): enhance toolbar window settings and refactor position calculation
+
+* feat(SelectionToolbar): update button padding and add last button padding for improved layout
+
+* chore(dependencies): update selection-hook to version 1.0.2 and refine build file exclusions in electron-builder.yml
+
+* feat(SelectionService): center action window on screen when not following toolbar
+
+* fix(SelectionService): implement workaround to prevent other windows from bringing the app to front on macOS when action window is closed
+
+* fix(SelectionService): refine macOS workaround to prevent other windows from bringing the app to front when action window is closed; update selection-toolbar logo padding in styles
+
+* fix(SelectionService): implement macOS toolbar reload to clear hover status; optimize display retrieval logic
+
+* fix(SelectionService): update macOS toolbar hover status handling by sending mouseMove event instead of reloading the window
+
+* chore: update selection-hook dependency to version 1.0.3 in package.json and yarn.lock
+
+* fix(SelectionService): improve toolbar visibility handling on macOS and ensure focusability of other windows when hiding the toolbar
+
+---------
+
+Co-authored-by: Teo &lt;cheesen.xu@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd1ef46</div>
+                                        <div class="message">chore: remove dependency updates (#7743)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c79ea7d</div>
+                                        <div class="message">fix: cannot move data dir in linux (#7643)
+
+* fix: cannot move data dir in linux
+
+* delete verion info in path
+
+---------
+
+Co-authored-by: beyondkmp &lt;beyondkmp@debian12.beyondkmp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01fc98b</div>
+                                        <div class="message">fix(AboutSettings): don't throw a notification when switch to the about page (#7688)
+
+refactor(AboutSettings): streamline test channel change handling
+
+- Moved the test channel change logic into a dedicated function to improve clarity and maintainability.
+- Removed the useEffect hook that was previously monitoring changes, simplifying the component's structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c0b614</div>
+                                        <div class="message">feat: Add code linting plugin support to the Electron configuration (#7740)
+
+* feat: 添加代码检查插件支持到 Electron 配置中，并更新依赖项
+
+* test: Update snapshots to reflect the latest changes in component rendering
+
+- Updated snapshots for DragableList, Scrollbar, CitationTooltip, Markdown, Table, and ThinkingBlock components by adding new data attributes to support debugging and testing.
+- Ensured snapshots are consistent with the latest component rendering, improving test accuracy and reliability.
+
+* test: 更新快照以反映组件渲染的最新变化
+
+- 更新了 DragableList、Scrollbar、CitationTooltip、Markdown、Table 和 ThinkingBlock 组件的快照，移除了多余的数据属性以简化调试和测试。
+- 确保快照与最新的组件渲染一致，提高了测试的准确性和可靠性。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0218bf6</div>
+                                        <div class="message">refactor(ProviderSettings): add provider key by urlScheme (#7529)
+
+* refactor(ProviderSettings): streamline API key management and enhance user experience
+
+- Refactored the handleProvidersProtocolUrl function to simplify API key handling and improve navigation logic.
+- Updated the useProviders hook to maintain consistency in provider management.
+- Enhanced the ApiKeyList component with improved state handling and user feedback for API key validation.
+- Updated localization files to reflect changes in API key management and user interactions.
+- Improved styling and layout for better visual consistency across provider settings.
+
+* fix(ProviderSettings): enhance confirmation modal title with provider name
+
+- Updated the confirmation modal title in the ProvidersList component to include the provider's display name, improving clarity for users during API key management.
+
+* update info
+
+* udpate line
+
+* update line
+
+* feat(Protocol): add custom protocol handling for Cherry Studio
+
+- Introduced a new protocol handler for 'cherrystudio' in the Electron app, allowing the application to respond to custom URL schemes.
+- Updated the electron-builder configuration to register the 'cherrystudio' protocol.
+- Enhanced the main application logic to handle incoming protocol URLs effectively, improving user experience when launching the app via custom links.
+
+* feat(ProviderSettings): enhance provider data handling with optional fields
+
+- Updated the handleProviderAddKey function to accept optional 'name' and 'type' fields for providers, improving flexibility in provider management.
+- Adjusted the API key handling logic to utilize these new fields, ensuring a more comprehensive provider configuration.
+- Enhanced the URL schema documentation to reflect the changes in provider data structure.
+
+* delete apikeylist
+
+* restore apiService
+
+* support utf8
+
+* feat(Protocol): improve URL handling for macOS and Windows
+
+- Added caching for the URL received when the app is already running on macOS, ensuring it is processed correctly.
+- Updated the URL processing logic in handleProvidersProtocolUrl to replace characters for proper decoding.
+- Simplified base64 decoding in ProviderSettings to enhance readability and maintainability.
+
+* fix start in macOS
+
+* format code
+
+* fix(ProviderSettings): validate provider data before adding
+
+- Added validation to ensure 'id', 'newApiKey', and 'baseUrl' are present before proceeding with provider addition.
+- Implemented error handling to notify users of invalid data and redirect them to the provider settings page.
+
+* feat(Protocol): enhance URL processing for versioning
+
+- Updated the URL handling logic in handleProvidersProtocolUrl to support versioning by extracting the 'v' parameter.
+- Added logging for version 1 to facilitate future enhancements in handling different protocol versions.
+- Improved the processing of the 'data' parameter for better compatibility with the updated URL schema.
+
+* feat(i18n): add provider API key management translations for Japanese, Russian, and Traditional Chinese
+
+- Introduced new translations for API key management features, including confirmation prompts and error messages related to provider API keys.
+- Enhanced user experience by providing localized strings for adding, updating, and validating API keys across multiple languages.
+
+---------
+
+Co-authored-by: rcadmin &lt;rcadmin@rcadmins-MacBook-Pro-4.local&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8355ed2</div>
+                                        <div class="message">chore: update i18n script (#7729)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c290906</div>
+                                        <div class="message">chore: update markdown-related packages (#7745)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf9175c</div>
+                                        <div class="message">fix: i18n missing &amp; model select options (#7760)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#575d6fa</div>
+                                        <div class="message">fix: clear cached web search and knowledge references in BaseApiClient (#7759)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb624cc</div>
+                                        <div class="message">chore: Disable auto-organize imports on save (#7744)
+
+chore: 禁用保存时自动整理导入功能</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ed6e58</div>
+                                        <div class="message">refactor: new knowledge base ui layout (#7748)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3849759</div>
+                                        <div class="message">fix: migrate version (#7757)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0ebdf4</div>
+                                        <div class="message">test: add tests for DividerWithText and EmojiIcon components (#7747)
+
+* test: add tests for DividerWithText and EmojiIcon components
+
+- Add DividerWithText test covering basic rendering, styling and edge cases
+- Add EmojiIcon test for emoji/icon rendering, tooltips and size customization
+
+* test: add snapshot tests for DividerWithText and EmojiIcon components
+
+- 为 DividerWithText 和 EmojiIcon 组件添加快照测试
+- 优化测试用例，移除过度测试的 DOM 结构验证
+- 增加对 size 和 fontSize props 的样式验证
+- 遵循项目测试规范，使用标准的 toMatchSnapshot()
+
+* test: remove duplicate background test in EmojiIcon
+
+移除重复的背景元素测试</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df47b17</div>
+                                        <div class="message">feat(AppUpdater): integrate User-Agent generation for autoUpdater req… (#7751)
+
+* feat(AppUpdater): integrate User-Agent generation for autoUpdater requests; add systemInfo utility module
+
+* feat(systemInfo): enhance macOS version handling using macos-release package for improved accuracy; update package.json and yarn.lock to include macos-release and opendal dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#561c563</div>
+                                        <div class="message">PPIO OAuth Login (#7717)
+
+* feat: integrate PPIO OAuth login support
+
+Add OAuth authentication support for PPIO provider with complete integration:
+- Add PPIO OAuth configuration and client ID
+- Implement oauthWithPPIO authentication flow
+- Add PPIO to OAuth and charge-supported providers list
+- Include PPIO logo and UI components for OAuth settings
+- Support charge and billing URL redirects for PPIO
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
+
+* fix: fix url
+
+* fix: fix redirect url
+
+* feat: add PPIO OAuth login
+
+* fix: migrate
+
+* fix: migrate
+
+* fix: ppio migrate
+
+---------
+
+Co-authored-by: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5e8ffc</div>
+                                        <div class="message">fix: add custom prompt setting for translate model (#7623)
+
+* fix: add custom prompt setting for translate model
+
+Introduces a UI section in TranslateSettings to allow users to view and edit the custom prompt for the translation model. The prompt is now saved to the database and can be toggled for display in the settings modal.
+
+* fix: add reset button for translate prompt and improve prompt editing
+
+Introduced a reset button to restore the translate prompt to its default value. Updated the prompt editing area to use local state, improved UI with a rounded Textarea, and ensured prompt changes are dispatched to the store.
+
+* refactor: bidirectional settings layout in TranslatePage
+
+Removed unnecessary margin and conditional wrapper for the bidirectional settings. The Space component is now only rendered when bidirectional mode is enabled, improving layout clarity and reducing extra DOM nesting.
+
+* Update TranslatePage.tsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f29194</div>
+                                        <div class="message">refactor: Restructure the knowledge base directory (#7754)
+
+重构知识库目录结构，代码逻辑完全不变
+
+├── embeddings
+│   ├── Embeddings.ts
+│   ├── EmbeddingsFactory.ts
+│   └── VoyageEmbeddings.ts
+├── loader
+│   ├── draftsExportLoader.ts
+│   ├── epubLoader.ts
+│   ├── index.ts
+│   ├── noteLoader.ts
+│   └── odLoader.ts
+└── reranker
+    ├── BaseReranker.ts
+    ├── GeneralReranker.ts
+    └── Reranker.ts
+
+4 directories, 11 files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7abebc</div>
+                                        <div class="message">fix: remove opendal (#7753)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Simon-He95/env-preview</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2c4c7a1</div>
+                                        <div class="message">chore: lint</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
                                     <div class="content">
@@ -354,48 +689,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v1.0.10</span>
-                                        in
-                                        <span class="repo">Simon-He95/dot-text</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/dot-text</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#85b6077</div>
-                                        <div class="message">release v1.0.10</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2025, 19:17:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2025, 20:41:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
