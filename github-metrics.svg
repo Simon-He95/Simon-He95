@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="989" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1112" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 777 users
+                            Followed by 776 users
                         </div>
                     </section>
                     <section>
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            13384 Commits
+                            13385 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,11 +222,10 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    777 followers
+                    776 followers
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFOElEQVR4nK2USW8URxSA57/Enq6u6uraeq1eZ/PMeBnbYxuDV7x7iMRiICy2wKsIibIoSLEMTlAIB0gsRCIMNlIOOeSaU6655gKREoksx8huMjGOTS6RvkOV6tVX770qVaqjyfvfSbUX5Gsox3bONyymcYKYDm2Oc76R943X70q15ZzDcDgGShpBqGMMITSEsC2LEkIJEVQvReZhG1OHLbgGVhQFAKCqKtF1zpjg3JMyjqI4iqTrCqpHDnutNO9Wmvw6LTmpgjQAAGsaQghrmus4jm2bhiE4d2w7jiJPSs7Ygd5UW84pRXZHV/vg1Hid5o42RVEghAghRimj1LasKAyjMPQ9T7qubVn1MyKX75e2ZOxSNhg+URs5f/7cx2sJTT09CEJGKdY0zpghhO95hhBRGCadDYPAsW3BOSGEM7ov31RTYDYXMsMnahfXbz/59c97z188+uWP0bmrDQ0NGkKcscD3pesSXbdMs9N3oiCghJiGEQaBbVmGEDrGrsDl2K6TqksvrN++//y3u89e3H32ov/yFQBAY2MjAIDoetLHki3GmqJW1/Q5k5YpjZ30Xcchum7zw6Vf/C09vf5ZOr1zUYqiaEr6TMHv982Jcmb1eMetWs/ikeLy0fJCtdBi77SCMxba9GDpxfXbGz//nkhv/fiTGUbKbqYBxbOV7JulgIH06Wp+e3l6c2Gy1pZhIF1kWEmnBcWlyHpFWgytpow/fKJ28r0Pbnz/Q8LczVuzR4pnW2PHNMYL/rtDlZHW7PzR5sdzY09XatvL06tj1f5Yrg5VNAjznthrLMd2qhzb+cDuHR4anJ4amJpMONdduD9W/ersgM3ZhUpm/eqFjkI82lu9MzPweG5sc37i1GBvX2fr9VM1g7N9xnIiLUVWc8Fvby2UCnE+G5WL+f6CfDgz8OjSSHtGfjIz8GR++rt7N7+5sbi9NLW9NP3w7OD2tZlvP/1wa2GK6vgAKYEgwcBqMZIJed8ZLYcbl0e6CuFHJ/u2lqefrtTqPLo8+mh29OlK7cGVCaWxwaIo49KsZHVSFKmBxSPHiPcQOUZoi1AQwehQpWltZnBraXpzcWr1VN/qqb47J489uTrxeHHqTG9ZA2kCwT5vSmhq3rP7qm3DvZ1DRzoShns7h3s7+7sqQFGk44xXm9dmhsYruWO+fcy3e2L5+VvDS+PdAsN6oVxTQ5u8lDIEhKYaGL6C/hKl4Q2saYHn5Xz3Ul/LSGBNxHJlrNN3XUZ0rCp1KYGAIpB4/+npgQxKQaHKGPOkbM6G1ye7357szvnSEAKrCkU7Iq6pCQQCgdXYpSkKQWDqhzEeWtc6clxDuq67jpML/WzgG0KoihI5xOXY5TgpOXYp2VVld8tX917cXiwG1/paNmo971QLOaopioIxRggpiuIKLSvZoVKKQMalB1Iy9XuTXU/mJzZnRzdqPcutGU8DHANXaEmAwzSHvRxHDiEQ+AbO7JSPgDS0vVgMEgQ0CK60xJu77/HpSm1rYfLr80MjBelwVI80CTQJTMauQAQCm+1MX5EKAjQVIIh0zBg1egLv/nT31vxE/dk/uHi86hsEKRaF/y11BdJUgDXCmenJKAyylikt0+2OovePttw53v7l2YGNc4Nr410Zd+cvJTrVVIVjcKjU4QhDlVEj8LNxVKgT+FnH9l0nsC1Zx5NxsurJCGsUASVpyH4pRoDoLPAze40JUZj3ZFzH9/bHWKaLIXQ4ekWKgYKgRonwZBRHBcf2GTX+ba9Tbc3P1ir97cVKsZicKriFobJX+hf5W4VdL+dglAAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwYE/8QAKRAAAgECBQMDBQEAAAAAAAAAAQIDAAQFBhESMRMhIgdRcRQVI0Fhof/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgP/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIRIUH/2gAMAwEAAhEDEQA/AGcxO+Wxg3su5idFFYyb1HsrJYvuUEsLy7tqshBAU6HXmu/P2L2uExW89/HJJawsrShF3HQsBx+6F2ZsaybdZYXD8HF5cX3UDQ3NwjvIpLgnzJ/nH+c1n1ZYopyEjCvU/LmI30VpFcSCeVtijpNpr86VutaU7DbqZc9YfJey9V4mG7pxInAJ4HamnsH6ljA/ugpbY5DJn824Z9Zo7xCWEqAylA4BB9iCKGtpk+03a3GHxQnoj8kErvsk766BiQRxpqKOdVvDGzeUan5FDV8Y1ukXzJeSZpM2yPdW13sSPfF1AuzRht8yD2PPYUwVvGIII4l4VQKmiqniqgD2AqdStfYLs//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAlEAABAwMDBQADAAAAAAAAAAABAgMRAAQFEhMxFCFBUWFxkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFAwH/xAAeEQACAgEFAQAAAAAAAAAAAAABAgADEQQFEiEiE//aAAwDAQACEQMRAD8Ah8Vj222YCYBppc2liMY3th7r907gIG3twIg8zM00tLIJaAA8UTooUfXili+TBfocSIyWCbdbLgR3qVdxakuEaTXZWrNJTqfDjLSndht5SZbW4BJRI7jg+I+0qvMezvq0qZUPYWKxNeg85lmovI5KpxKiztSqBH8rcLP5W22bTHFEumwq0cSFKRqTGpJgj8VK3yMiUq0ynoxJe2pOHLyGihzq9DbsyIiCP3JrKnDoQIgE+SrlR90Ft9d2y1iXDptUoJBR2XIlQM+5FVrLKAy2CNR08q5onbbBYzEiN7kjIiIh6n//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
@@ -250,6 +249,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAQFBwj/xAAlEAACAQMDAgcAAAAAAAAAAAABAwACBBEFBiESFAcTMUFRYXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6piJm3jK1iLbbdS9yXOhdWrqBKTjueCfKPI9cfnyDA0mIiAlbrFki9othcJU0qfSygMpBweRkZ98EyykR7D3tuvjoqFVRH2MYgSoiIH/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAQF/8QALxAAAQMDAgQEBAcAAAAAAAAAAQIDBAAFEQYSEyEiMQdRcaEUJUFhQmKBkaLR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIEBQP/xAAgEQACAgICAgMAAAAAAAAAAAABAgADBBETIRQxUcHh/9oADAMBAAIRAxEAPwBt+KUh8GDHAwycq9VZx7A+9B1l1g3pmy3V5vY5NkPBuO0fsV5WftQ4vXd9uTIhXJ5ua0TkbmQFj0Kcc8UGylPPK3oV15J6j/vOgFB5dmV/OUYApA7397jd0XOnasusJdykqfUlwuuj8KEg5xjsPp+9OWFKjy44ejutPMqJCVoO4HBwefqDUiRrlIhpdZYkPMh9vY6lskBSfI47iqm0XbxbdKWqI4Nq246Nw/MRlXuTWnFxkt8xG/Ja8KAvSjX7Jhsh+bRwOZz2rqXiylPEkx1AgqJLZGO5+n9U1dWeHlhtNsduVqbfiTEISje2vORy77gaLNM2C3QW2nG2A5IQ2F8ZzqUTjv5D9AKC1m5AwjWPZQuIy2AnvYiBgaF1JcdnAssoDuC8nhD+WKpexJlos8NNw2/GpZQH+rPXtG73rarKNnLe5MPXqf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgIHAwX/xAAuEAABAwMBBQYHAQAAAAAAAAABAgMEAAUREgYTIUFRIiMxMmFxBzNSgZHB0bH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQT/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADBBEhEhT/2gAMAwEAAhEDEQA/AFdsYuF1mLSIDzLCzjfgbwY5E9OX5oS5tZdocluRblRm29Pdqda1rUOpB4ZPpWwbEw3WIe9YeQWjqKgeJW6fH7fyrtFghW2I1HEePukMpbG8SCsrAxk8P2agYuMqILNdMpIwckN2cvhjto7tNAkIktpj3CHoDwazoUDnCxnw8ixj0psl047S3M+9eNYLMpEx+XpQHFsNsKPLsFZwMAfWeVJkQ2kpAUCo9TVqkkr2YLlC2ECHJL1rsEbdOTGQQMlOO8WeuBR2NtHGuKn1OBDSEqJbDisZA/fpQQHUhJVxKiM1CkhaRqGe1/a1HCQr5gJksjehNKsm2cQpfZlLLKwvulcdJHU9DTOK9Flx23m5AWlQ8yHOBrAz81fuP8qVnCqT51UaEM2ljsz/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYHAf/EACoQAAEDAwQABQQDAAAAAAAAAAECAwQABREGEiExBxMjQVEVImGRYnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAf/EAB0RAQACAgIDAAAAAAAAAAAAAAEAEQIDEiEEE0H/2gAMAwEAAhEDEQA/AFfFS/Km6kRbYisoiEIKQeS4QFE/0AR+zVXaUuMRm1SCCSByD0MZqB114dtTtRXC62S/Jji4o9Vgu7Clzj7kn3BAPFW9igPWzTsKO86X3GWsF5SgcgDGam7BlIFiclhRjSHmzvCRvKSfx1WbRi86HHFSXIpUsnylqORTGlbNqZ2VcGl3Zc6M8+TlbakIDZOSMns9DjjurGXpyLLmyZNxcZZkvL3KQ2eBwB/laeIZnLlAbNyNcZjES8OS9L2646hhBbUVp0uFon1sdHHHwaY0Z4iNzL/HTEQ43DeAYSl1Ic2knjAH6qh0rZ4NwtMeNJZBY2bNg4GAKgYVvgaV1mv6RBZStpQ8tbhUooz3jnFOGoq37Be3IaJvN5Ylty4u2a55brZLjfAweMEY+eePxXFsOKVnAx/LugIM6RKmZfcKyk4BNPPOq39+1IZ5d1Gx6n//2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -302,24 +302,41 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#20 fix: optimize null checking in parseCodeBlock</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by hzc315579049 in <span class="repo">Simon-He95/vue-markdown-render</span></div>
+                                    <div class="comment">thanks</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">Simon-He95/import-prompter</span>
+                                        <span class="repo">Simon-He95/vue-markdown-render</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7a52081</div>
-                                        <div class="message">Merge pull request #6 from Simon-He95/renovate/vscode-1.x-lockfile
+                                        <div class="sha">#75398b3</div>
+                                        <div class="message">Merge pull request #20 from hzc315579049/main
 
-chore(deps): update dependency @types/vscode to v1.104.0</div>
+fix: optimize null checking in parseCodeBlock</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#58e25f7</div>
-                                        <div class="message">chore(deps): update dependency @types/vscode to v1.104.0</div>
+                                        <div class="sha">#092d787</div>
+                                        <div class="message">fix: optimize null checking in parseCodeBlock</div>
                                     </div>
                                 </div>
                             </section>
@@ -332,12 +349,12 @@ chore(deps): update dependency @types/vscode to v1.104.0</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#6 chore(deps): update dependency @types/vscode to v1.104.0</span>
+                                        <span class="issue">#20 fix: optimize null checking in parseCodeBlock</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">Simon-He95/import-prompter</span></div>
-                                    <div>1 file changed <span class="code">++18 --17</span></div>
+                                    <div>opened by hzc315579049 in <span class="repo">Simon-He95/vue-markdown-render</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -348,60 +365,100 @@ chore(deps): update dependency @types/vscode to v1.104.0</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Simon-He95/vue-markdown-render</span>
+                                        Pushed 9 commits in
+                                        <span class="repo">Simon-He95/deepchat</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#330a8b0</div>
-                                        <div class="message">chore: add postinstall script to check for missing peer dependencies
-close: #16</div>
+                                        <div class="sha">#906e8b4</div>
+                                        <div class="message">perf: stop watch after editor created</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#16 Build errors due to missing dependencies (vue-i18n, vue-use-monaco, radix-vue) and [@vue/compiler-sfc] macro import tips</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by zjywill in <span class="repo">Simon-He95/vue-markdown-render</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Simon-He95/transformToTailwindcss</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#52c4d5e</div>
-                                        <div class="message">Merge pull request #63 from Simon-He95/renovate/transform-to-tailwindcss-0.x
+                                        <div class="sha">#455a661</div>
+                                        <div class="message">chore(deps-dev): bump vite from 7.1.4 to 7.1.5 (#893)
 
-chore(deps): update dependency transform-to-tailwindcss to ^0.0.52</div>
+Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 7.1.4 to 7.1.5.
+- [Release notes](https://github.com/vitejs/vite/releases)
+- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+- [Commits](https://github.com/vitejs/vite/commits/v7.1.5/packages/vite)
+
+---
+updated-dependencies:
+- dependency-name: vite
+  dependency-version: 7.1.5
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b3309d3</div>
-                                        <div class="message">chore(deps): update dependency transform-to-tailwindcss to ^0.0.52</div>
+                                        <div class="sha">#0aecb5d</div>
+                                        <div class="message">fix: revert json ref support (#892)
+
+* chore: revert json parse refer
+
+* fix: remove package</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#481b161</div>
+                                        <div class="message">feat: add support for Qwen3 Next 80B models in DashScope provider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf7c960</div>
+                                        <div class="message">feat: add chatConfig entry for gemini search option (#891)
+
+* feat: add chatConfig entry for gemini search option
+
+* fix: add i8n labels</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9a95f7</div>
+                                        <div class="message">feat: mcpclient support json $ref schema (#890)
+
+* feat: add support for mcp notification
+
+* feat: add JSON schema reference parsing support for MCP tools
+
+Add @apidevtools/json-schema-ref-parser dependency and implement automatic schema dereferencing for MCP tools that contain  in their input schemas. This improves tool usability by resolving JSON schema references before sending to LLMs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8a51e</div>
+                                        <div class="message">feat: add GoogleSearch support for Gemini provider (#889)
+
+* feat: add GoogleSearch support for Gemini provider
+
+* chore: some prettier things</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70e9447</div>
+                                        <div class="message">feat: add live search support for Grok provider (#886)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6a71f9</div>
+                                        <div class="message">feat: add full-screen in mermaid &amp; perf renderer code_block (#885)
+
+close: #863</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#21 refactor(todo): typewriter-cursor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">Simon-He95/vue-markdown-render</span></div>
                                 </div>
                             </section>
                         </div>
@@ -410,7 +467,7 @@ chore(deps): update dependency transform-to-tailwindcss to ^0.0.52</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2025, 07:17:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 09:22:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
