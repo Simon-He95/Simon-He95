@@ -52,8 +52,8 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [simon-js-tool](https://github.com/Simon-He95/simon-js-tool)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/simon-js-tool)
+#### [lazy-js-tool](https://github.com/Simon-He95/lazy-js-tool)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/lazy-js-tool)
 
 **🔧 JavaScript Utility Library**  
 `JavaScript` `Utility` `TypeScript`  
