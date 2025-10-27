@@ -101,8 +101,8 @@ A magic plugin that brings convenience to TailwindCSS usage
 <tr>
 <td width="50%" valign="top">
 
-#### [v-component-prompter](https://github.com/Simon-He95/v-component-prompter)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=v-component-prompter&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/v-component-prompter)
+#### [vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=vue-markdown-renderer&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/vue-markdown-renderer)
 
 **🔮 Vue Component Prompter**  
 `Vue` `VSCode` `IntelliSense`  
