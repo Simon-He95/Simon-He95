@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Simon He</h1>
+  <h1>SIMON HE · FRONTEND ENGINEER</h1>
   <p><code>frontend-engineer --tooling --automation --open-source</code></p>
 </div>
 
