@@ -157,11 +157,11 @@ Lightweight, high-performance browser image compression library
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-He95&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Simon-He95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="./assets/readme-mirror/stats-streak.svg" width="49%" />
+<img src="./github-metrics/base.svg" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Simon-He95&theme=tokyonight&no-frame=true&row=1&column=4" width="49%" />
+<img src="./github-metrics/languages.indepth.svg" width="49%" />
+<img src="./github-metrics/achievements.compact.svg" width="49%" />
 
 </div>
 
