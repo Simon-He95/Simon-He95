@@ -1,13 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">pin-markstream-vue.svg</title>
-  <desc id="desc">Generated fallback image when external source is unavailable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <!-- mirrored-placeholder -->
+  <title id="title">Project card unavailable</title>
+  <desc id="desc">Tokyonight-style fallback image generated when upstream image source is unavailable.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e293b"/>
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="340" rx="14" fill="url(#bg)"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="34">pin-markstream-vue.svg</text>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="22">External source temporarily unavailable, auto-retry on next CI run</text>
+  <rect width="495" height="195" rx="14" fill="url(#bg)" />
+  <rect x="0" y="0" width="495" height="4" fill="url(#line)" />
+  <rect x="12" y="12" width="471" height="171" rx="10" fill="none" stroke="#2f334d" stroke-width="1" />
+  <text x="50%" y="44%" dominant-baseline="middle" text-anchor="middle" fill="#c0caf5" font-family="Arial, sans-serif" font-size="28">Project card unavailable</text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#7aa2f7" font-family="Arial, sans-serif" font-size="16">pin-markstream-vue.svg (retrying in next CI run)</text>
 </svg>

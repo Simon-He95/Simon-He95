@@ -18,23 +18,104 @@ trim() {
 create_placeholder_svg() {
   local target="$1"
   local label="$2"
+  local width
+  local height
+  local title
+  local subtitle
+  local base_name
+
+  base_name="$(basename "$target")"
+  width="1200"
+  height="340"
+  title="$label"
+  subtitle="Auto-refresh by CI when upstream service recovers"
+
+  case "$base_name" in
+    pin-*)
+      width="495"
+      height="195"
+      title="Project card unavailable"
+      subtitle="$base_name (retrying in next CI run)"
+      ;;
+    stats-*)
+      width="495"
+      height="195"
+      title="Statistics unavailable"
+      subtitle="$base_name (retrying in next CI run)"
+      ;;
+    activity-graph.svg)
+      width="1200"
+      height="340"
+      title="Activity graph unavailable"
+      subtitle="Retrying in next CI run"
+      ;;
+    wakatime-*)
+      width="960"
+      height="320"
+      title="WakaTime chart unavailable"
+      subtitle="Retrying in next CI run"
+      ;;
+    sponsors-circle.svg)
+      width="640"
+      height="640"
+      title="Sponsors chart unavailable"
+      subtitle="Retrying in next CI run"
+      ;;
+    header-typing.svg)
+      width="900"
+      height="80"
+      title="Profile header unavailable"
+      subtitle="Retrying in next CI run"
+      ;;
+  esac
 
   mkdir -p "$(dirname "$target")"
   cat > "$target" <<EOF
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">${label}</title>
-  <desc id="desc">Generated fallback image when external source is unavailable.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title desc">
+  <!-- mirrored-placeholder -->
+  <title id="title">${title}</title>
+  <desc id="desc">Tokyonight-style fallback image generated when upstream image source is unavailable.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e293b"/>
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="100%" stop-color="#bb9af7"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="340" rx="14" fill="url(#bg)"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="34">${label}</text>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="22">External source temporarily unavailable, auto-retry on next CI run</text>
+  <rect width="${width}" height="${height}" rx="14" fill="url(#bg)" />
+  <rect x="0" y="0" width="${width}" height="4" fill="url(#line)" />
+  <rect x="12" y="12" width="$((${width} - 24))" height="$((${height} - 24))" rx="10" fill="none" stroke="#2f334d" stroke-width="1" />
+  <text x="50%" y="44%" dominant-baseline="middle" text-anchor="middle" fill="#c0caf5" font-family="Arial, sans-serif" font-size="28">${title}</text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#7aa2f7" font-family="Arial, sans-serif" font-size="16">${subtitle}</text>
 </svg>
 EOF
+}
+
+should_refresh_placeholder() {
+  local target="$1"
+  if [[ ! -f "$target" ]]; then
+    return 0
+  fi
+  if grep -q "mirrored-placeholder" "$target" 2>/dev/null; then
+    return 0
+  fi
+  if grep -q "Generated fallback image when external source is unavailable." "$target" 2>/dev/null; then
+    return 0
+  fi
+  return 1
+}
+
+ensure_placeholder_if_needed() {
+  local target="$1"
+  local placeholder_label="$2"
+  if [[ "$target" == *.svg ]] && should_refresh_placeholder "$target"; then
+    create_placeholder_svg "$target" "$placeholder_label"
+    echo "Generated placeholder: $target"
+    updated=$((updated + 1))
+  fi
 }
 
 updated=0
@@ -60,11 +141,7 @@ while IFS='|' read -r raw_target raw_url || [[ -n "${raw_target:-}${raw_url:-}" 
     echo "::warning::Failed to download $url"
     rm -f "$tmp_file"
     failed=$((failed + 1))
-    if [[ ! -f "$target" && "$target" == *.svg ]]; then
-      create_placeholder_svg "$target" "$placeholder_label"
-      echo "Generated placeholder: $target"
-      updated=$((updated + 1))
-    fi
+    ensure_placeholder_if_needed "$target" "$placeholder_label"
     continue
   fi
 
@@ -72,11 +149,7 @@ while IFS='|' read -r raw_target raw_url || [[ -n "${raw_target:-}${raw_url:-}" 
     echo "::warning::Downloaded file is empty for $url"
     rm -f "$tmp_file"
     failed=$((failed + 1))
-    if [[ ! -f "$target" && "$target" == *.svg ]]; then
-      create_placeholder_svg "$target" "$placeholder_label"
-      echo "Generated placeholder: $target"
-      updated=$((updated + 1))
-    fi
+    ensure_placeholder_if_needed "$target" "$placeholder_label"
     continue
   fi
 
@@ -84,11 +157,7 @@ while IFS='|' read -r raw_target raw_url || [[ -n "${raw_target:-}${raw_url:-}" 
     echo "::warning::Downloaded content does not look like SVG for $url"
     rm -f "$tmp_file"
     failed=$((failed + 1))
-    if [[ ! -f "$target" && "$target" == *.svg ]]; then
-      create_placeholder_svg "$target" "$placeholder_label"
-      echo "Generated placeholder: $target"
-      updated=$((updated + 1))
-    fi
+    ensure_placeholder_if_needed "$target" "$placeholder_label"
     continue
   fi
 
