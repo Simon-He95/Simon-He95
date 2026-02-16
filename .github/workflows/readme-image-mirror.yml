@@ -1,0 +1,45 @@
+name: Mirror README External Images
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/readme-image-mirror-list.txt"
+      - "scripts/mirror-readme-images.sh"
+      - ".github/workflows/readme-image-mirror.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-image-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Mirror external images used by README
+        run: bash scripts/mirror-readme-images.sh
+
+      - name: Commit and push when mirrored files changed
+        run: |
+          if git diff --quiet; then
+            echo "No mirrored image changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme-mirror
+          git commit -m "chore: mirror README external images"
+          git push

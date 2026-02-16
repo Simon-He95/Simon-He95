@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://www.hejian.club/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=Welcome+to+my+GitHub+👋;Full+Stack+Developer;Open+Source+Enthusiast">
+  <a href="https://www.simonhe.me/">
+    <img src="./assets/readme-mirror/header-typing.svg">
   </a>
 </h1>
 
@@ -53,7 +53,7 @@
 <td width="50%" valign="top">
 
 #### [lazy-js-utils](https://github.com/Simon-He95/lazy-js-utils)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/lazy-js-utils)
+[![](./assets/readme-mirror/pin-simon-js-tool.svg)](https://github.com/Simon-He95/lazy-js-utils)
 
 **🔧 JavaScript Utility Library**  
 `JavaScript` `Utility` `TypeScript`  
@@ -63,7 +63,7 @@ Practical JavaScript utility functions collection to boost development efficienc
 <td width="50%" valign="top">
 
 #### [unot](https://github.com/Simon-He95/unot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=unot&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/unot)
+[![](./assets/readme-mirror/pin-unot.svg)](https://github.com/Simon-He95/unot)
 
 **🎨 UnoCSS Toolkit**  
 `UnoCSS` `VSCode` `CSS`  
@@ -80,7 +80,7 @@ Complete UnoCSS toolkit in VSCode, one-stop atomic CSS solution
 <td width="50%" valign="top">
 
 #### [vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=vscode-common-intellisense&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/vscode-common-intellisense)
+[![](./assets/readme-mirror/pin-vscode-common-intellisense.svg)](https://github.com/Simon-He95/vscode-common-intellisense)
 
 **🧠 Universal Component IntelliSense**  
 `VSCode` `IntelliSense` `Vue` `React`  
@@ -90,7 +90,7 @@ Universal Component Intellisense for Any Frameworks
 <td width="50%" valign="top">
 
 #### [vscode-tailwind-magic](https://github.com/Simon-He95/vscode-tailwind-magic)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=vscode-tailwind-magic&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/vscode-tailwind-magic)
+[![](./assets/readme-mirror/pin-vscode-tailwind-magic.svg)](https://github.com/Simon-He95/vscode-tailwind-magic)
 
 **✨ TailwindCSS Magic Plugin**  
 `TailwindCSS` `VSCode` `CSS`  
@@ -102,7 +102,7 @@ A magic plugin that brings convenience to TailwindCSS usage
 <td width="50%" valign="top">
 
 #### [markstream-vue](https://github.com/Simon-He95/markstream-vue)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=markstream-vue&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/markstream-vue)
+[![](./assets/readme-mirror/pin-markstream-vue.svg)](https://github.com/Simon-He95/markstream-vue)
 
 **🔮 Vue Component Prompter**  
 `Vue` `VSCode` `IntelliSense`  
@@ -112,7 +112,7 @@ Dynamically provide properties and events for custom components
 <td width="50%" valign="top">
 
 #### [transformToUnocss](https://github.com/Simon-He95/transformToUnocss)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=transformToUnocss&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/transformToUnocss)
+[![](./assets/readme-mirror/pin-transform-to-unocss.svg)](https://github.com/Simon-He95/transformToUnocss)
 
 **🔄 CSS Transform Tool**  
 `UnoCSS` `CSS` `Transform`  
@@ -129,7 +129,7 @@ Transform CSS to UnoCSS syntax with one click migration
 <td width="50%" valign="top">
 
 #### [simon.me](https://github.com/Simon-He95/simon.me)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon.me&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/simon.me)
+[![](./assets/readme-mirror/pin-simon-me.svg)](https://github.com/Simon-He95/simon.me)
 
 **📝 Personal Blog**  
 `Blog` `Vue` `Nuxt`  
@@ -139,7 +139,7 @@ Simon's personal blog - documenting technology and life
 <td width="50%" valign="top">
 
 #### [browser-compress-image](https://github.com/Simon-He95/browser-compress-image)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=browser-compress-image&theme=tokyonight&hide_border=true)](https://github.com/Simon-He95/browser-compress-image)
+[![](./assets/readme-mirror/pin-browser-compress-image.svg)](https://github.com/Simon-He95/browser-compress-image)
 
 **🖼️ Image Compression Tool**  
 `Image` `Compression` `Browser`  
@@ -157,11 +157,11 @@ Lightweight, high-performance browser image compression library
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Simon-He95&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Simon-He95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="./assets/readme-mirror/stats-streak.svg" width="49%" />
+<img src="./assets/readme-mirror/stats-overview.svg" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Simon-He95&theme=tokyonight&no-frame=true&row=1&column=4" width="49%" />
+<img src="./assets/readme-mirror/stats-top-langs.svg" width="49%" />
+<img src="./assets/readme-mirror/stats-trophy.svg" width="49%" />
 
 </div>
 
@@ -208,7 +208,7 @@ Lightweight, high-performance browser image compression library
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simon-He95&area=true&hide_border=true&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149" width="100%" />
+  <img src="./assets/readme-mirror/activity-graph.svg" width="100%" />
 </div>
 
 ---
@@ -216,8 +216,8 @@ Lightweight, high-performance browser image compression library
 ## ⏱️ Coding Time Statistics
 
 <div align="center">
-  <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="49%" />
-  <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="49%" />
+  <img src="./assets/readme-mirror/wakatime-time.svg" width="49%" />
+  <img src="./assets/readme-mirror/wakatime-languages.svg" width="49%" />
 </div>
 
 ---
@@ -236,7 +236,7 @@ Lightweight, high-performance browser image compression library
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Simon-He95/sponsor@main/sponsors_circle.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Simon-He95/sponsor@main/sponsors_circle.svg" width="60%" />
+    <img src="./assets/readme-mirror/sponsors-circle.svg" width="60%" />
   </a>
 </p>
 
