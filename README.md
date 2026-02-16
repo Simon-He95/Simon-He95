@@ -16,7 +16,7 @@
 <a href="https://www.npmjs.com/~simon_he"><img src="https://img.shields.io/badge/📦_NPM-Packages-cb3837?style=for-the-badge&logoColor=white"></a>
 
 <!-- Visitor Counter -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=Simon-He95&style=for-the-badge" alt="Visitor Count" />
+<img src="./assets/readme-mirror/visitor-count.svg" alt="Visitor Count" />
 
 </div>
 

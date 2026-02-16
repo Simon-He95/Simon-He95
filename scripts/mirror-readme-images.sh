@@ -67,9 +67,30 @@ create_placeholder_svg() {
       title="Profile header unavailable"
       subtitle="Retrying in next CI run"
       ;;
+    visitor-count.svg)
+      width="260"
+      height="28"
+      title="Visitor counter unavailable"
+      subtitle=""
+      ;;
   esac
 
   mkdir -p "$(dirname "$target")"
+  if [[ "$base_name" == "visitor-count.svg" ]]; then
+    cat > "$target" <<EOF
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="28" viewBox="0 0 260 28" role="img" aria-label="visitor counter unavailable">
+  <!-- mirrored-placeholder -->
+  <linearGradient id="g" x2="0" y2="100%">
+    <stop offset="0" stop-color="#2f334d"/>
+    <stop offset="1" stop-color="#1a1b27"/>
+  </linearGradient>
+  <rect rx="4" width="260" height="28" fill="url(#g)"/>
+  <text x="130" y="19" fill="#c0caf5" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">visitor counter unavailable</text>
+</svg>
+EOF
+    return
+  fi
+
   cat > "$target" <<EOF
 <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title desc">
   <!-- mirrored-placeholder -->
