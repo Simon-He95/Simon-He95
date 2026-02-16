@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=SIMON%20HE%20%2F%2F%20CYBER%20DECK&fontAlign=50&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Tooling%20Builder%20%7C%20Open%20Source&descAlign=50&descAlignY=58&animation=fadeIn&fontColor=22c55e&color=0:020617,45:0b1220,100:052e2b" />
+  <h1>Simon He</h1>
+  <p><code>frontend-engineer --tooling --automation --open-source</code></p>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=800&center=true&vCenter=true&width=900&color=22C55E&lines=%3E+boot+frontend+toolchain;%3E+optimize+developer+experience;%3E+automate+repetitive+work;%3E+status%3A+ONLINE" />
-</p>
-
-<p align="center">
-  <a href="https://www.hejian.club/"><img src="https://img.shields.io/badge/portal-hejian.club-000000?style=for-the-badge&logo=torbrowser&logoColor=22c55e&labelColor=0b1220" /></a>
+  <a href="https://simonhe.me/"><img src="https://img.shields.io/badge/portal-simonhe.me-000000?style=for-the-badge&logo=torbrowser&logoColor=22c55e&labelColor=0b1220" /></a>
   <a href="https://twitter.com/simon_he1995"><img src="https://img.shields.io/badge/x-@simon__he1995-000000?style=for-the-badge&logo=x&logoColor=22c55e&labelColor=0b1220" /></a>
   <a href="https://space.bilibili.com/413596956"><img src="https://img.shields.io/badge/bilibili-channel-000000?style=for-the-badge&logo=bilibili&logoColor=22c55e&labelColor=0b1220" /></a>
   <a href="https://www.npmjs.com/~simon_he"><img src="https://img.shields.io/badge/npm-simon__he-000000?style=for-the-badge&logo=npm&logoColor=22c55e&labelColor=0b1220" /></a>
@@ -31,12 +28,14 @@ $ cat focus.txt
 
 ## /featured_repos
 
-<p align="center">
-  <a href="https://github.com/Simon-He95/simon-js-tool"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=simon-js-tool&bg_color=00000000&title_color=22c55e&text_color=bbf7d0&icon_color=22c55e&hide_border=true" /></a>
-  <a href="https://github.com/Simon-He95/tiny-tinify-compress"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=tiny-tinify-compress&bg_color=00000000&title_color=22c55e&text_color=bbf7d0&icon_color=22c55e&hide_border=true" /></a>
-  <a href="https://github.com/Simon-He95/browser-compress-image"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=browser-compress-image&bg_color=00000000&title_color=22c55e&text_color=bbf7d0&icon_color=22c55e&hide_border=true" /></a>
-  <a href="https://github.com/Simon-He95/transformToUnocss"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Simon-He95&repo=transformToUnocss&bg_color=00000000&title_color=22c55e&text_color=bbf7d0&icon_color=22c55e&hide_border=true" /></a>
-</p>
+- [`simon-js-tool`](https://github.com/Simon-He95/simon-js-tool)  
+  Utility toolkit for daily JavaScript and TypeScript workflows.
+- [`tiny-tinify-compress`](https://github.com/Simon-He95/tiny-tinify-compress)  
+  Lightweight image compression helper focused on practical usage.
+- [`browser-compress-image`](https://github.com/Simon-He95/browser-compress-image)  
+  Browser-side image compression library with strong performance.
+- [`transformToUnocss`](https://github.com/Simon-He95/transformToUnocss)  
+  Convert CSS styles into UnoCSS utilities for faster migration.
 
 ## /contribution_matrix
 
@@ -68,7 +67,7 @@ $ cat focus.txt
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Simon-He95&theme=matrix&no-frame=true&no-bg=true&margin-w=8" alt="trophy" />
+  <img width="49%" src="./assets/external/trophy.svg" alt="trophy" />
   <img width="49%" src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" alt="wakatime time" />
 </p>
 

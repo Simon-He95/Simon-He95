@@ -1,5 +1,5 @@
 # target_path|source_url
 assets/external/activity-graph.svg|https://github-readme-activity-graph.vercel.app/graph?username=Simon-He95&bg_color=ffffff&color=0f172a&line=3b82f6&point=1d4ed8&area=true&hide_border=true
-assets/external/trophy.svg|https://github-profile-trophy.vercel.app/?username=Simon-He95&theme=flat&no-frame=true&no-bg=true&margin-w=8
+assets/external/trophy.svg|https://github-profile-trophy.vercel.app/?username=Simon-He95&theme=darkhub&column=4&margin-w=12&margin-h=12&no-frame=true
 assets/external/wakatime-time.svg|https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg
 assets/external/wakatime-languages.svg|https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg
