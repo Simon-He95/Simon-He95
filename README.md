@@ -75,10 +75,6 @@ $ cat focus.txt
   <img width="100%" src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" alt="wakatime languages" />
 </p>
 
-```text
-[daemon] mirror-sync ........ active (every 6h, synced into /assets/external)
-```
-
 ## /support
 
 [Buy me a cup of coffee](https://github.com/Simon-He95/sponsor)
