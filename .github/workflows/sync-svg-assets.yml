@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/svg-sync-list.txt"
+      - "scripts/sync-svg-assets.sh"
+      - ".github/workflows/sync-svg-assets.yml"
 
 permissions:
   contents: write
