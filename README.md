@@ -69,7 +69,7 @@ const simon = {
     </td>
     <td width="50%">
       <h3>
-        <a href="https://github.com/Simon-He95/transformToUnocss">transformToUnoCSS</a>
+        <a href="https://github.com/Simon-He95/transformToUnoCSS">transformToUnoCSS</a>
       </h3>
       <p>
         Convert traditional CSS into UnoCSS utilities.
@@ -77,8 +77,8 @@ const simon = {
         into atomic CSS workflows.
       </p>
       <p>
-        <a href="https://github.com/Simon-He95/transformToUnocss">
-          <img src="https://img.shields.io/github/stars/Simon-He95/transformToUnocss?style=flat&label=stars&color=ffb86c" />
+        <a href="https://github.com/Simon-He95/transformToUnoCSS">
+          <img src="https://img.shields.io/github/stars/Simon-He95/transformToUnoCSS?style=flat&label=stars&color=ffb86c" />
         </a>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white" />
@@ -88,15 +88,15 @@ const simon = {
   <tr>
     <td width="50%">
       <h3>
-        <a href="https://github.com/Simon-He95/vscode-common-intellisense">vscode-common-intellisense</a>
+        <a href="https://github.com/Simon-He95/common-intellisense">common-intellisense</a>
       </h3>
       <p>
         Universal component IntelliSense for multiple UI libraries.
         It provides smart completion for props, events, slots, types, and instance methods.
       </p>
       <p>
-        <a href="https://github.com/Simon-He95/vscode-common-intellisense">
-          <img src="https://img.shields.io/github/stars/Simon-He95/vscode-common-intellisense?style=flat&label=stars&color=ffb86c" />
+        <a href="https://github.com/Simon-He95/common-intellisense">
+          <img src="https://img.shields.io/github/stars/Simon-He95/common-intellisense?style=flat&label=stars&color=ffb86c" />
         </a>
         <a href="https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense">
           <img src="https://img.shields.io/badge/VSCode-Marketplace-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
