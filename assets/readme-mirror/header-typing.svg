@@ -1,51 +1,23 @@
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg'
-    xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 400 50'
-    style='background-color: #00000000;'
-    width='400px' height='50px'>
-
-    
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d2.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#244DF7A9' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            Welcome to my GitHub 👋
-        </textPath>
-    </text>
-        <path id='path1'>
-                            <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#244DF7A9' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-            Full Stack Developer
-        </textPath>
-    </text>
-        <path id='path2'>
-                            <!-- Single line -->
-                                <animate id='d2' attributeName='d' begin='d1.end'
-                    dur='5000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"monospace", monospace' fill='#244DF7A9' font-size='20'
-        dominant-baseline='auto'
-        x='0%' text-anchor='start'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path2'>
-            Open Source Enthusiast
-        </textPath>
-    </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">Simon He</title>
+  <desc id="desc">cooking for DX | Create for laziness, peace and love</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="52%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="18" fill="url(#bg)"/>
+  <path d="M0 154 C110 122 195 190 315 154 C438 117 510 84 650 127 C760 160 820 127 900 102 L900 220 L0 220 Z" fill="url(#accent)" opacity="0.22"/>
+  <path d="M0 184 C120 144 208 211 336 172 C452 137 526 111 652 147 C766 180 824 151 900 130 L900 220 L0 220 Z" fill="url(#accent)" opacity="0.34"/>
+  <rect x="24" y="24" width="852" height="172" rx="14" fill="none" stroke="#334155" stroke-width="1"/>
+  <text x="450" y="92" text-anchor="middle" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Simon He</text>
+  <text x="450" y="132" text-anchor="middle" fill="#93c5fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">cooking for DX</text>
+  <text x="450" y="162" text-anchor="middle" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Create for laziness, peace &amp; love</text>
 </svg>

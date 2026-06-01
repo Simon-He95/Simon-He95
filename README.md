@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Simon%20He&fontSize=56&fontAlignY=38&desc=cooking%20for%20DX%20%C2%B7%20Create%20for%20laziness%2C%20peace%20%26%20love&descAlignY=58&animation=fadeIn" alt="Simon He" />
+<img src="./assets/readme-mirror/header-typing.svg" alt="Simon He" width="900" />
 
 <p>
   <a href="https://www.simonhe.me">
