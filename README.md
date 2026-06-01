@@ -1,96 +1,208 @@
-<h1 align="center">
-  <a href="https://www.simonhe.me/">
-    <img src="./assets/readme-mirror/header-typing.svg" alt="Simon He" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Simon%20He&fontSize=56&fontAlignY=38&desc=cooking%20for%20DX%20%C2%B7%20Create%20for%20laziness%2C%20peace%20%26%20love&descAlignY=58&animation=fadeIn" alt="Simon He" />
+
+<p>
+  <a href="https://www.simonhe.me">
+    <img src="https://img.shields.io/badge/Website-simonhe.me-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-</h1>
-
-<div align="center">
-  <a href="https://simonhe.me/"><img src="https://img.shields.io/badge/Website-simonhe.me-4285f4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://twitter.com/simon_he1995"><img src="https://img.shields.io/badge/Twitter-@simon__he1995-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/413596956"><img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/~simon_he"><img src="https://img.shields.io/badge/NPM-simon__he-cb3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-  <img src="./assets/readme-mirror/visitor-count.svg" alt="Visitor Count" />
-</div>
-
----
-
-## About Me
-
-Frontend engineer focused on tooling, automation, and developer experience.
-
-- Build practical open-source tools for real workflows
-- Improve DX and performance in frontend projects
-- Keep things simple, maintainable, and fast
-
----
-
-## Open Source Projects
-
-### Tools & Utilities
-- [`lazy-js-utils`](https://github.com/Simon-He95/lazy-js-utils): JavaScript/TypeScript utility toolkit.
-- [`unot`](https://github.com/Simon-He95/unot): UnoCSS toolkit for improved workflow.
-
-### VSCode Extensions
-- [`vscode-common-intellisense`](https://github.com/Simon-He95/vscode-common-intellisense): universal component IntelliSense.
-- [`vscode-tailwind-magic`](https://github.com/Simon-He95/vscode-tailwind-magic): TailwindCSS productivity extension.
-- [`markstream-vue`](https://github.com/Simon-He95/markstream-vue): dynamic Vue component metadata support.
-
-### Web Applications
-- [`simon.me`](https://github.com/Simon-He95/simon.me): personal blog and content platform.
-- [`browser-compress-image`](https://github.com/Simon-He95/browser-compress-image): browser-side image compression.
-- [`transformToUnocss`](https://github.com/Simon-He95/transformToUnocss): convert traditional CSS to UnoCSS utilities.
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="./assets/readme-mirror/stats-streak.svg" width="49%" alt="streak" />
-  <img src="./github-metrics/base.svg" width="49%" alt="base metrics" />
-  <img src="./github-metrics/languages.indepth.svg" width="49%" alt="language metrics" />
-  <img src="./github-metrics/achievements.compact.svg" width="49%" alt="achievements" />
-</div>
-
----
-
-## Activity
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt="3d contribution" />
-  <img src="./profile-snake-contrib/github-contribution-grid-snake.svg" width="100%" alt="snake animation" />
-  <img src="./assets/readme-mirror/activity-graph.svg" width="100%" alt="activity graph" />
-</div>
-
----
-
-## Coding Time
-
-<div align="center">
-  <img src="./assets/readme-mirror/wakatime-time.svg" width="49%" alt="wakatime time" />
-  <img src="./assets/readme-mirror/wakatime-languages.svg" width="49%" alt="wakatime languages" />
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arc-FCBF49?style=for-the-badge&logo=arc&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</div>
-
----
-
-## Support
-
-<div align="center">
-  <a href="https://github.com/Simon-He95/sponsor">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <a href="https://twitter.com/simon_he1995">
+    <img src="https://img.shields.io/badge/X-@simon_he1995-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <br /><br />
-  <img src="./assets/readme-mirror/sponsors-circle.svg" width="60%" alt="sponsors" />
+  <a href="https://juejin.cn/user/4319334608151533">
+    <img src="https://img.shields.io/badge/Juejin-掘金-1E80FF?style=for-the-badge" alt="Juejin" />
+  </a>
+  <a href="https://discord.gg/x3MSjy5S5G">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=680&lines=Frontend+Engineer+focused+on+DX;Open-source+tools+for+real+workflows;Vue+%C2%B7+TypeScript+%C2%B7+UnoCSS+%C2%B7+VSCode+Extensions;Make+things+simple%2C+maintainable%2C+and+fast" alt="Typing SVG" />
+</p>
+
+</div>
+
+---
+
+## 👋 About
+
+I’m **Simon He**, a frontend engineer focused on **tooling, automation, and developer experience**.
+
+I build practical open-source tools for real workflows — from streaming Markdown renderers and UnoCSS utilities to VS Code extensions and browser-side productivity tools.
+
+```ts
+const simon = {
+  location: 'Shanghai',
+  focus: ['DX', 'Frontend Tooling', 'Open Source', 'Automation'],
+  stack: ['Vue', 'TypeScript', 'Vite', 'UnoCSS', 'TailwindCSS', 'VSCode Extension'],
+  principle: 'Create for laziness, peace & love ❤️',
+}
+```
+
+---
+
+## ✨ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/Simon-He95/markstream-vue">markstream-vue</a>
+      </h3>
+      <p>
+        A Vue 3 renderer built for AI-powered streaming Markdown:
+        progressive Mermaid, Monaco/Shiki code blocks, KaTeX, virtual rendering,
+        and real-time updates without jitter.
+      </p>
+      <p>
+        <a href="https://github.com/Simon-He95/markstream-vue">
+          <img src="https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat&label=stars&color=ffb86c" />
+        </a>
+        <a href="https://www.npmjs.com/package/markstream-vue">
+          <img src="https://img.shields.io/npm/v/markstream-vue?style=flat&color=a1b858" />
+        </a>
+        <a href="https://markstream-vue.simonhe.me/">
+          <img src="https://img.shields.io/badge/playground-live-34c759" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/Simon-He95/transformToUnocss">transformToUnoCSS</a>
+      </h3>
+      <p>
+        Convert traditional CSS into UnoCSS utilities.
+        Useful for migrating copied styles, design drafts, and legacy CSS snippets
+        into atomic CSS workflows.
+      </p>
+      <p>
+        <a href="https://github.com/Simon-He95/transformToUnocss">
+          <img src="https://img.shields.io/github/stars/Simon-He95/transformToUnocss?style=flat&label=stars&color=ffb86c" />
+        </a>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/Simon-He95/vscode-common-intellisense">vscode-common-intellisense</a>
+      </h3>
+      <p>
+        Universal component IntelliSense for multiple UI libraries.
+        It provides smart completion for props, events, slots, types, and instance methods.
+      </p>
+      <p>
+        <a href="https://github.com/Simon-He95/vscode-common-intellisense">
+          <img src="https://img.shields.io/github/stars/Simon-He95/vscode-common-intellisense?style=flat&label=stars&color=ffb86c" />
+        </a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense">
+          <img src="https://img.shields.io/badge/VSCode-Marketplace-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/Simon-He95/unot">unot</a>
+      </h3>
+      <p>
+        UnoCSS tools for VS Code.
+        Hover CSS hints, shortcut conversion, uno-magic syntax expansion,
+        and faster atomic CSS authoring.
+      </p>
+      <p>
+        <a href="https://github.com/Simon-He95/unot">
+          <img src="https://img.shields.io/github/stars/Simon-He95/unot?style=flat&label=stars&color=ffb86c" />
+        </a>
+        <img src="https://img.shields.io/badge/VSCode-Extension-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/UnoCSS-333333?style=flat&logo=unocss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 More Open Source
+
+| Project                                                                          | What it does                                                                      |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [`lazy-js-utils`](https://github.com/Simon-He95/lazy-js-utils)                   | JavaScript / TypeScript utility toolkit for practical browser and DOM workflows.  |
+| [`vscode-tailwind-magic`](https://github.com/Simon-He95/vscode-tailwind-magic)   | TailwindCSS productivity extension with shorthand expansion and smart conversion. |
+| [`simon.me`](https://github.com/Simon-He95/simon.me)                             | Personal blog and content platform.                                               |
+| [`browser-compress-image`](https://github.com/Simon-He95/browser-compress-image) | Browser-side image compression experiment. Archived, kept for reference.          |
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vue,ts,js,react,vite,nodejs,tailwind,vscode,github,git,pnpm,netlify" alt="Tech Stack" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/UnoCSS-111827?style=flat-square&logo=unocss&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode_Extension-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/Open_Source-111827?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Simon-He95&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simon-He95&theme=github_dark" alt="Profile Details" />
+
+</div>
+
+<details>
+<summary>More activity graphs</summary>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Simon-He95&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simon-He95&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Simon-He95/Simon-He95/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
+
+</div>
+
+</details>
+
+---
+
+## ☕ Support
+
+If my projects help your workflow, a star, issue, PR, feedback, or sponsorship all means a lot.
+
+<div align="center">
+
+<a href="https://github.com/Simon-He95/sponsor">
+  <img src="https://img.shields.io/badge/Sponsor-Support%20Open%20Source-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Simon-He95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
