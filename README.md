@@ -1,24 +1,39 @@
 <div align="center">
 
-<img src="./assets/readme-mirror/header-typing.svg" alt="Simon He" width="900" />
+<a href="https://www.simonhe.me">
+  <img src="https://github.com/Simon-He95.png" width="120" alt="Simon He avatar" />
+</a>
+
+<h1>Hi, I'm Simon He 👋</h1>
 
 <p>
-  <a href="https://www.simonhe.me">
-    <img src="https://img.shields.io/badge/Website-simonhe.me-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://twitter.com/simon_he1995">
-    <img src="https://img.shields.io/badge/X-@simon_he1995-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://juejin.cn/user/4319334608151533">
-    <img src="https://img.shields.io/badge/Juejin-掘金-1E80FF?style=for-the-badge" alt="Juejin" />
-  </a>
-  <a href="https://discord.gg/x3MSjy5S5G">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <strong>Frontend engineer cooking for DX</strong>
+  <br />
+  <sub>Create for laziness, peace & love ❤️</sub>
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=680&lines=Frontend+Engineer+focused+on+DX;Open-source+tools+for+real+workflows;Vue+%C2%B7+TypeScript+%C2%B7+UnoCSS+%C2%B7+VSCode+Extensions;Make+things+simple%2C+maintainable%2C+and+fast" alt="Typing SVG" />
+  <code>Vue</code> ·
+  <code>TypeScript</code> ·
+  <code>Vite</code> ·
+  <code>UnoCSS</code> ·
+  <code>VSCode Extensions</code> ·
+  <code>Open Source</code>
+</p>
+
+<p>
+  <a href="https://www.simonhe.me">
+    <img src="https://img.shields.io/badge/Website-simonhe.me-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/simon_he1995">
+    <img src="https://img.shields.io/badge/X-@simon_he1995-111827?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://juejin.cn/user/4319334608151533">
+    <img src="https://img.shields.io/badge/Juejin-掘金-1E80FF?style=flat-square" alt="Juejin" />
+  </a>
+  <a href="https://discord.gg/x3MSjy5S5G">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 </div>
