@@ -160,8 +160,8 @@ const simon = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Simon-He95&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-He95&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages" />
+<img src="./github-metrics/base.svg" width="49%" alt="GitHub Metrics" />
+<img src="./github-metrics/languages.indepth.svg" width="49%" alt="Language Metrics" />
 
 <br />
 
