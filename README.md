@@ -135,7 +135,7 @@ const simon = {
 If my projects help your workflow, a star, issue, PR, feedback, or sponsorship means a lot.
 
 <div align="center">
-  <a href="https://github.com/sponsors/Simon-He95"><img src="https://img.shields.io/badge/Sponsor-30363d?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor" /></a>
+  <a href="https://github.com/Simon-He95/sponsor"><img src="https://img.shields.io/badge/Sponsor-30363d?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="Sponsor" /></a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=Simon-He95&style=flat-square&color=1f6feb" alt="Profile views" />
 </div>
