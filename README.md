@@ -109,6 +109,8 @@ const simon = {
 ## 📊 GitHub Overview
 
 <div align="center">
+  <a href="https://trendshift.io/developers/2777?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-2777" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/2777" alt="Simon-He95 | Trendshift" width="250" height="55" /></a>
+  <br /><br />
   <img src="./github-metrics/base.svg" alt="GitHub base metrics" width="49%" />
   <img src="./github-metrics/languages.indepth.svg" alt="Language metrics" width="49%" />
 </div>
