@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 25.9mb of code in 17984 edited files across 1707 commits</small>
+                <small>estimation from 25.9mb of code in 17988 edited files across 1708 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.844798318584" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="400.844798318584" y="0" width="39.318639016218555" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="440.16343733480255" y="0" width="19.836562665197448" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.83249383381457" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="400.83249383381457" y="0" width="39.317432076283296" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="440.14992591009786" y="0" width="19.850074089902126" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -48,7 +48,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>4.39k lines</div>
+                                <div>4.40k lines</div>
                                 <div>108 kB</div>
                             </small>
                         </div>
