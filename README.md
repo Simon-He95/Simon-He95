@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.simonhe.me">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Simon%20He&fontAlign=50&fontAlignY=38&desc=Frontend%20Tooling%20%7C%20DX%20%7C%20Open%20Source&descAlign=50&descAlignY=58&animation=fadeIn" alt="Simon He" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Simon%20He&fontAlign=50&fontAlignY=38&desc=Agent%20Harness%20%7C%20TUI%20%7C%20Electron%20%7C%20DX&descAlign=50&descAlignY=58&animation=fadeIn" alt="Simon He" />
   </a>
 
   <p>
@@ -11,11 +11,11 @@
     <a href="https://discord.gg/x3MSjy5S5G"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 
-  <h3>Frontend engineer cooking for DX</h3>
+  <h3>Agent &amp; frontend engineer cooking for DX</h3>
   <p><em>Create for laziness, peace & love ❤️</em></p>
 
   <p>
-    <code>Vue</code> · <code>TypeScript</code> · <code>Vite</code> · <code>UnoCSS</code> · <code>VS Code Extensions</code> · <code>Automation</code>
+    <code>Agent Harness</code> · <code>TUI</code> · <code>Electron</code> · <code>Vue</code> · <code>TypeScript</code> · <code>Streaming Markdown</code> · <code>DX</code>
   </p>
 </div>
 
@@ -23,20 +23,20 @@
 
 ## 👋 About
 
-I’m **Simon He**, a frontend engineer based in Shanghai. I build practical open-source tools for real workflows — from AI-friendly streaming Markdown renderers and UnoCSS utilities to VS Code extensions and browser-side productivity tools.
+I’m **Simon He**, an engineer based in Shanghai. I build agent infrastructure and developer tooling for real workflows — from AI agent harnesses and terminal UIs to Electron desktop apps and AI-friendly streaming Markdown renderers.
 
 ```ts
 const simon = {
   location: 'Shanghai',
-  focus: ['DX', 'Frontend Tooling', 'Open Source', 'Automation'],
-  stack: ['Vue', 'TypeScript', 'Vite', 'UnoCSS', 'TailwindCSS', 'VS Code'],
+  focus: ['Agent Harness', 'TUI', 'Electron', 'Streaming UI', 'DX'],
+  stack: ['TypeScript', 'Vue', 'Electron', 'Node.js', 'Vite', 'UnoCSS'],
   principle: 'Create for laziness, peace & love ❤️',
 }
 ```
 
 <table>
   <tr>
-    <td width="33%"><b>⚡ DX first</b><br /><sub>Make daily frontend work faster and calmer.</sub></td>
+    <td width="33%"><b>⚡ DX first</b><br /><sub>Build tools that make daily work faster and calmer.</sub></td>
     <td width="33%"><b>🧰 Tooling driven</b><br /><sub>Ship small, composable tools for real workflows.</sub></td>
     <td width="33%"><b>🌱 Open source</b><br /><sub>Build in public, learn from users, iterate quickly.</sub></td>
   </tr>
@@ -49,40 +49,41 @@ const simon = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Simon-He95/best-agent">best-agent</a></h3>
+      <p>A TypeScript agent harness: AgentKernel, EffectRunner, model bindings (OpenAI / Anthropic / Google), subagents, workflows, interactive TUI chat, and an ACP-compatible server.</p>
+      <p>
+        <a href="https://github.com/Simon-He95/best-agent"><img src="https://img.shields.io/github/stars/Simon-He95/best-agent?style=social" alt="stars" /></a>
+      </p>
+      <p><code>Agent Harness</code> <code>TypeScript</code> <code>LLM</code> <code>TUI</code> <code>ACP</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Simon-He95/markstream-vue">markstream-vue</a></h3>
-      <p>A Vue 3 renderer built for AI-powered streaming Markdown: progressive Mermaid, Monaco/Shiki code blocks, KaTeX, virtual rendering, and real-time updates without jitter.</p>
+      <p>Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular — progressive Mermaid, Monaco/Shiki code blocks, KaTeX, and low-jitter real-time updates.</p>
       <p>
         <a href="https://github.com/Simon-He95/markstream-vue"><img src="https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social" alt="stars" /></a>
         <a href="https://www.npmjs.com/package/markstream-vue"><img src="https://img.shields.io/npm/v/markstream-vue?style=flat-square&logo=npm" alt="npm" /></a>
       </p>
-      <p><code>Vue 3</code> <code>AI UI</code> <code>Markdown</code> <code>Mermaid</code> <code>KaTeX</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/common-intellisense">common-intellisense</a></h3>
-      <p>Universal component IntelliSense for multiple UI libraries. It provides smart completion for props, events, slots, types, and instance methods.</p>
-      <p>
-        <a href="https://github.com/Simon-He95/common-intellisense"><img src="https://img.shields.io/github/stars/Simon-He95/common-intellisense?style=social" alt="stars" /></a>
-        <a href="https://marketplace.visualstudio.com/items?itemName=simonhe.common-intellisense"><img src="https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code Marketplace" /></a>
-      </p>
-      <p><code>VS Code</code> <code>IntelliSense</code> <code>UI Libraries</code> <code>DX</code></p>
+      <p><code>Vue 3</code> <code>React</code> <code>Svelte</code> <code>Angular</code> <code>AI UI</code> <code>Markdown</code> <code>Mermaid</code> <code>KaTeX</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/transformToUnoCSS">transformToUnoCSS</a></h3>
-      <p>Convert traditional CSS into UnoCSS utilities. Useful for migrating copied styles, design drafts, and legacy CSS snippets into atomic CSS workflows.</p>
+      <h3><a href="https://github.com/Simon-He95/vue-tui">vue-tui</a></h3>
+      <p>A Vue 3 terminal UI toolkit that renders one component model to browser DOM, CLI stdout, and headless tests — built for agent consoles, streaming markdown transcripts, log viewers, and virtual lists.</p>
       <p>
-        <a href="https://github.com/Simon-He95/transformToUnoCSS"><img src="https://img.shields.io/github/stars/Simon-He95/transformToUnoCSS?style=social" alt="stars" /></a>
+        <a href="https://github.com/Simon-He95/vue-tui"><img src="https://img.shields.io/github/stars/Simon-He95/vue-tui?style=social" alt="stars" /></a>
+        <a href="https://www.npmjs.com/package/@simon_he/vue-tui"><img src="https://img.shields.io/npm/v/@simon_he/vue-tui?style=flat-square&logo=npm" alt="npm" /></a>
       </p>
-      <p><code>UnoCSS</code> <code>CSS Transform</code> <code>Atomic CSS</code> <code>Migration</code></p>
+      <p><code>Vue 3</code> <code>TUI</code> <code>Terminal UI</code> <code>ANSI</code> <code>Agent Console</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Simon-He95/unot">unot</a></h3>
-      <p>UnoCSS tools for VS Code. Hover CSS hints, shortcut conversion, uno-magic syntax expansion, and faster atomic CSS authoring.</p>
+      <h3><a href="https://github.com/Simon-He95/pi">pi</a></h3>
+      <p>A project-aware command router for package managers, monorepos, and multi-language dev tasks. Auto-detects npm/pnpm/yarn/bun, fuzzy-runs scripts, and finds commands deep in workspaces.</p>
       <p>
-        <a href="https://github.com/Simon-He95/unot"><img src="https://img.shields.io/github/stars/Simon-He95/unot?style=social" alt="stars" /></a>
+        <a href="https://github.com/Simon-He95/pi"><img src="https://img.shields.io/github/stars/Simon-He95/pi?style=social" alt="stars" /></a>
+        <a href="https://www.npmjs.com/package/@simon_he/pi"><img src="https://img.shields.io/npm/v/@simon_he/pi?style=flat-square&logo=npm" alt="npm" /></a>
       </p>
-      <p><code>UnoCSS</code> <code>VS Code</code> <code>Productivity</code> <code>Tooling</code></p>
+      <p><code>CLI</code> <code>Command Router</code> <code>Monorepo</code> <code>Fuzzy Search</code></p>
     </td>
   </tr>
 </table>
@@ -91,17 +92,18 @@ const simon = {
 
 | Project | What it does |
 | --- | --- |
-| [`lazy-js-utils`](https://github.com/Simon-He95/lazy-js-utils) | JavaScript / TypeScript utility toolkit for practical browser and DOM workflows. |
-| [`vscode-tailwind-magic`](https://github.com/Simon-He95/vscode-tailwind-magic) | TailwindCSS productivity extension with shorthand expansion and smart conversion. |
-| [`simon.me`](https://github.com/Simon-He95/simon.me) | Personal blog and content platform. |
-| [`browser-compress-image`](https://github.com/Simon-He95/browser-compress-image) | Browser-side image compression experiment; archived and kept for reference. |
+| [`common-intellisense`](https://github.com/Simon-He95/common-intellisense) | Universal component IntelliSense for any framework — smart completion for props, events, slots, types, and methods. |
+| [`markdown-it-ts`](https://github.com/Simon-He95/markdown-it-ts) | A modern, type-safe rewrite of markdown-it in TypeScript with streaming/incremental parsing. |
+| [`stream-monaco`](https://github.com/Simon-He95/stream-monaco) | Framework-agnostic Monaco + Shiki integration optimized for streaming updates. |
+| [`ccommand`](https://github.com/Simon-He95/ccommand) | Lazy man commands — efficient CLI with a built-in fuzzy-search picker. |
+| [`transformToUnoCSS`](https://github.com/Simon-He95/transformToUnoCSS) | Convert traditional CSS into UnoCSS utilities for atomic CSS workflows. |
 
 ---
 
 ## 🧩 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,pnpm,vscode,tailwind,html,css,githubactions,md&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,pnpm,vscode,tailwind,electron,html,css,githubactions,md&perline=12" alt="Tech stack" />
 </div>
 
 ---
