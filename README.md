@@ -81,6 +81,7 @@ const simon = {
       <p>UnoCSS tools for VS Code. Hover CSS hints, shortcut conversion, uno-magic syntax expansion, and faster atomic CSS authoring.</p>
       <p>
         <a href="https://github.com/Simon-He95/unot"><img src="https://img.shields.io/github/stars/Simon-He95/unot?style=social" alt="stars" /></a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=simonhe.unot"><img src="https://img.shields.io/badge/VS%20Code-Marketplace-007ACC?style=flat-square&logo=visualstudiocode" alt="VS Code Marketplace" /></a>
       </p>
       <p><code>UnoCSS</code> <code>VS Code</code> <code>Productivity</code> <code>Tooling</code></p>
     </td>
